@@ -3,8 +3,8 @@
 # Difficulty: Easy
 # Tags     : Two Pointers, String, Dynamic Programming
 # Link     : https://leetcode.com/problems/is-subsequence/
-# Runtime  : 0 ms (beats 100%)
-# Memory   : 12548000 (beats 19%)
+# Runtime  : 1 ms (beats 59%)
+# Memory   : 12328000 (beats 78%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
