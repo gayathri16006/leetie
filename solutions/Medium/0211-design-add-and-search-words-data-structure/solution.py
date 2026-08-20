@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : String, Depth-First Search, Design, Trie
 # Link     : https://leetcode.com/problems/design-add-and-search-words-data-structure/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12452000 (beats 0%)
+# Runtime  : 2887 ms (beats 29%)
+# Memory   : 117068000 (beats 52%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
