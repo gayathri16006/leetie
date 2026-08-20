@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Sorting, Counting Sort
 # Link     : https://leetcode.com/problems/h-index/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12432000 (beats 0%)
+# Runtime  : 4 ms (beats 21%)
+# Memory   : 12504000 (beats 77%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
