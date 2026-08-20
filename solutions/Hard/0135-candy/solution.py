@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : Array, Greedy
 # Link     : https://leetcode.com/problems/candy/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12404000 (beats 0%)
+# Runtime  : 80 ms (beats 5%)
+# Memory   : 17776000 (beats 8%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
