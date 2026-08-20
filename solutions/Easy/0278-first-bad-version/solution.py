@@ -3,8 +3,8 @@
 # Difficulty: Easy
 # Tags     : Binary Search, Interactive
 # Link     : https://leetcode.com/problems/first-bad-version/
-# Runtime  : 8 ms (beats 92%)
-# Memory   : 12244000 (beats 88%)
+# Runtime  : 14 ms (beats 0%)
+# Memory   : 12196000 (beats 0%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
@@ -27,12 +27,9 @@ class Solution(object):
 
     while left < right:
       mid = left + (right - left) // 2
-
       if isBadVersion(mid):
-        # The first bad version is at `mid` or to the left
         right = mid
       else:
-        # The first bad version must be to the right of `mid`
         left = mid + 1
 
     return left
