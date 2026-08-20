@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Dynamic Programming
 # Link     : https://leetcode.com/problems/house-robber/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12336000 (beats 0%)
+# Runtime  : 0 ms (beats 100%)
+# Memory   : 12204000 (beats 91%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
