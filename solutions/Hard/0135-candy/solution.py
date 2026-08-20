@@ -4,7 +4,7 @@
 # Tags     : Array, Greedy
 # Link     : https://leetcode.com/problems/candy/
 # Runtime  : 0 ms (beats 0%)
-# Memory   : 12256000 (beats 0%)
+# Memory   : 12404000 (beats 0%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
