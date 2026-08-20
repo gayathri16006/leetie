@@ -3,8 +3,8 @@
 # Difficulty: Easy
 # Tags     : Binary Search, Interactive
 # Link     : https://leetcode.com/problems/first-bad-version/
-# Runtime  : 14 ms (beats 0%)
-# Memory   : 12196000 (beats 0%)
+# Runtime  : 11 ms (beats 85%)
+# Memory   : 12160000 (beats 99%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
