@@ -2,10 +2,11 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 18 Solved
+## Progress Summary: 19 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
+| count-of-smaller-numbers-after-self | Count of Smaller Numbers After Self | Hard | python | [Problem](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [Solution](./solutions/Hard/0315-count-of-smaller-numbers-after-self/solution.py) |
 | serialize-and-deserialize-binary-tree | Serialize and Deserialize Binary Tree | Hard | python | [Problem](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Solution](./solutions/Hard/0297-serialize-and-deserialize-binary-tree/solution.py) |
 | two-sum | 1. Two Sum | Easy | java | [Problem](https://leetcode.com/problems/two-sum/) | [Solution](./solutions/Easy/0001-two-sum/solution.java) |
 | gas-station | 134. Gas Station | Medium | python3 | [Problem](https://leetcode.com/problems/gas-station/) | [Solution](./solutions/Medium/0134-gas-station/solution.py) |
