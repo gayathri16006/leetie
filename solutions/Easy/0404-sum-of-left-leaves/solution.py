@@ -3,8 +3,8 @@
 # Difficulty: Easy
 # Tags     : Tree, Depth-First Search, Breadth-First Search, Binary Tree
 # Link     : https://leetcode.com/problems/sum-of-left-leaves/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12200000 (beats 0%)
+# Runtime  : 0 ms (beats 100%)
+# Memory   : 13236000 (beats 23%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
