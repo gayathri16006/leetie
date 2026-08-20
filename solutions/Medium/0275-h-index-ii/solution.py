@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Binary Search
 # Link     : https://leetcode.com/problems/h-index-ii/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12328000 (beats 0%)
+# Runtime  : 0 ms (beats 100%)
+# Memory   : 15048000 (beats 20%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
