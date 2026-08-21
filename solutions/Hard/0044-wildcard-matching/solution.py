@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : String, Dynamic Programming, Greedy, Recursion
 # Link     : https://leetcode.com/problems/wildcard-matching/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12276000 (beats 0%)
+# Runtime  : 8 ms (beats 84%)
+# Memory   : 12376000 (beats 79%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
