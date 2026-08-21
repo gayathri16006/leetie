@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : Array, Dynamic Programming
 # Link     : https://leetcode.com/problems/frog-jump/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12276000 (beats 0%)
+# Runtime  : 135 ms (beats 51%)
+# Memory   : 13884000 (beats 96%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
