@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Dynamic Programming, Knapsack Problem, 0-1 Knapsack
 # Link     : https://leetcode.com/problems/partition-equal-subset-sum/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12252000 (beats 0%)
+# Runtime  : 391 ms (beats 90%)
+# Memory   : 12924000 (beats 53%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
