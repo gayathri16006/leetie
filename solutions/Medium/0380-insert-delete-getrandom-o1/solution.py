@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Hash Table, Math, Design, Randomized
 # Link     : https://leetcode.com/problems/insert-delete-getrandom-o1/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12280000 (beats 0%)
+# Runtime  : 151 ms (beats 96%)
+# Memory   : 55492000 (beats 43%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
