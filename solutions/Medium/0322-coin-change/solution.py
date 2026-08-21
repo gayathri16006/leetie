@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Dynamic Programming, Breadth-First Search, Knapsack Problem, Complete Knapsack
 # Link     : https://leetcode.com/problems/coin-change/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12416000 (beats 0%)
+# Runtime  : 908 ms (beats 40%)
+# Memory   : 12980000 (beats 63%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
