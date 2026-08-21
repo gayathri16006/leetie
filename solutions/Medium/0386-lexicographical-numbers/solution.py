@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Depth-First Search, Trie
 # Link     : https://leetcode.com/problems/lexicographical-numbers/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12432000 (beats 0%)
+# Runtime  : 13 ms (beats 74%)
+# Memory   : 19320000 (beats 62%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
