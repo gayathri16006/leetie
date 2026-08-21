@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : Array, Sliding Window, Sorting, Bucket Sort, Ordered Set
 # Link     : https://leetcode.com/problems/contains-duplicate-iii/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12248000 (beats 0%)
+# Runtime  : 127 ms (beats 53%)
+# Memory   : 25052000 (beats 83%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
