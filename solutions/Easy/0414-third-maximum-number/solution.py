@@ -3,8 +3,8 @@
 # Difficulty: Easy
 # Tags     : Array, Sorting
 # Link     : https://leetcode.com/problems/third-maximum-number/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12304000 (beats 0%)
+# Runtime  : 0 ms (beats 100%)
+# Memory   : 12708000 (beats 94%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
