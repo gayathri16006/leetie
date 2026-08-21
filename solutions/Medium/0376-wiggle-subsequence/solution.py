@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Dynamic Programming, Greedy
 # Link     : https://leetcode.com/problems/wiggle-subsequence/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12428000 (beats 0%)
+# Runtime  : 0 ms (beats 100%)
+# Memory   : 12332000 (beats 69%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
