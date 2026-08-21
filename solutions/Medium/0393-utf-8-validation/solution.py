@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Bit Manipulation
 # Link     : https://leetcode.com/problems/utf-8-validation/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12288000 (beats 0%)
+# Runtime  : 0 ms (beats 100%)
+# Memory   : 12636000 (beats 38%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
