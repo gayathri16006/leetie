@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : Array, String, Depth-First Search, Graph Theory, Sorting, Heap (Priority Queue), Eulerian Circuit, Eulerian Path, Semi-Eulerian Graph
 # Link     : https://leetcode.com/problems/reconstruct-itinerary/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12468000 (beats 0%)
+# Runtime  : 9 ms (beats 16%)
+# Memory   : 13152000 (beats 25%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
