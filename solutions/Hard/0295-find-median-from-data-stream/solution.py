@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream
 # Link     : https://leetcode.com/problems/find-median-from-data-stream/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12388000 (beats 0%)
+# Runtime  : 721 ms (beats 62%)
+# Memory   : 35804000 (beats 25%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
