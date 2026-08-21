@@ -2,13 +2,14 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 33 Solved
+## Progress Summary: 34 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
+| elimination-game | Elimination Game | Medium | python | [Problem](https://leetcode.com/problems/elimination-game/) | [Solution](./solutions/Medium/0390-elimination-game/solution.py) |
+| gas-station | 134. Gas Station | Medium | python3 | [Problem](https://leetcode.com/problems/gas-station/) | [Solution](./solutions/Medium/0134-gas-station/solution.py) |
 | longest-absolute-file-path | Longest Absolute File Path | Medium | python | [Problem](https://leetcode.com/problems/longest-absolute-file-path/) | [Solution](./solutions/Medium/0388-longest-absolute-file-path/solution.py) |
 | two-sum | 1. Two Sum | Easy | java | [Problem](https://leetcode.com/problems/two-sum/) | [Solution](./solutions/Easy/0001-two-sum/solution.java) |
-| gas-station | 134. Gas Station | Medium | python3 | [Problem](https://leetcode.com/problems/gas-station/) | [Solution](./solutions/Medium/0134-gas-station/solution.py) |
 | candy | 135. Candy | Hard | python3 | [Problem](https://leetcode.com/problems/candy/) | [Solution](./solutions/Hard/0135-candy/solution.py) |
 | fraction-to-recurring-decimal | 166. Fraction To Recurring Decimal | Medium | python3 | [Problem](https://leetcode.com/problems/fraction-to-recurring-decimal/) | [Solution](./solutions/Medium/0166-fraction-to-recurring-decimal/solution.py) |
 | house-robber | 198. House Robber | Medium | python3 | [Problem](https://leetcode.com/problems/house-robber/) | [Solution](./solutions/Medium/0198-house-robber/solution.py) |
