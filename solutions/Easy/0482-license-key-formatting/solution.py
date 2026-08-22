@@ -3,8 +3,8 @@
 # Difficulty: Easy
 # Tags     : String
 # Link     : https://leetcode.com/problems/license-key-formatting/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12460000 (beats 0%)
+# Runtime  : 2 ms (beats 99%)
+# Memory   : 13680000 (beats 73%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
