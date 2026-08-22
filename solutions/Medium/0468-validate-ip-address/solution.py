@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : String
 # Link     : https://leetcode.com/problems/validate-ip-address/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12468000 (beats 0%)
+# Runtime  : 0 ms (beats 100%)
+# Memory   : 12380000 (beats 67%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
