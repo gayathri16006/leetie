@@ -3,8 +3,8 @@
 # Difficulty: Easy
 # Tags     : Array, Two Pointers, Greedy, Sorting, Quicksort
 # Link     : https://leetcode.com/problems/assign-cookies/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12228000 (beats 0%)
+# Runtime  : 39 ms (beats 16%)
+# Memory   : 14040000 (beats 51%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
