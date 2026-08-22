@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Hash Table, Backtracking, Bit Manipulation
 # Link     : https://leetcode.com/problems/non-decreasing-subsequences/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12448000 (beats 0%)
+# Runtime  : 32 ms (beats 53%)
+# Memory   : 28148000 (beats 28%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
