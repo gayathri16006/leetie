@@ -3,8 +3,8 @@
 # Difficulty: Easy
 # Tags     : Tree, Depth-First Search, Binary Search Tree, Binary Tree
 # Link     : https://leetcode.com/problems/find-mode-in-binary-search-tree/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12388000 (beats 0%)
+# Runtime  : 6 ms (beats 89%)
+# Memory   : 20172000 (beats 89%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
