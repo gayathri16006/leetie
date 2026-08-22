@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : Array, Hash Table, Sliding Window, Heap (Priority Queue), Treap
 # Link     : https://leetcode.com/problems/sliding-window-median/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12548000 (beats 0%)
+# Runtime  : 475 ms (beats 38%)
+# Memory   : 22488000 (beats 83%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
