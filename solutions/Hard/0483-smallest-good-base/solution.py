@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : Math, Binary Search
 # Link     : https://leetcode.com/problems/smallest-good-base/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12384000 (beats 0%)
+# Runtime  : 4 ms (beats 84%)
+# Memory   : 12308000 (beats 56%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
