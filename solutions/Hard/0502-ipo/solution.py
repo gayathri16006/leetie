@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : Array, Greedy, Sorting, Heap (Priority Queue)
 # Link     : https://leetcode.com/problems/ipo/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12168000 (beats 0%)
+# Runtime  : 896 ms (beats 77%)
+# Memory   : 36280000 (beats 48%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
