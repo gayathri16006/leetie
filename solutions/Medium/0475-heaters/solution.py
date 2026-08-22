@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Two Pointers, Binary Search, Sorting
 # Link     : https://leetcode.com/problems/heaters/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12208000 (beats 0%)
+# Runtime  : 48 ms (beats 73%)
+# Memory   : 14228000 (beats 88%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
