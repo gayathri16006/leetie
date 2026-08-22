@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask
 # Link     : https://leetcode.com/problems/matchsticks-to-square/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12468000 (beats 0%)
+# Runtime  : 287 ms (beats 71%)
+# Memory   : 12336000 (beats 64%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
