@@ -3,8 +3,8 @@
 # Difficulty: Easy
 # Tags     : Array
 # Link     : https://leetcode.com/problems/max-consecutive-ones/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12224000 (beats 0%)
+# Runtime  : 27 ms (beats 56%)
+# Memory   : 13408000 (beats 77%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
