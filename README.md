@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 91 Solved
+## Progress Summary: 92 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -97,3 +97,4 @@
 | construct-the-rectangle | 492. Construct The Rectangle | Easy | python3 | [Problem](https://leetcode.com/problems/construct-the-rectangle/) | [Solution](./solutions/Easy/0492-construct-the-rectangle/solution.py) |
 | next-greater-element-i | 496. Next Greater Element I | Easy | python3 | [Problem](https://leetcode.com/problems/next-greater-element-i/) | [Solution](./solutions/Easy/0496-next-greater-element-i/solution.py) |
 | distribute-elements-into-two-arrays-i | 3069. Distribute Elements Into Two Arrays I | Easy | java | [Problem](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) | [Solution](./solutions/Easy/3069-distribute-elements-into-two-arrays-i/solution.java) |
+| zuma-game | Zuma Game | Hard | python | [Problem](https://leetcode.com/problems/zuma-game/) | [Solution](./solutions/Hard/0488-zuma-game/solution.py) |
