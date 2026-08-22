@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Binary Search, Stack, Monotonic Stack, Ordered Set
 # Link     : https://leetcode.com/problems/132-pattern/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12472000 (beats 0%)
+# Runtime  : 73 ms (beats 99%)
+# Memory   : 24516000 (beats 86%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
