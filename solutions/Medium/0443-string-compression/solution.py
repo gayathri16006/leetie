@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Two Pointers, String
 # Link     : https://leetcode.com/problems/string-compression/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12436000 (beats 0%)
+# Runtime  : 7 ms (beats 12%)
+# Memory   : 12576000 (beats 16%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
