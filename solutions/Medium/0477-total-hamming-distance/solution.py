@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Math, Bit Manipulation
 # Link     : https://leetcode.com/problems/total-hamming-distance/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12320000 (beats 0%)
+# Runtime  : 156 ms (beats 64%)
+# Memory   : 13220000 (beats 86%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
