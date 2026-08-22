@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, String, Dynamic Programming, Knapsack Problem, 0-1 Knapsack
 # Link     : https://leetcode.com/problems/ones-and-zeroes/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12368000 (beats 0%)
+# Runtime  : 1856 ms (beats 75%)
+# Memory   : 12576000 (beats 43%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
