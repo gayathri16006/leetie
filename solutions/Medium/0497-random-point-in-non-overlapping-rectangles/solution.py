@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Math, Binary Search, Reservoir Sampling, Prefix Sum, Ordered Set, Randomized
 # Link     : https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12348000 (beats 0%)
+# Runtime  : 98 ms (beats 28%)
+# Memory   : 16004000 (beats 55%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
