@@ -3,8 +3,8 @@
 # Difficulty: Easy
 # Tags     : Array, Simulation
 # Link     : https://leetcode.com/problems/teemo-attacking/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12488000 (beats 0%)
+# Runtime  : 22 ms (beats 49%)
+# Memory   : 13200000 (beats 49%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
