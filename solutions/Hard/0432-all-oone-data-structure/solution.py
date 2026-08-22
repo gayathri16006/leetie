@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : Hash Table, Linked List, Design, Doubly-Linked List
 # Link     : https://leetcode.com/problems/all-oone-data-structure/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12428000 (beats 0%)
+# Runtime  : 197 ms (beats 43%)
+# Memory   : 30260000 (beats 79%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
