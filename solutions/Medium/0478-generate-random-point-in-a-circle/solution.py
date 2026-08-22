@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Math, Geometry, Rejection Sampling, Randomized
 # Link     : https://leetcode.com/problems/generate-random-point-in-a-circle/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12556000 (beats 0%)
+# Runtime  : 38 ms (beats 52%)
+# Memory   : 22448000 (beats 24%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
