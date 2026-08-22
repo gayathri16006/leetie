@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : String
 # Link     : https://leetcode.com/problems/validate-ip-address/
-# Runtime  : 0 ms (beats 100%)
-# Memory   : 12380000 (beats 67%)
+# Runtime  : 0 ms (beats 0%)
+# Memory   : 12540000 (beats 0%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
@@ -25,12 +25,13 @@ class Solution(object):
     def _validate_ipv4(self, ip):
         chunks = ip.split('.')
         for chunk in chunks:
-            if not chunk or len(chunk) > 3:
+            # Length must be between 1 and 3, and only contain digits
+            if not chunk or len(chunk) > 3 or not chunk.isdigit():
                 return False
-            if not chunk.isdigit():
-                return False
+            # Check for leading zeros (e.g., '01', '00')
             if chunk[0] == '0' and len(chunk) > 1:
                 return False
+            # Value must be in range [0, 255]
             if not (0 <= int(chunk) <= 255):
                 return False
         return True
@@ -39,6 +40,7 @@ class Solution(object):
         chunks = ip.split(':')
         hex_digits = set("0123456789abcdefABCDEF")
         for chunk in chunks:
+            # Length must be between 1 and 4, only hex characters
             if not chunk or len(chunk) > 4:
                 return False
             if not all(c in hex_digits for c in chunk):
