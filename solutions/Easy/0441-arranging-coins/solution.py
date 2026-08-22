@@ -3,8 +3,8 @@
 # Difficulty: Easy
 # Tags     : Math, Binary Search
 # Link     : https://leetcode.com/problems/arranging-coins/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12304000 (beats 0%)
+# Runtime  : 3 ms (beats 67%)
+# Memory   : 12448000 (beats 18%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
