@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Dynamic Programming, Backtracking, Knapsack Problem, 0-1 Knapsack
 # Link     : https://leetcode.com/problems/target-sum/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12476000 (beats 0%)
+# Runtime  : 27 ms (beats 86%)
+# Memory   : 12436000 (beats 71%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
