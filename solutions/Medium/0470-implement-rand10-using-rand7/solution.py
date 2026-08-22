@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Math, Rejection Sampling, Randomized, Probability and Statistics
 # Link     : https://leetcode.com/problems/implement-rand10-using-rand7/
-# Runtime  : 11 ms (beats 0%)
-# Memory   : 12552000 (beats 0%)
+# Runtime  : 324 ms (beats 57%)
+# Memory   : 17544000 (beats 22%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
