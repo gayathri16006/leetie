@@ -3,8 +3,8 @@
 # Difficulty: Easy
 # Tags     : Math
 # Link     : https://leetcode.com/problems/construct-the-rectangle/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12364000 (beats 0%)
+# Runtime  : 0 ms (beats 100%)
+# Memory   : 12272000 (beats 91%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
