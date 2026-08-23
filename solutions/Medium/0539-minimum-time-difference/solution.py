@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Math, String, Sorting
 # Link     : https://leetcode.com/problems/minimum-time-difference/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12552000 (beats 0%)
+# Runtime  : 4 ms (beats 96%)
+# Memory   : 13960000 (beats 92%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
