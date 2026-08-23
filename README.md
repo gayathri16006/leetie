@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 93 Solved
+## Progress Summary: 92 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -50,7 +50,6 @@
 | n-ary-tree-level-order-traversal | 429. N Ary Tree Level Order Traversal | Medium | python3 | [Problem](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) | [Solution](./solutions/Medium/0429-n-ary-tree-level-order-traversal/solution.py) |
 | flatten-a-multilevel-doubly-linked-list | 430. Flatten A Multilevel Doubly Linked List | Medium | python3 | [Problem](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) | [Solution](./solutions/Medium/0430-flatten-a-multilevel-doubly-linked-list/solution.py) |
 | all-oone-data-structure | 432. All Oone Data Structure | Hard | python3 | [Problem](https://leetcode.com/problems/all-oone-data-structure/) | [Solution](./solutions/Hard/0432-all-oone-data-structure/solution.py) |
-| non-overlapping-intervals | 435. Non Overlapping Intervals | Medium | python3 | [Problem](https://leetcode.com/problems/non-overlapping-intervals/) | [Solution](./solutions/Medium/0435-non-overlapping-intervals/solution.py) |
 | arranging-coins | 441. Arranging Coins | Easy | python3 | [Problem](https://leetcode.com/problems/arranging-coins/) | [Solution](./solutions/Easy/0441-arranging-coins/solution.py) |
 | assign-cookies | 455. Assign Cookies | Easy | python3 | [Problem](https://leetcode.com/problems/assign-cookies/) | [Solution](./solutions/Easy/0455-assign-cookies/solution.py) |
 | complex-number-multiplication | Complex Number Multiplication | Medium | python | [Problem](https://leetcode.com/problems/complex-number-multiplication/) | [Solution](./solutions/Medium/0537-complex-number-multiplication/solution.py) |
