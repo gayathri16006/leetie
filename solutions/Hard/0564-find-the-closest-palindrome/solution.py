@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : Math, String
 # Link     : https://leetcode.com/problems/find-the-closest-palindrome/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12324000 (beats 0%)
+# Runtime  : 4 ms (beats 8%)
+# Memory   : 12484000 (beats 26%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
