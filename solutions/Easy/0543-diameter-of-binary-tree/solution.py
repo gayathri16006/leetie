@@ -3,8 +3,8 @@
 # Difficulty: Easy
 # Tags     : Tree, Depth-First Search, Binary Tree, DP on Trees
 # Link     : https://leetcode.com/problems/diameter-of-binary-tree/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12548000 (beats 0%)
+# Runtime  : 15 ms (beats 30%)
+# Memory   : 26552000 (beats 54%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
