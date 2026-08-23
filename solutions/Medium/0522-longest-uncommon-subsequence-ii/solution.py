@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Hash Table, Two Pointers, String, Sorting
 # Link     : https://leetcode.com/problems/longest-uncommon-subsequence-ii/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12552000 (beats 0%)
+# Runtime  : 7 ms (beats 27%)
+# Memory   : 12240000 (beats 92%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
