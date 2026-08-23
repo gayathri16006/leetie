@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Two Pointers, Binary Search, Sliding Window, Sorting, Heap (Priority Queue)
 # Link     : https://leetcode.com/problems/find-k-closest-elements/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12172000 (beats 0%)
+# Runtime  : 0 ms (beats 100%)
+# Memory   : 13460000 (beats 79%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
