@@ -3,8 +3,8 @@
 # Difficulty: Easy
 # Tags     : Two Pointers, String
 # Link     : https://leetcode.com/problems/reverse-string-ii/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12416000 (beats 0%)
+# Runtime  : 4 ms (beats 33%)
+# Memory   : 12656000 (beats 47%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
