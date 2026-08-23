@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Hash Table, Math, Prefix Sum, Pigeonhole Principle
 # Link     : https://leetcode.com/problems/continuous-subarray-sum/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12360000 (beats 0%)
+# Runtime  : 44 ms (beats 95%)
+# Memory   : 31160000 (beats 85%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
