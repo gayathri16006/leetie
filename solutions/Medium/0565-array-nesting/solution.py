@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Depth-First Search
 # Link     : https://leetcode.com/problems/array-nesting/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12440000 (beats 0%)
+# Runtime  : 71 ms (beats 67%)
+# Memory   : 20652000 (beats 84%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
