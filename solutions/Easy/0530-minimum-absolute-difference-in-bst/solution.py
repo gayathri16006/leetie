@@ -3,8 +3,8 @@
 # Difficulty: Easy
 # Tags     : Tree, Depth-First Search, Breadth-First Search, Binary Search Tree, Binary Tree
 # Link     : https://leetcode.com/problems/minimum-absolute-difference-in-bst/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12416000 (beats 0%)
+# Runtime  : 13 ms (beats 11%)
+# Memory   : 16440000 (beats 85%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
