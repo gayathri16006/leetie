@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Divide and Conquer, Stack, Tree, Monotonic Stack, Binary Tree, Cartesian Tree
 # Link     : https://leetcode.com/problems/maximum-binary-tree/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19204000 (beats 0%)
+# Runtime  : 31 ms (beats 47%)
+# Memory   : 20908000 (beats 7%)
 # Language : python3
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
