@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Hash Table, Two Pointers, Binary Search, Sorting
 # Link     : https://leetcode.com/problems/k-diff-pairs-in-an-array/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12520000 (beats 0%)
+# Runtime  : 7 ms (beats 70%)
+# Memory   : 14112000 (beats 55%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
