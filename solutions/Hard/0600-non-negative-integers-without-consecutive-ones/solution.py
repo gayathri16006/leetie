@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : Dynamic Programming
 # Link     : https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19368000 (beats 0%)
+# Runtime  : 0 ms (beats 100%)
+# Memory   : 19204000 (beats 81%)
 # Language : python3
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
