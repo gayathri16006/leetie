@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Hash Table, Prefix Sum
 # Link     : https://leetcode.com/problems/subarray-sum-equals-k/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12264000 (beats 0%)
+# Runtime  : 41 ms (beats 39%)
+# Memory   : 14584000 (beats 96%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
