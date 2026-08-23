@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Dynamic Programming, Breadth-First Search, Matrix
 # Link     : https://leetcode.com/problems/01-matrix/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12292000 (beats 0%)
+# Runtime  : 174 ms (beats 63%)
+# Memory   : 15764000 (beats 56%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
