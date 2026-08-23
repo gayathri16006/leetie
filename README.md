@@ -16,6 +16,7 @@
 | convert-bst-to-greater-tree | Convert BST to Greater Tree | Medium | python | [Problem](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [Solution](./solutions/Medium/0538-convert-bst-to-greater-tree/solution.py) |
 | delete-operation-for-two-strings | Delete Operation for Two Strings | Medium | python | [Problem](https://leetcode.com/problems/delete-operation-for-two-strings/) | [Solution](./solutions/Medium/0583-delete-operation-for-two-strings/solution.py) |
 | diameter-of-binary-tree | Diameter of Binary Tree | Easy | python | [Problem](https://leetcode.com/problems/diameter-of-binary-tree/) | [Solution](./solutions/Easy/0543-diameter-of-binary-tree/solution.py) |
+| find-duplicate-subtrees | Find Duplicate Subtrees | Medium | python3 | [Problem](https://leetcode.com/problems/find-duplicate-subtrees/) | [Solution](./solutions/Medium/0652-find-duplicate-subtrees/solution.py) |
 | find-largest-value-in-each-tree-row | Find Largest Value in Each Tree Row | Medium | python | [Problem](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | [Solution](./solutions/Medium/0515-find-largest-value-in-each-tree-row/solution.py) |
 | find-the-closest-palindrome | Find the Closest Palindrome | Hard | python | [Problem](https://leetcode.com/problems/find-the-closest-palindrome/) | [Solution](./solutions/Hard/0564-find-the-closest-palindrome/solution.py) |
 | first-bad-version | 278. First Bad Version | Easy | python3 | [Problem](https://leetcode.com/problems/first-bad-version/) | [Solution](./solutions/Easy/0278-first-bad-version/solution.py) |
@@ -75,7 +76,6 @@
 | max-consecutive-ones | 485. Max Consecutive Ones | Easy | python3 | [Problem](https://leetcode.com/problems/max-consecutive-ones/) | [Solution](./solutions/Easy/0485-max-consecutive-ones/solution.py) |
 | zuma-game | 488. Zuma Game | Hard | python3 | [Problem](https://leetcode.com/problems/zuma-game/) | [Solution](./solutions/Hard/0488-zuma-game/solution.py) |
 | construct-the-rectangle | 492. Construct The Rectangle | Easy | python3 | [Problem](https://leetcode.com/problems/construct-the-rectangle/) | [Solution](./solutions/Easy/0492-construct-the-rectangle/solution.py) |
-| reverse-pairs | 493. Reverse Pairs | Hard | python3 | [Problem](https://leetcode.com/problems/reverse-pairs/) | [Solution](./solutions/Hard/0493-reverse-pairs/solution.py) |
 | teemo-attacking | 495. Teemo Attacking | Easy | python3 | [Problem](https://leetcode.com/problems/teemo-attacking/) | [Solution](./solutions/Easy/0495-teemo-attacking/solution.py) |
 | next-greater-element-i | 496. Next Greater Element I | Easy | python3 | [Problem](https://leetcode.com/problems/next-greater-element-i/) | [Solution](./solutions/Easy/0496-next-greater-element-i/solution.py) |
 | keyboard-row | 500. Keyboard Row | Easy | python3 | [Problem](https://leetcode.com/problems/keyboard-row/) | [Solution](./solutions/Easy/0500-keyboard-row/solution.py) |
