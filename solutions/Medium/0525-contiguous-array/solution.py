@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Hash Table, Prefix Sum
 # Link     : https://leetcode.com/problems/contiguous-array/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12588000 (beats 0%)
+# Runtime  : 107 ms (beats 67%)
+# Memory   : 15820000 (beats 84%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
