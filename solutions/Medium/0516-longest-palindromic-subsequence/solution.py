@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : String, Dynamic Programming
 # Link     : https://leetcode.com/problems/longest-palindromic-subsequence/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12516000 (beats 0%)
+# Runtime  : 1121 ms (beats 59%)
+# Memory   : 27096000 (beats 73%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
