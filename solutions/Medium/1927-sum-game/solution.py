@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Math, String, Greedy, Game Theory
 # Link     : https://leetcode.com/problems/sum-game/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19348000 (beats 0%)
+# Runtime  : 36 ms (beats 96%)
+# Memory   : 19880000 (beats 65%)
 # Language : python3
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
