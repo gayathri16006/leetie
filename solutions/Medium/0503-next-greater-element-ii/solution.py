@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Stack, Monotonic Stack
 # Link     : https://leetcode.com/problems/next-greater-element-ii/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19172000 (beats 0%)
+# Runtime  : 16 ms (beats 91%)
+# Memory   : 21224000 (beats 20%)
 # Language : python3
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
