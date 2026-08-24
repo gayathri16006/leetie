@@ -3,8 +3,8 @@
 # Difficulty: Easy
 # Tags     : Array, Math, Sorting
 # Link     : https://leetcode.com/problems/maximum-product-of-three-numbers/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12448000 (beats 0%)
+# Runtime  : 35 ms (beats 25%)
+# Memory   : 13324000 (beats 9%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
