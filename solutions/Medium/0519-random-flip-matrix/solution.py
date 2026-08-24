@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Hash Table, Math, Reservoir Sampling, Randomized
 # Link     : https://leetcode.com/problems/random-flip-matrix/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12464000 (beats 0%)
+# Runtime  : 11 ms (beats 61%)
+# Memory   : 12720000 (beats 81%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
