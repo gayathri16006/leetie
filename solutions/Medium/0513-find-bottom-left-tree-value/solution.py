@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Tree, Depth-First Search, Breadth-First Search, Binary Tree
 # Link     : https://leetcode.com/problems/find-bottom-left-tree-value/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19188000 (beats 0%)
+# Runtime  : 0 ms (beats 100%)
+# Memory   : 22468000 (beats 68%)
 # Language : python3
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
