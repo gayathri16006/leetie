@@ -3,8 +3,8 @@
 # Difficulty: Easy
 # Tags     : Array, Hash Table
 # Link     : https://leetcode.com/problems/distribute-candies/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12276000 (beats 0%)
+# Runtime  : 19 ms (beats 64%)
+# Memory   : 14124000 (beats 38%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
