@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 87 Solved
+## Progress Summary: 86 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -53,7 +53,6 @@
 | lru-cache | 146. Lru Cache | Medium | python3 | [Problem](https://leetcode.com/problems/lru-cache/) | [Solution](./solutions/Medium/0146-lru-cache/solution.py) |
 | fraction-to-recurring-decimal | 166. Fraction To Recurring Decimal | Medium | python3 | [Problem](https://leetcode.com/problems/fraction-to-recurring-decimal/) | [Solution](./solutions/Medium/0166-fraction-to-recurring-decimal/solution.py) |
 | house-robber | 198. House Robber | Medium | python3 | [Problem](https://leetcode.com/problems/house-robber/) | [Solution](./solutions/Medium/0198-house-robber/solution.py) |
-| design-add-and-search-words-data-structure | 211. Design Add And Search Words Data Structure | Medium | python3 | [Problem](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | [Solution](./solutions/Medium/0211-design-add-and-search-words-data-structure/solution.py) |
 | the-skyline-problem | 218. The Skyline Problem | Hard | python3 | [Problem](https://leetcode.com/problems/the-skyline-problem/) | [Solution](./solutions/Hard/0218-the-skyline-problem/solution.py) |
 | contains-duplicate-iii | 220. Contains Duplicate Iii | Hard | python3 | [Problem](https://leetcode.com/problems/contains-duplicate-iii/) | [Solution](./solutions/Hard/0220-contains-duplicate-iii/solution.py) |
 | find-median-from-data-stream | 295. Find Median From Data Stream | Hard | python3 | [Problem](https://leetcode.com/problems/find-median-from-data-stream/) | [Solution](./solutions/Hard/0295-find-median-from-data-stream/solution.py) |
