@@ -3,8 +3,8 @@
 -- Difficulty: Medium
 -- Tags     : Database
 -- Link     : https://leetcode.com/problems/investments-in-2016/
--- Runtime  : 64 ms (beats 0%)
--- Memory   : 0B (beats 0%)
+-- Runtime  : 633 ms (beats 51%)
+-- Memory   : 0B (beats 100%)
 -- Language : mysql
 -- Copyright: (c) 2026 gayathri16006. All rights reserved.
 -- Synced by: leetie
