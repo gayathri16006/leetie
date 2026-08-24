@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Depth-First Search, Breadth-First Search, Matrix
 # Link     : https://leetcode.com/problems/minesweeper/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12256000 (beats 0%)
+# Runtime  : 7 ms (beats 88%)
+# Memory   : 16764000 (beats 59%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
