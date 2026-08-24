@@ -3,8 +3,8 @@
 # Difficulty: Easy
 # Tags     : Tree, Depth-First Search, Binary Tree, DP on Trees
 # Link     : https://leetcode.com/problems/binary-tree-tilt/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12356000 (beats 0%)
+# Runtime  : 4 ms (beats 83%)
+# Memory   : 15132000 (beats 85%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
