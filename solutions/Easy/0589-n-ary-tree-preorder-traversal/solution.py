@@ -3,8 +3,8 @@
 # Difficulty: Easy
 # Tags     : Stack, Tree, Depth-First Search
 # Link     : https://leetcode.com/problems/n-ary-tree-preorder-traversal/
-# Runtime  : 11 ms (beats 0%)
-# Memory   : 12260000 (beats 0%)
+# Runtime  : 35 ms (beats 58%)
+# Memory   : 15428000 (beats 57%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
