@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : Array, Dynamic Programming, Memoization
 # Link     : https://leetcode.com/problems/remove-boxes/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12264000 (beats 0%)
+# Runtime  : 1371 ms (beats 33%)
+# Memory   : 24936000 (beats 26%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
