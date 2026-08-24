@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 101 Solved
+## Progress Summary: 100 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -54,7 +54,6 @@
 | find-right-interval | 436. Find Right Interval | Medium | python3 | [Problem](https://leetcode.com/problems/find-right-interval/) | [Solution](./solutions/Medium/0436-find-right-interval/solution.py) |
 | string-compression | 443. String Compression | Medium | python3 | [Problem](https://leetcode.com/problems/string-compression/) | [Solution](./solutions/Medium/0443-string-compression/solution.py) |
 | assign-cookies | 455. Assign Cookies | Easy | python3 | [Problem](https://leetcode.com/problems/assign-cookies/) | [Solution](./solutions/Easy/0455-assign-cookies/solution.py) |
-| 132-pattern | 456. 132 Pattern | Medium | python3 | [Problem](https://leetcode.com/problems/132-pattern/) | [Solution](./solutions/Medium/0456-132-pattern/solution.py) |
 | largest-palindrome-product | 479. Largest Palindrome Product | Hard | python3 | [Problem](https://leetcode.com/problems/largest-palindrome-product/) | [Solution](./solutions/Hard/0479-largest-palindrome-product/solution.py) |
 | sliding-window-median | 480. Sliding Window Median | Hard | python3 | [Problem](https://leetcode.com/problems/sliding-window-median/) | [Solution](./solutions/Hard/0480-sliding-window-median/solution.py) |
 | license-key-formatting | 482. License Key Formatting | Easy | python3 | [Problem](https://leetcode.com/problems/license-key-formatting/) | [Solution](./solutions/Easy/0482-license-key-formatting/solution.py) |
