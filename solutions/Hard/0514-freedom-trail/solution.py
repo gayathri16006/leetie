@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : String, Dynamic Programming, Depth-First Search, Breadth-First Search
 # Link     : https://leetcode.com/problems/freedom-trail/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19576000 (beats 0%)
+# Runtime  : 55 ms (beats 81%)
+# Memory   : 26460000 (beats 42%)
 # Language : python3
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
