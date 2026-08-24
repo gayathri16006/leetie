@@ -3,8 +3,8 @@
 # Difficulty: Easy
 # Tags     : Math
 # Link     : https://leetcode.com/problems/perfect-number/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19432000 (beats 0%)
+# Runtime  : 1 ms (beats 94%)
+# Memory   : 19064000 (beats 98%)
 # Language : python3
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
