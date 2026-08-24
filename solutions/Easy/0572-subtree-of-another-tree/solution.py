@@ -3,8 +3,8 @@
 # Difficulty: Easy
 # Tags     : Tree, Depth-First Search, String Matching, Binary Tree, Hash Function
 # Link     : https://leetcode.com/problems/subtree-of-another-tree/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12324000 (beats 0%)
+# Runtime  : 73 ms (beats 87%)
+# Memory   : 13960000 (beats 9%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
