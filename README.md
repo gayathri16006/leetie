@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 91 Solved
+## Progress Summary: 90 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -39,7 +39,6 @@
 | wiggle-subsequence | 376. Wiggle Subsequence | Medium | python3 | [Problem](https://leetcode.com/problems/wiggle-subsequence/) | [Solution](./solutions/Medium/0376-wiggle-subsequence/solution.py) |
 | insert-delete-getrandom-o1 | 380. Insert Delete Getrandom O1 | Medium | python3 | [Problem](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [Solution](./solutions/Medium/0380-insert-delete-getrandom-o1/solution.py) |
 | insert-delete-getrandom-o1-duplicates-allowed | 381. Insert Delete Getrandom O1 Duplicates Allowed | Hard | python3 | [Problem](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) | [Solution](./solutions/Hard/0381-insert-delete-getrandom-o1-duplicates-allowed/solution.py) |
-| shuffle-an-array | 384. Shuffle An Array | Medium | python3 | [Problem](https://leetcode.com/problems/shuffle-an-array/) | [Solution](./solutions/Medium/0384-shuffle-an-array/solution.py) |
 | binary-watch | 401. Binary Watch | Easy | python3 | [Problem](https://leetcode.com/problems/binary-watch/) | [Solution](./solutions/Easy/0401-binary-watch/solution.py) |
 | frog-jump | 403. Frog Jump | Hard | python3 | [Problem](https://leetcode.com/problems/frog-jump/) | [Solution](./solutions/Hard/0403-frog-jump/solution.py) |
 | add-strings | 415. Add Strings | Easy | python3 | [Problem](https://leetcode.com/problems/add-strings/) | [Solution](./solutions/Easy/0415-add-strings/solution.py) |

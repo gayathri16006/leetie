@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Hash Table, String, Design, Hash Function
 # Link     : https://leetcode.com/problems/encode-and-decode-tinyurl/
-# Runtime  : 26 ms (beats 0%)
-# Memory   : 12332000 (beats 0%)
+# Runtime  : 23 ms (beats 27%)
+# Memory   : 12348000 (beats 63%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
