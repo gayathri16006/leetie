@@ -3,8 +3,8 @@
 # Difficulty: Easy
 # Tags     : Array, Math
 # Link     : https://leetcode.com/problems/range-addition-ii/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12312000 (beats 0%)
+# Runtime  : 3 ms (beats 36%)
+# Memory   : 13264000 (beats 94%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
