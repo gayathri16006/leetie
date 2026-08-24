@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask
 # Link     : https://leetcode.com/problems/beautiful-arrangement/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12396000 (beats 0%)
+# Runtime  : 113 ms (beats 83%)
+# Memory   : 12304000 (beats 66%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
