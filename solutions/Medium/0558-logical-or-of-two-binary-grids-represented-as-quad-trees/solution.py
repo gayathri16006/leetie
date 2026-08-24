@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Divide and Conquer, Tree
 # Link     : https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees/
-# Runtime  : 14 ms (beats 0%)
-# Memory   : 12408000 (beats 0%)
+# Runtime  : 51 ms (beats 49%)
+# Memory   : 13296000 (beats 81%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
