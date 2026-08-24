@@ -3,8 +3,8 @@
 # Difficulty: Easy
 # Tags     : Math, String
 # Link     : https://leetcode.com/problems/base-7/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19504000 (beats 0%)
+# Runtime  : 0 ms (beats 100%)
+# Memory   : 19220000 (beats 70%)
 # Language : python3
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
