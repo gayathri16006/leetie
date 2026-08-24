@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Hash Table
 # Link     : https://leetcode.com/problems/brick-wall/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12480000 (beats 0%)
+# Runtime  : 12 ms (beats 41%)
+# Memory   : 15848000 (beats 38%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
