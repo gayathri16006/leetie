@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Dynamic Programming
 # Link     : https://leetcode.com/problems/out-of-boundary-paths/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12300000 (beats 0%)
+# Runtime  : 65 ms (beats 50%)
+# Memory   : 18764000 (beats 42%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
