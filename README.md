@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 77 Solved
+## Progress Summary: 76 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -20,7 +20,6 @@
 | self-crossing | 335. Self Crossing | Hard | python3 | [Problem](https://leetcode.com/problems/self-crossing/) | [Solution](./solutions/Hard/0335-self-crossing/solution.py) |
 | data-stream-as-disjoint-intervals | 352. Data Stream As Disjoint Intervals | Hard | python3 | [Problem](https://leetcode.com/problems/data-stream-as-disjoint-intervals/) | [Solution](./solutions/Hard/0352-data-stream-as-disjoint-intervals/solution.py) |
 | russian-doll-envelopes | 354. Russian Doll Envelopes | Hard | python3 | [Problem](https://leetcode.com/problems/russian-doll-envelopes/) | [Solution](./solutions/Hard/0354-russian-doll-envelopes/solution.py) |
-| insert-delete-getrandom-o1-duplicates-allowed | 381. Insert Delete Getrandom O1 Duplicates Allowed | Hard | python3 | [Problem](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) | [Solution](./solutions/Hard/0381-insert-delete-getrandom-o1-duplicates-allowed/solution.py) |
 | binary-watch | 401. Binary Watch | Easy | python3 | [Problem](https://leetcode.com/problems/binary-watch/) | [Solution](./solutions/Easy/0401-binary-watch/solution.py) |
 | add-strings | 415. Add Strings | Easy | python3 | [Problem](https://leetcode.com/problems/add-strings/) | [Solution](./solutions/Easy/0415-add-strings/solution.py) |
 | arranging-coins | 441. Arranging Coins | Easy | python3 | [Problem](https://leetcode.com/problems/arranging-coins/) | [Solution](./solutions/Easy/0441-arranging-coins/solution.py) |

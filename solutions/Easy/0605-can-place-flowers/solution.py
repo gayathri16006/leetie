@@ -3,8 +3,8 @@
 # Difficulty: Easy
 # Tags     : Array, Greedy
 # Link     : https://leetcode.com/problems/can-place-flowers/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12340000 (beats 0%)
+# Runtime  : 14 ms (beats 30%)
+# Memory   : 13168000 (beats 19%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
