@@ -3,8 +3,8 @@
 # Difficulty: Easy
 # Tags     : Array, Sorting, Heap (Priority Queue)
 # Link     : https://leetcode.com/problems/relative-ranks/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12272000 (beats 0%)
+# Runtime  : 8 ms (beats 48%)
+# Memory   : 13264000 (beats 44%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
