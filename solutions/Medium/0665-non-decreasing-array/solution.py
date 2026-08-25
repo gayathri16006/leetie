@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array
 # Link     : https://leetcode.com/problems/non-decreasing-array/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19460000 (beats 0%)
+# Runtime  : 0 ms (beats 100%)
+# Memory   : 20520000 (beats 45%)
 # Language : python3
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
