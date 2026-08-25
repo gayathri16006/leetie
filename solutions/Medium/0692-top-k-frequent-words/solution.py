@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Hash Table, String, Trie, Sorting, Heap (Priority Queue), Bucket Sort, Counting
 # Link     : https://leetcode.com/problems/top-k-frequent-words/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19336000 (beats 0%)
+# Runtime  : 1 ms (beats 69%)
+# Memory   : 19564000 (beats 19%)
 # Language : python3
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
