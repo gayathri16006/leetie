@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : Array, Math, Backtracking
 # Link     : https://leetcode.com/problems/24-game/
-# Runtime  : 3 ms (beats 0%)
-# Memory   : 19300000 (beats 0%)
+# Runtime  : 38 ms (beats 50%)
+# Memory   : 19440000 (beats 52%)
 # Language : python3
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
