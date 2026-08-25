@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix
 # Link     : https://leetcode.com/problems/max-area-of-island/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19396000 (beats 0%)
+# Runtime  : 19 ms (beats 62%)
+# Memory   : 20512000 (beats 53%)
 # Language : python3
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
