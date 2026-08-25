@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Dynamic Programming
 # Link     : https://leetcode.com/problems/knight-probability-in-chessboard/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19508000 (beats 0%)
+# Runtime  : 74 ms (beats 94%)
+# Memory   : 19620000 (beats 70%)
 # Language : python3
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
