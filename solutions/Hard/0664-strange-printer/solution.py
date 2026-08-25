@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : String, Dynamic Programming
 # Link     : https://leetcode.com/problems/strange-printer/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19312000 (beats 0%)
+# Runtime  : 143 ms (beats 83%)
+# Memory   : 30560000 (beats 36%)
 # Language : python3
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
