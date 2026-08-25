@@ -3,8 +3,8 @@
 # Difficulty: Easy
 # Tags     : Hash Table, Two Pointers, Tree, Depth-First Search, Breadth-First Search, Binary Search Tree, Binary Tree
 # Link     : https://leetcode.com/problems/two-sum-iv-input-is-a-bst/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19200000 (beats 0%)
+# Runtime  : 0 ms (beats 100%)
+# Memory   : 22848000 (beats 6%)
 # Language : python3
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
