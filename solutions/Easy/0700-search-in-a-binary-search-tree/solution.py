@@ -3,8 +3,8 @@
 # Difficulty: Easy
 # Tags     : Tree, Binary Search Tree, Binary Tree
 # Link     : https://leetcode.com/problems/search-in-a-binary-search-tree/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19568000 (beats 0%)
+# Runtime  : 0 ms (beats 100%)
+# Memory   : 20940000 (beats 40%)
 # Language : python3
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
