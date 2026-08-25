@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Hash Table, String, Design, Trie
 # Link     : https://leetcode.com/problems/map-sum-pairs/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19256000 (beats 0%)
+# Runtime  : 0 ms (beats 100%)
+# Memory   : 19456000 (beats 47%)
 # Language : python3
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
