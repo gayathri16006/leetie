@@ -13,26 +13,26 @@
 | text-justification | 68. Text Justification | Hard | python3 | [Problem](https://leetcode.com/problems/text-justification/) | [Solution](./solutions/Hard/0068-text-justification/solution.py) |
 | candy | 135. Candy | Hard | python3 | [Problem](https://leetcode.com/problems/candy/) | [Solution](./solutions/Hard/0135-candy/solution.py) |
 | the-skyline-problem | 218. The Skyline Problem | Hard | python3 | [Problem](https://leetcode.com/problems/the-skyline-problem/) | [Solution](./solutions/Hard/0218-the-skyline-problem/solution.py) |
-| contains-duplicate-iii | 220. Contains Duplicate Iii | Hard | python3 | [Problem](https://leetcode.com/problems/contains-duplicate-iii/) | [Solution](./solutions/Hard/0220-contains-duplicate-iii/solution.py) |
 | binary-watch | 401. Binary Watch | Easy | python3 | [Problem](https://leetcode.com/problems/binary-watch/) | [Solution](./solutions/Easy/0401-binary-watch/solution.py) |
 | add-strings | 415. Add Strings | Easy | python3 | [Problem](https://leetcode.com/problems/add-strings/) | [Solution](./solutions/Easy/0415-add-strings/solution.py) |
 | arranging-coins | 441. Arranging Coins | Easy | python3 | [Problem](https://leetcode.com/problems/arranging-coins/) | [Solution](./solutions/Easy/0441-arranging-coins/solution.py) |
 | assign-cookies | 455. Assign Cookies | Easy | python3 | [Problem](https://leetcode.com/problems/assign-cookies/) | [Solution](./solutions/Easy/0455-assign-cookies/solution.py) |
-| construct-the-rectangle | 492. Construct The Rectangle | Easy | python3 | [Problem](https://leetcode.com/problems/construct-the-rectangle/) | [Solution](./solutions/Easy/0492-construct-the-rectangle/solution.py) |
 | count-binary-substrings | Count Binary Substrings | Easy | python3 | [Problem](https://leetcode.com/problems/count-binary-substrings/) | [Solution](./solutions/Easy/0696-count-binary-substrings/solution.py) |
 | cut-off-trees-for-golf-event | Cut Off Trees for Golf Event | Hard | python3 | [Problem](https://leetcode.com/problems/cut-off-trees-for-golf-event/) | [Solution](./solutions/Hard/0675-cut-off-trees-for-golf-event/solution.py) |
-| detect-capital | 520. Detect Capital | Easy | python3 | [Problem](https://leetcode.com/problems/detect-capital/) | [Solution](./solutions/Easy/0520-detect-capital/solution.py) |
+| degree-of-an-array | Degree of an Array | Easy | python3 | [Problem](https://leetcode.com/problems/degree-of-an-array/) | [Solution](./solutions/Easy/0697-degree-of-an-array/solution.py) |
 | employee-importance | Employee Importance | Medium | python3 | [Problem](https://leetcode.com/problems/employee-importance/) | [Solution](./solutions/Medium/0690-employee-importance/solution.py) |
 | first-bad-version | 278. First Bad Version | Easy | python3 | [Problem](https://leetcode.com/problems/first-bad-version/) | [Solution](./solutions/Easy/0278-first-bad-version/solution.py) |
 | fizz-buzz | 412. Fizz Buzz | Easy | python3 | [Problem](https://leetcode.com/problems/fizz-buzz/) | [Solution](./solutions/Easy/0412-fizz-buzz/solution.py) |
+| game-play-analysis-i | 511. Game Play Analysis I | Easy | mysql | [Problem](https://leetcode.com/problems/game-play-analysis-i/) | [Solution](./solutions/Easy/0511-game-play-analysis-i/solution.sql) |
+| detect-capital | 520. Detect Capital | Easy | python3 | [Problem](https://leetcode.com/problems/detect-capital/) | [Solution](./solutions/Easy/0520-detect-capital/solution.py) |
 | implement-magic-dictionary | Implement Magic Dictionary | Medium | python3 | [Problem](https://leetcode.com/problems/implement-magic-dictionary/) | [Solution](./solutions/Medium/0676-implement-magic-dictionary/solution.py) |
 | is-subsequence | 392. Is Subsequence | Easy | python3 | [Problem](https://leetcode.com/problems/is-subsequence/) | [Solution](./solutions/Easy/0392-is-subsequence/solution.py) |
-| keyboard-row | 500. Keyboard Row | Easy | python3 | [Problem](https://leetcode.com/problems/keyboard-row/) | [Solution](./solutions/Easy/0500-keyboard-row/solution.py) |
-| find-mode-in-binary-search-tree | 501. Find Mode In Binary Search Tree | Easy | python3 | [Problem](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | [Solution](./solutions/Easy/0501-find-mode-in-binary-search-tree/solution.py) |
 | knight-probability-in-chessboard | Knight Probability in Chessboard | Medium | python3 | [Problem](https://leetcode.com/problems/knight-probability-in-chessboard/) | [Solution](./solutions/Medium/0688-knight-probability-in-chessboard/solution.py) |
 | license-key-formatting | 482. License Key Formatting | Easy | python3 | [Problem](https://leetcode.com/problems/license-key-formatting/) | [Solution](./solutions/Easy/0482-license-key-formatting/solution.py) |
+| construct-the-rectangle | 492. Construct The Rectangle | Easy | python3 | [Problem](https://leetcode.com/problems/construct-the-rectangle/) | [Solution](./solutions/Easy/0492-construct-the-rectangle/solution.py) |
+| keyboard-row | 500. Keyboard Row | Easy | python3 | [Problem](https://leetcode.com/problems/keyboard-row/) | [Solution](./solutions/Easy/0500-keyboard-row/solution.py) |
+| find-mode-in-binary-search-tree | 501. Find Mode In Binary Search Tree | Easy | python3 | [Problem](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | [Solution](./solutions/Easy/0501-find-mode-in-binary-search-tree/solution.py) |
 | base-7 | 504. Base 7 | Easy | python3 | [Problem](https://leetcode.com/problems/base-7/) | [Solution](./solutions/Easy/0504-base-7/solution.py) |
-| fibonacci-number | 509. Fibonacci Number | Easy | python3 | [Problem](https://leetcode.com/problems/fibonacci-number/) | [Solution](./solutions/Easy/0509-fibonacci-number/solution.py) |
 | longest-uncommon-subsequence-i | 521. Longest Uncommon Subsequence I | Easy | python3 | [Problem](https://leetcode.com/problems/longest-uncommon-subsequence-i/) | [Solution](./solutions/Easy/0521-longest-uncommon-subsequence-i/solution.py) |
 | longest-univalue-path | Longest Univalue Path | Medium | python3 | [Problem](https://leetcode.com/problems/longest-univalue-path/) | [Solution](./solutions/Medium/0687-longest-univalue-path/solution.py) |
 | map-sum-pairs | Map Sum Pairs | Medium | python3 | [Problem](https://leetcode.com/problems/map-sum-pairs/) | [Solution](./solutions/Medium/0677-map-sum-pairs/solution.py) |
@@ -43,7 +43,7 @@
 | number-complement | 476. Number Complement | Easy | python3 | [Problem](https://leetcode.com/problems/number-complement/) | [Solution](./solutions/Easy/0476-number-complement/solution.py) |
 | next-greater-element-i | 496. Next Greater Element I | Easy | python3 | [Problem](https://leetcode.com/problems/next-greater-element-i/) | [Solution](./solutions/Easy/0496-next-greater-element-i/solution.py) |
 | perfect-number | 507. Perfect Number | Easy | python3 | [Problem](https://leetcode.com/problems/perfect-number/) | [Solution](./solutions/Easy/0507-perfect-number/solution.py) |
-| game-play-analysis-i | 511. Game Play Analysis I | Easy | mysql | [Problem](https://leetcode.com/problems/game-play-analysis-i/) | [Solution](./solutions/Easy/0511-game-play-analysis-i/solution.sql) |
+| fibonacci-number | 509. Fibonacci Number | Easy | python3 | [Problem](https://leetcode.com/problems/fibonacci-number/) | [Solution](./solutions/Easy/0509-fibonacci-number/solution.py) |
 | minimum-absolute-difference-in-bst | 530. Minimum Absolute Difference In Bst | Easy | python3 | [Problem](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [Solution](./solutions/Easy/0530-minimum-absolute-difference-in-bst/solution.py) |
 | redundant-connection | Redundant Connection | Medium | python3 | [Problem](https://leetcode.com/problems/redundant-connection/) | [Solution](./solutions/Medium/0684-redundant-connection/solution.py) |
 | redundant-connection-ii | Redundant Connection II | Hard | python3 | [Problem](https://leetcode.com/problems/redundant-connection-ii/) | [Solution](./solutions/Hard/0685-redundant-connection-ii/solution.py) |
