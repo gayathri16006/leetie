@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 95 Solved
+## Progress Summary: 94 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -54,7 +54,6 @@
 | remove-boxes | 546. Remove Boxes | Hard | python3 | [Problem](https://leetcode.com/problems/remove-boxes/) | [Solution](./solutions/Hard/0546-remove-boxes/solution.py) |
 | student-attendance-record-ii | 552. Student Attendance Record Ii | Hard | python3 | [Problem](https://leetcode.com/problems/student-attendance-record-ii/) | [Solution](./solutions/Hard/0552-student-attendance-record-ii/solution.py) |
 | binary-tree-tilt | 563. Binary Tree Tilt | Easy | python3 | [Problem](https://leetcode.com/problems/binary-tree-tilt/) | [Solution](./solutions/Easy/0563-binary-tree-tilt/solution.py) |
-| find-the-closest-palindrome | 564. Find The Closest Palindrome | Hard | python3 | [Problem](https://leetcode.com/problems/find-the-closest-palindrome/) | [Solution](./solutions/Hard/0564-find-the-closest-palindrome/solution.py) |
 | distribute-candies | 575. Distribute Candies | Easy | python3 | [Problem](https://leetcode.com/problems/distribute-candies/) | [Solution](./solutions/Easy/0575-distribute-candies/solution.py) |
 | find-customer-referee | 584. Find Customer Referee | Easy | mysql | [Problem](https://leetcode.com/problems/find-customer-referee/) | [Solution](./solutions/Easy/0584-find-customer-referee/solution.sql) |
 | customer-placing-the-largest-number-of-orders | 586. Customer Placing The Largest Number Of Orders | Easy | mysql | [Problem](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | [Solution](./solutions/Easy/0586-customer-placing-the-largest-number-of-orders/solution.sql) |
