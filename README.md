@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 93 Solved
+## Progress Summary: 92 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -33,7 +33,6 @@
 | construct-the-rectangle | 492. Construct The Rectangle | Easy | python3 | [Problem](https://leetcode.com/problems/construct-the-rectangle/) | [Solution](./solutions/Easy/0492-construct-the-rectangle/solution.py) |
 | dota2-senate | Dota2 Senate | Medium | python3 | [Problem](https://leetcode.com/problems/dota2-senate/) | [Solution](./solutions/Medium/0649-dota2-senate/solution.py) |
 | reverse-pairs | 493. Reverse Pairs | Hard | python3 | [Problem](https://leetcode.com/problems/reverse-pairs/) | [Solution](./solutions/Hard/0493-reverse-pairs/solution.py) |
-| ipo | 502. Ipo | Hard | python3 | [Problem](https://leetcode.com/problems/ipo/) | [Solution](./solutions/Hard/0502-ipo/solution.py) |
 | fibonacci-number | 509. Fibonacci Number | Easy | python3 | [Problem](https://leetcode.com/problems/fibonacci-number/) | [Solution](./solutions/Easy/0509-fibonacci-number/solution.py) |
 | diameter-of-binary-tree | 543. Diameter Of Binary Tree | Easy | python3 | [Problem](https://leetcode.com/problems/diameter-of-binary-tree/) | [Solution](./solutions/Easy/0543-diameter-of-binary-tree/solution.py) |
 | find-duplicate-subtrees | Find Duplicate Subtrees | Medium | python3 | [Problem](https://leetcode.com/problems/find-duplicate-subtrees/) | [Solution](./solutions/Medium/0652-find-duplicate-subtrees/solution.py) |
