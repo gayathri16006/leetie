@@ -3,8 +3,8 @@
 # Difficulty: Easy
 # Tags     : Two Pointers, String
 # Link     : https://leetcode.com/problems/count-binary-substrings/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19120000 (beats 0%)
+# Runtime  : 55 ms (beats 60%)
+# Memory   : 19552000 (beats 64%)
 # Language : python3
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
