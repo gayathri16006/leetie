@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Tree, Depth-First Search, Binary Search Tree, Binary Tree
 # Link     : https://leetcode.com/problems/trim-a-binary-search-tree/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19072000 (beats 0%)
+# Runtime  : 0 ms (beats 100%)
+# Memory   : 22436000 (beats 35%)
 # Language : python3
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
