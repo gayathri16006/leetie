@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : Depth-First Search, Breadth-First Search, Union-Find, Graph Theory
 # Link     : https://leetcode.com/problems/redundant-connection-ii/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19428000 (beats 0%)
+# Runtime  : 3 ms (beats 59%)
+# Memory   : 19680000 (beats 55%)
 # Language : python3
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
