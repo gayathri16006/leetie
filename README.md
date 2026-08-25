@@ -7,6 +7,7 @@
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
 | 24-game | 24 Game | Hard | python3 | [Problem](https://leetcode.com/problems/24-game/) | [Solution](./solutions/Hard/0679-24-game/solution.py) |
+| base-7 | 504. Base 7 | Easy | python3 | [Problem](https://leetcode.com/problems/base-7/) | [Solution](./solutions/Easy/0504-base-7/solution.py) |
 | baseball-game | Baseball Game | Easy | python3 | [Problem](https://leetcode.com/problems/baseball-game/) | [Solution](./solutions/Easy/0682-baseball-game/solution.py) |
 | binary-number-with-alternating-bits | Binary Number with Alternating Bits | Easy | python3 | [Problem](https://leetcode.com/problems/binary-number-with-alternating-bits/) | [Solution](./solutions/Easy/0693-binary-number-with-alternating-bits/solution.py) |
 | binary-watch | 401. Binary Watch | Easy | python3 | [Problem](https://leetcode.com/problems/binary-watch/) | [Solution](./solutions/Easy/0401-binary-watch/solution.py) |
@@ -14,7 +15,6 @@
 | arranging-coins | 441. Arranging Coins | Easy | python3 | [Problem](https://leetcode.com/problems/arranging-coins/) | [Solution](./solutions/Easy/0441-arranging-coins/solution.py) |
 | assign-cookies | 455. Assign Cookies | Easy | python3 | [Problem](https://leetcode.com/problems/assign-cookies/) | [Solution](./solutions/Easy/0455-assign-cookies/solution.py) |
 | construct-the-rectangle | 492. Construct The Rectangle | Easy | python3 | [Problem](https://leetcode.com/problems/construct-the-rectangle/) | [Solution](./solutions/Easy/0492-construct-the-rectangle/solution.py) |
-| base-7 | 504. Base 7 | Easy | python3 | [Problem](https://leetcode.com/problems/base-7/) | [Solution](./solutions/Easy/0504-base-7/solution.py) |
 | count-binary-substrings | Count Binary Substrings | Easy | python3 | [Problem](https://leetcode.com/problems/count-binary-substrings/) | [Solution](./solutions/Easy/0696-count-binary-substrings/solution.py) |
 | cut-off-trees-for-golf-event | Cut Off Trees for Golf Event | Hard | python3 | [Problem](https://leetcode.com/problems/cut-off-trees-for-golf-event/) | [Solution](./solutions/Hard/0675-cut-off-trees-for-golf-event/solution.py) |
 | degree-of-an-array | Degree of an Array | Easy | python3 | [Problem](https://leetcode.com/problems/degree-of-an-array/) | [Solution](./solutions/Easy/0697-degree-of-an-array/solution.py) |
@@ -22,23 +22,24 @@
 | falling-squares | Falling Squares | Hard | python3 | [Problem](https://leetcode.com/problems/falling-squares/) | [Solution](./solutions/Hard/0699-falling-squares/solution.py) |
 | first-bad-version | 278. First Bad Version | Easy | python3 | [Problem](https://leetcode.com/problems/first-bad-version/) | [Solution](./solutions/Easy/0278-first-bad-version/solution.py) |
 | fizz-buzz | 412. Fizz Buzz | Easy | python3 | [Problem](https://leetcode.com/problems/fizz-buzz/) | [Solution](./solutions/Easy/0412-fizz-buzz/solution.py) |
+| find-mode-in-binary-search-tree | 501. Find Mode In Binary Search Tree | Easy | python3 | [Problem](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | [Solution](./solutions/Easy/0501-find-mode-in-binary-search-tree/solution.py) |
 | implement-magic-dictionary | Implement Magic Dictionary | Medium | python3 | [Problem](https://leetcode.com/problems/implement-magic-dictionary/) | [Solution](./solutions/Medium/0676-implement-magic-dictionary/solution.py) |
 | is-subsequence | 392. Is Subsequence | Easy | python3 | [Problem](https://leetcode.com/problems/is-subsequence/) | [Solution](./solutions/Easy/0392-is-subsequence/solution.py) |
 | keyboard-row | 500. Keyboard Row | Easy | python3 | [Problem](https://leetcode.com/problems/keyboard-row/) | [Solution](./solutions/Easy/0500-keyboard-row/solution.py) |
-| find-mode-in-binary-search-tree | 501. Find Mode In Binary Search Tree | Easy | python3 | [Problem](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | [Solution](./solutions/Easy/0501-find-mode-in-binary-search-tree/solution.py) |
 | knight-probability-in-chessboard | Knight Probability in Chessboard | Medium | python3 | [Problem](https://leetcode.com/problems/knight-probability-in-chessboard/) | [Solution](./solutions/Medium/0688-knight-probability-in-chessboard/solution.py) |
+| license-key-formatting | 482. License Key Formatting | Easy | python3 | [Problem](https://leetcode.com/problems/license-key-formatting/) | [Solution](./solutions/Easy/0482-license-key-formatting/solution.py) |
 | longest-univalue-path | Longest Univalue Path | Medium | python3 | [Problem](https://leetcode.com/problems/longest-univalue-path/) | [Solution](./solutions/Medium/0687-longest-univalue-path/solution.py) |
 | map-sum-pairs | Map Sum Pairs | Medium | python3 | [Problem](https://leetcode.com/problems/map-sum-pairs/) | [Solution](./solutions/Medium/0677-map-sum-pairs/solution.py) |
 | max-area-of-island | Max Area of Island | Medium | python3 | [Problem](https://leetcode.com/problems/max-area-of-island/) | [Solution](./solutions/Medium/0695-max-area-of-island/solution.py) |
 | maximum-sum-of-3-non-overlapping-subarrays | Maximum Sum of 3 Non-Overlapping Subarrays | Hard | python3 | [Problem](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/) | [Solution](./solutions/Hard/0689-maximum-sum-of-3-non-overlapping-subarrays/solution.py) |
 | number-of-segments-in-a-string | 434. Number Of Segments In A String | Easy | python3 | [Problem](https://leetcode.com/problems/number-of-segments-in-a-string/) | [Solution](./solutions/Easy/0434-number-of-segments-in-a-string/solution.py) |
 | number-complement | 476. Number Complement | Easy | python3 | [Problem](https://leetcode.com/problems/number-complement/) | [Solution](./solutions/Easy/0476-number-complement/solution.py) |
-| license-key-formatting | 482. License Key Formatting | Easy | python3 | [Problem](https://leetcode.com/problems/license-key-formatting/) | [Solution](./solutions/Easy/0482-license-key-formatting/solution.py) |
 | max-consecutive-ones | 485. Max Consecutive Ones | Easy | python3 | [Problem](https://leetcode.com/problems/max-consecutive-ones/) | [Solution](./solutions/Easy/0485-max-consecutive-ones/solution.py) |
 | next-greater-element-i | 496. Next Greater Element I | Easy | python3 | [Problem](https://leetcode.com/problems/next-greater-element-i/) | [Solution](./solutions/Easy/0496-next-greater-element-i/solution.py) |
 | partition-to-k-equal-sum-subsets | Partition to K Equal Sum Subsets | Medium | python3 | [Problem](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/) | [Solution](./solutions/Medium/0698-partition-to-k-equal-sum-subsets/solution.py) |
 | redundant-connection | Redundant Connection | Medium | python3 | [Problem](https://leetcode.com/problems/redundant-connection/) | [Solution](./solutions/Medium/0684-redundant-connection/solution.py) |
 | redundant-connection-ii | Redundant Connection II | Hard | python3 | [Problem](https://leetcode.com/problems/redundant-connection-ii/) | [Solution](./solutions/Hard/0685-redundant-connection-ii/solution.py) |
+| search-in-a-binary-search-tree | Search in a Binary Search Tree | Easy | python3 | [Problem](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Solution](./solutions/Easy/0700-search-in-a-binary-search-tree/solution.py) |
 | stickers-to-spell-word | Stickers to Spell Word | Hard | python3 | [Problem](https://leetcode.com/problems/stickers-to-spell-word/) | [Solution](./solutions/Hard/0691-stickers-to-spell-word/solution.py) |
 | top-k-frequent-words | Top K Frequent Words | Medium | python3 | [Problem](https://leetcode.com/problems/top-k-frequent-words/) | [Solution](./solutions/Medium/0692-top-k-frequent-words/solution.py) |
 | two-sum | 1. Two Sum | Easy | java | [Problem](https://leetcode.com/problems/two-sum/) | [Solution](./solutions/Easy/0001-two-sum/solution.java) |
@@ -85,6 +86,5 @@
 | two-sum-iv-input-is-a-bst | 653. Two Sum Iv Input Is A Bst | Easy | python3 | [Problem](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | [Solution](./solutions/Easy/0653-two-sum-iv-input-is-a-bst/solution.py) |
 | robot-return-to-origin | 657. Robot Return To Origin | Easy | python3 | [Problem](https://leetcode.com/problems/robot-return-to-origin/) | [Solution](./solutions/Easy/0657-robot-return-to-origin/solution.py) |
 | image-smoother | 661. Image Smoother | Easy | python3 | [Problem](https://leetcode.com/problems/image-smoother/) | [Solution](./solutions/Easy/0661-image-smoother/solution.py) |
-| second-minimum-node-in-a-binary-tree | 671. Second Minimum Node In A Binary Tree | Easy | python3 | [Problem](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/) | [Solution](./solutions/Easy/0671-second-minimum-node-in-a-binary-tree/solution.py) |
 | valid-palindrome-ii | Valid Palindrome II | Easy | python3 | [Problem](https://leetcode.com/problems/valid-palindrome-ii/) | [Solution](./solutions/Easy/0680-valid-palindrome-ii/solution.py) |
 | valid-parenthesis-string | Valid Parenthesis String | Medium | python3 | [Problem](https://leetcode.com/problems/valid-parenthesis-string/) | [Solution](./solutions/Medium/0678-valid-parenthesis-string/solution.py) |
