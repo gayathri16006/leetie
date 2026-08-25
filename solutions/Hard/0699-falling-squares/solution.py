@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : Array, Segment Tree, Ordered Set
 # Link     : https://leetcode.com/problems/falling-squares/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19440000 (beats 0%)
+# Runtime  : 318 ms (beats 14%)
+# Memory   : 19660000 (beats 90%)
 # Language : python3
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie

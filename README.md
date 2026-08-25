@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 83 Solved
+## Progress Summary: 82 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -86,6 +86,5 @@
 | robot-return-to-origin | 657. Robot Return To Origin | Easy | python3 | [Problem](https://leetcode.com/problems/robot-return-to-origin/) | [Solution](./solutions/Easy/0657-robot-return-to-origin/solution.py) |
 | image-smoother | 661. Image Smoother | Easy | python3 | [Problem](https://leetcode.com/problems/image-smoother/) | [Solution](./solutions/Easy/0661-image-smoother/solution.py) |
 | second-minimum-node-in-a-binary-tree | 671. Second Minimum Node In A Binary Tree | Easy | python3 | [Problem](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/) | [Solution](./solutions/Easy/0671-second-minimum-node-in-a-binary-tree/solution.py) |
-| distribute-elements-into-two-arrays-i | 3069. Distribute Elements Into Two Arrays I | Easy | java | [Problem](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) | [Solution](./solutions/Easy/3069-distribute-elements-into-two-arrays-i/solution.java) |
 | valid-palindrome-ii | Valid Palindrome II | Easy | python3 | [Problem](https://leetcode.com/problems/valid-palindrome-ii/) | [Solution](./solutions/Easy/0680-valid-palindrome-ii/solution.py) |
 | valid-parenthesis-string | Valid Parenthesis String | Medium | python3 | [Problem](https://leetcode.com/problems/valid-parenthesis-string/) | [Solution](./solutions/Medium/0678-valid-parenthesis-string/solution.py) |
