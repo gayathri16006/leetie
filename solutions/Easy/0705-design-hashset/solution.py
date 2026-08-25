@@ -3,8 +3,8 @@
 # Difficulty: Easy
 # Tags     : Array, Hash Table, Linked List, Design, Hash Function
 # Link     : https://leetcode.com/problems/design-hashset/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19344000 (beats 0%)
+# Runtime  : 27 ms (beats 79%)
+# Memory   : 24364000 (beats 78%)
 # Language : python3
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
