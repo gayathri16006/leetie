@@ -4,7 +4,7 @@
 # Tags     : String, Dynamic Programming, Stack, Greedy, Bracket Sequences
 # Link     : https://leetcode.com/problems/valid-parenthesis-string/
 # Runtime  : 0 ms (beats 0%)
-# Memory   : 19224000 (beats 0%)
+# Memory   : 19248000 (beats 0%)
 # Language : python3
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
