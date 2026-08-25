@@ -3,8 +3,8 @@
 # Difficulty: Easy
 # Tags     : Tree, Design, Binary Search Tree, Heap (Priority Queue), Binary Tree, Data Stream
 # Link     : https://leetcode.com/problems/kth-largest-element-in-a-stream/
-# Runtime  : 3 ms (beats 0%)
-# Memory   : 19624000 (beats 0%)
+# Runtime  : 13 ms (beats 77%)
+# Memory   : 25852000 (beats 9%)
 # Language : python3
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
