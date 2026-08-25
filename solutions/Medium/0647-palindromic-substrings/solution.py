@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Two Pointers, String, Dynamic Programming
 # Link     : https://leetcode.com/problems/palindromic-substrings/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19328000 (beats 0%)
+# Runtime  : 103 ms (beats 94%)
+# Memory   : 19320000 (beats 38%)
 # Language : python3
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
