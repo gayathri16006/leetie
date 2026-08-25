@@ -3,8 +3,8 @@
 # Difficulty: Easy
 # Tags     : Array, Hash Table, Linked List, Design, Hash Function
 # Link     : https://leetcode.com/problems/design-hashmap/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19532000 (beats 0%)
+# Runtime  : 40 ms (beats 66%)
+# Memory   : 23044000 (beats 45%)
 # Language : python3
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
