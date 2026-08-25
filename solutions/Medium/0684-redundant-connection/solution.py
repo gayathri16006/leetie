@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Depth-First Search, Breadth-First Search, Union-Find, Graph Theory
 # Link     : https://leetcode.com/problems/redundant-connection/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19388000 (beats 0%)
+# Runtime  : 3 ms (beats 61%)
+# Memory   : 19624000 (beats 51%)
 # Language : python3
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
