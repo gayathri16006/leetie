@@ -3,12 +3,15 @@
 # Difficulty: Medium
 # Tags     : Hash Table, Tree, Depth-First Search, Binary Tree
 # Link     : https://leetcode.com/problems/find-duplicate-subtrees/
-# Runtime  : 11 ms (beats 26%)
-# Memory   : 26828000 (beats 49%)
+# Runtime  : 0 ms (beats 0%)
+# Memory   : 19380000 (beats 0%)
 # Language : python3
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
 # ──────────────────────────────────────────────────
+
+from collections import defaultdict
+from typing import Optional, List
 
 # Definition for a binary tree node.
 # class TreeNode:
@@ -17,27 +20,24 @@
 #         self.left = left
 #         self.right = right
 
-from collections import defaultdict
-from typing import Optional, List
-
 class Solution:
     def findDuplicateSubtrees(self, root: Optional[TreeNode]) -> List[Optional[TreeNode]]:
-        counts = defaultdict(int)
-        res = []
+        subtrees = defaultdict(int)
+        duplicates = []
         
-        def serialize(node):
+        def serialize(node: Optional[TreeNode]) -> str:
             if not node:
                 return "#"
             
-            # Post-order serialization: root, left, right
-            subtree = f"{node.val},{serialize(node.left)},{serialize(node.right)}"
-            counts[subtree] += 1
+            # Post-order traversal representation: root,left,right
+            serial = f"{node.val},{serialize(node.left)},{serialize(node.right)}"
+            subtrees[serial] += 1
             
-            # Add to result only on the second encounter
-            if counts[subtree] == 2:
-                res.append(node)
+            # Only append the first time a duplicate is detected
+            if subtrees[serial] == 2:
+                duplicates.append(node)
                 
-            return subtree
-        
+            return serial
+            
         serialize(root)
-        return res
+        return duplicates
