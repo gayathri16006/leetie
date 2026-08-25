@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Hash Table, Tree, Depth-First Search, Breadth-First Search
 # Link     : https://leetcode.com/problems/employee-importance/
-# Runtime  : 52 ms (beats 0%)
-# Memory   : 19724000 (beats 0%)
+# Runtime  : 126 ms (beats 66%)
+# Memory   : 20936000 (beats 44%)
 # Language : python3
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
