@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Tree, Binary Search Tree, Binary Tree
 # Link     : https://leetcode.com/problems/insert-into-a-binary-search-tree/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19324000 (beats 0%)
+# Runtime  : 1 ms (beats 46%)
+# Memory   : 21212000 (beats 20%)
 # Language : python3
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
