@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Math
 # Link     : https://leetcode.com/problems/beautiful-arrangement-ii/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19284000 (beats 0%)
+# Runtime  : 1 ms (beats 49%)
+# Memory   : 20092000 (beats 49%)
 # Language : python3
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
