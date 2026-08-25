@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : Math, Binary Search
 # Link     : https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19164000 (beats 0%)
+# Runtime  : 323 ms (beats 40%)
+# Memory   : 19224000 (beats 70%)
 # Language : python3
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
