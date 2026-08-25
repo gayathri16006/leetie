@@ -3,8 +3,8 @@
 # Difficulty: Easy
 # Tags     : Tree, Depth-First Search, Breadth-First Search, Binary Tree
 # Link     : https://leetcode.com/problems/average-of-levels-in-binary-tree/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19444000 (beats 0%)
+# Runtime  : 0 ms (beats 100%)
+# Memory   : 21164000 (beats 15%)
 # Language : python3
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
