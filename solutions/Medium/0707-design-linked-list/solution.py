@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Linked List, Design
 # Link     : https://leetcode.com/problems/design-linked-list/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19536000 (beats 0%)
+# Runtime  : 26 ms (beats 90%)
+# Memory   : 20828000 (beats 12%)
 # Language : python3
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
