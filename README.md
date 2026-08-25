@@ -6,6 +6,7 @@
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
+| 2-keys-keyboard | 2 Keys Keyboard | Medium | python3 | [Problem](https://leetcode.com/problems/2-keys-keyboard/) | [Solution](./solutions/Medium/0650-2-keys-keyboard/solution.py) |
 | dota2-senate | Dota2 Senate | Medium | python3 | [Problem](https://leetcode.com/problems/dota2-senate/) | [Solution](./solutions/Medium/0649-dota2-senate/solution.py) |
 | first-bad-version | 278. First Bad Version | Easy | python3 | [Problem](https://leetcode.com/problems/first-bad-version/) | [Solution](./solutions/Easy/0278-first-bad-version/solution.py) |
 | is-subsequence | 392. Is Subsequence | Easy | python3 | [Problem](https://leetcode.com/problems/is-subsequence/) | [Solution](./solutions/Easy/0392-is-subsequence/solution.py) |
@@ -15,22 +16,21 @@
 | arranging-coins | 441. Arranging Coins | Easy | python3 | [Problem](https://leetcode.com/problems/arranging-coins/) | [Solution](./solutions/Easy/0441-arranging-coins/solution.py) |
 | assign-cookies | 455. Assign Cookies | Easy | python3 | [Problem](https://leetcode.com/problems/assign-cookies/) | [Solution](./solutions/Easy/0455-assign-cookies/solution.py) |
 | license-key-formatting | 482. License Key Formatting | Easy | python3 | [Problem](https://leetcode.com/problems/license-key-formatting/) | [Solution](./solutions/Easy/0482-license-key-formatting/solution.py) |
-| max-consecutive-ones | 485. Max Consecutive Ones | Easy | python3 | [Problem](https://leetcode.com/problems/max-consecutive-ones/) | [Solution](./solutions/Easy/0485-max-consecutive-ones/solution.py) |
+| construct-the-rectangle | 492. Construct The Rectangle | Easy | python3 | [Problem](https://leetcode.com/problems/construct-the-rectangle/) | [Solution](./solutions/Easy/0492-construct-the-rectangle/solution.py) |
 | keyboard-row | 500. Keyboard Row | Easy | python3 | [Problem](https://leetcode.com/problems/keyboard-row/) | [Solution](./solutions/Easy/0500-keyboard-row/solution.py) |
 | find-mode-in-binary-search-tree | 501. Find Mode In Binary Search Tree | Easy | python3 | [Problem](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | [Solution](./solutions/Easy/0501-find-mode-in-binary-search-tree/solution.py) |
-| base-7 | 504. Base 7 | Easy | python3 | [Problem](https://leetcode.com/problems/base-7/) | [Solution](./solutions/Easy/0504-base-7/solution.py) |
 | fibonacci-number | 509. Fibonacci Number | Easy | python3 | [Problem](https://leetcode.com/problems/fibonacci-number/) | [Solution](./solutions/Easy/0509-fibonacci-number/solution.py) |
 | game-play-analysis-i | 511. Game Play Analysis I | Easy | mysql | [Problem](https://leetcode.com/problems/game-play-analysis-i/) | [Solution](./solutions/Easy/0511-game-play-analysis-i/solution.sql) |
-| longest-uncommon-subsequence-i | 521. Longest Uncommon Subsequence I | Easy | python3 | [Problem](https://leetcode.com/problems/longest-uncommon-subsequence-i/) | [Solution](./solutions/Easy/0521-longest-uncommon-subsequence-i/solution.py) |
+| detect-capital | 520. Detect Capital | Easy | python3 | [Problem](https://leetcode.com/problems/detect-capital/) | [Solution](./solutions/Easy/0520-detect-capital/solution.py) |
 | diameter-of-binary-tree | 543. Diameter Of Binary Tree | Easy | python3 | [Problem](https://leetcode.com/problems/diameter-of-binary-tree/) | [Solution](./solutions/Easy/0543-diameter-of-binary-tree/solution.py) |
 | maximum-depth-of-n-ary-tree | 559. Maximum Depth Of N Ary Tree | Easy | python3 | [Problem](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) | [Solution](./solutions/Easy/0559-maximum-depth-of-n-ary-tree/solution.py) |
 | array-partition | 561. Array Partition | Easy | python3 | [Problem](https://leetcode.com/problems/array-partition/) | [Solution](./solutions/Easy/0561-array-partition/solution.py) |
 | binary-tree-tilt | 563. Binary Tree Tilt | Easy | python3 | [Problem](https://leetcode.com/problems/binary-tree-tilt/) | [Solution](./solutions/Easy/0563-binary-tree-tilt/solution.py) |
 | distribute-candies | 575. Distribute Candies | Easy | python3 | [Problem](https://leetcode.com/problems/distribute-candies/) | [Solution](./solutions/Easy/0575-distribute-candies/solution.py) |
 | employee-bonus | 577. Employee Bonus | Easy | mysql | [Problem](https://leetcode.com/problems/employee-bonus/) | [Solution](./solutions/Easy/0577-employee-bonus/solution.sql) |
-| customer-placing-the-largest-number-of-orders | 586. Customer Placing The Largest Number Of Orders | Easy | mysql | [Problem](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | [Solution](./solutions/Easy/0586-customer-placing-the-largest-number-of-orders/solution.sql) |
+| find-customer-referee | 584. Find Customer Referee | Easy | mysql | [Problem](https://leetcode.com/problems/find-customer-referee/) | [Solution](./solutions/Easy/0584-find-customer-referee/solution.sql) |
 | longest-harmonious-subsequence | 594. Longest Harmonious Subsequence | Easy | python3 | [Problem](https://leetcode.com/problems/longest-harmonious-subsequence/) | [Solution](./solutions/Easy/0594-longest-harmonious-subsequence/solution.py) |
-| classes-with-at-least-5-students | 596. Classes With At Least 5 Students | Easy | mysql | [Problem](https://leetcode.com/problems/classes-with-at-least-5-students/) | [Solution](./solutions/Easy/0596-classes-with-at-least-5-students/solution.sql) |
+| big-countries | 595. Big Countries | Easy | mysql | [Problem](https://leetcode.com/problems/big-countries/) | [Solution](./solutions/Easy/0595-big-countries/solution.sql) |
 | maximum-length-of-pair-chain | Maximum Length of Pair Chain | Medium | python3 | [Problem](https://leetcode.com/problems/maximum-length-of-pair-chain/) | [Solution](./solutions/Medium/0646-maximum-length-of-pair-chain/solution.py) |
 | palindromic-substrings | Palindromic Substrings | Medium | python3 | [Problem](https://leetcode.com/problems/palindromic-substrings/) | [Solution](./solutions/Medium/0647-palindromic-substrings/solution.py) |
 | replace-words | Replace Words | Medium | python3 | [Problem](https://leetcode.com/problems/replace-words/) | [Solution](./solutions/Medium/0648-replace-words/solution.py) |
@@ -61,17 +61,18 @@
 | largest-palindrome-product | 479. Largest Palindrome Product | Hard | python3 | [Problem](https://leetcode.com/problems/largest-palindrome-product/) | [Solution](./solutions/Hard/0479-largest-palindrome-product/solution.py) |
 | sliding-window-median | 480. Sliding Window Median | Hard | python3 | [Problem](https://leetcode.com/problems/sliding-window-median/) | [Solution](./solutions/Hard/0480-sliding-window-median/solution.py) |
 | smallest-good-base | 483. Smallest Good Base | Hard | python3 | [Problem](https://leetcode.com/problems/smallest-good-base/) | [Solution](./solutions/Hard/0483-smallest-good-base/solution.py) |
+| max-consecutive-ones | 485. Max Consecutive Ones | Easy | python3 | [Problem](https://leetcode.com/problems/max-consecutive-ones/) | [Solution](./solutions/Easy/0485-max-consecutive-ones/solution.py) |
 | zuma-game | 488. Zuma Game | Hard | python3 | [Problem](https://leetcode.com/problems/zuma-game/) | [Solution](./solutions/Hard/0488-zuma-game/solution.py) |
-| construct-the-rectangle | 492. Construct The Rectangle | Easy | python3 | [Problem](https://leetcode.com/problems/construct-the-rectangle/) | [Solution](./solutions/Easy/0492-construct-the-rectangle/solution.py) |
 | reverse-pairs | 493. Reverse Pairs | Hard | python3 | [Problem](https://leetcode.com/problems/reverse-pairs/) | [Solution](./solutions/Hard/0493-reverse-pairs/solution.py) |
 | teemo-attacking | 495. Teemo Attacking | Easy | python3 | [Problem](https://leetcode.com/problems/teemo-attacking/) | [Solution](./solutions/Easy/0495-teemo-attacking/solution.py) |
 | next-greater-element-i | 496. Next Greater Element I | Easy | python3 | [Problem](https://leetcode.com/problems/next-greater-element-i/) | [Solution](./solutions/Easy/0496-next-greater-element-i/solution.py) |
 | ipo | 502. Ipo | Hard | python3 | [Problem](https://leetcode.com/problems/ipo/) | [Solution](./solutions/Hard/0502-ipo/solution.py) |
+| base-7 | 504. Base 7 | Easy | python3 | [Problem](https://leetcode.com/problems/base-7/) | [Solution](./solutions/Easy/0504-base-7/solution.py) |
 | relative-ranks | 506. Relative Ranks | Easy | python3 | [Problem](https://leetcode.com/problems/relative-ranks/) | [Solution](./solutions/Easy/0506-relative-ranks/solution.py) |
 | perfect-number | 507. Perfect Number | Easy | python3 | [Problem](https://leetcode.com/problems/perfect-number/) | [Solution](./solutions/Easy/0507-perfect-number/solution.py) |
 | freedom-trail | 514. Freedom Trail | Hard | python3 | [Problem](https://leetcode.com/problems/freedom-trail/) | [Solution](./solutions/Hard/0514-freedom-trail/solution.py) |
 | super-washing-machines | 517. Super Washing Machines | Hard | python3 | [Problem](https://leetcode.com/problems/super-washing-machines/) | [Solution](./solutions/Hard/0517-super-washing-machines/solution.py) |
-| detect-capital | 520. Detect Capital | Easy | python3 | [Problem](https://leetcode.com/problems/detect-capital/) | [Solution](./solutions/Easy/0520-detect-capital/solution.py) |
+| longest-uncommon-subsequence-i | 521. Longest Uncommon Subsequence I | Easy | python3 | [Problem](https://leetcode.com/problems/longest-uncommon-subsequence-i/) | [Solution](./solutions/Easy/0521-longest-uncommon-subsequence-i/solution.py) |
 | minimum-absolute-difference-in-bst | 530. Minimum Absolute Difference In Bst | Easy | python3 | [Problem](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [Solution](./solutions/Easy/0530-minimum-absolute-difference-in-bst/solution.py) |
 | reverse-string-ii | 541. Reverse String Ii | Easy | python3 | [Problem](https://leetcode.com/problems/reverse-string-ii/) | [Solution](./solutions/Easy/0541-reverse-string-ii/solution.py) |
 | remove-boxes | 546. Remove Boxes | Hard | python3 | [Problem](https://leetcode.com/problems/remove-boxes/) | [Solution](./solutions/Hard/0546-remove-boxes/solution.py) |
@@ -81,11 +82,11 @@
 | find-the-closest-palindrome | 564. Find The Closest Palindrome | Hard | python3 | [Problem](https://leetcode.com/problems/find-the-closest-palindrome/) | [Solution](./solutions/Hard/0564-find-the-closest-palindrome/solution.py) |
 | reshape-the-matrix | 566. Reshape The Matrix | Easy | python3 | [Problem](https://leetcode.com/problems/reshape-the-matrix/) | [Solution](./solutions/Easy/0566-reshape-the-matrix/solution.py) |
 | subtree-of-another-tree | 572. Subtree Of Another Tree | Easy | python3 | [Problem](https://leetcode.com/problems/subtree-of-another-tree/) | [Solution](./solutions/Easy/0572-subtree-of-another-tree/solution.py) |
-| find-customer-referee | 584. Find Customer Referee | Easy | mysql | [Problem](https://leetcode.com/problems/find-customer-referee/) | [Solution](./solutions/Easy/0584-find-customer-referee/solution.sql) |
+| customer-placing-the-largest-number-of-orders | 586. Customer Placing The Largest Number Of Orders | Easy | mysql | [Problem](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | [Solution](./solutions/Easy/0586-customer-placing-the-largest-number-of-orders/solution.sql) |
 | erect-the-fence | 587. Erect The Fence | Hard | python3 | [Problem](https://leetcode.com/problems/erect-the-fence/) | [Solution](./solutions/Hard/0587-erect-the-fence/solution.py) |
 | n-ary-tree-preorder-traversal | 589. N Ary Tree Preorder Traversal | Easy | python3 | [Problem](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [Solution](./solutions/Easy/0589-n-ary-tree-preorder-traversal/solution.py) |
 | tag-validator | 591. Tag Validator | Hard | python3 | [Problem](https://leetcode.com/problems/tag-validator/) | [Solution](./solutions/Hard/0591-tag-validator/solution.py) |
-| big-countries | 595. Big Countries | Easy | mysql | [Problem](https://leetcode.com/problems/big-countries/) | [Solution](./solutions/Easy/0595-big-countries/solution.sql) |
+| classes-with-at-least-5-students | 596. Classes With At Least 5 Students | Easy | mysql | [Problem](https://leetcode.com/problems/classes-with-at-least-5-students/) | [Solution](./solutions/Easy/0596-classes-with-at-least-5-students/solution.sql) |
 | range-addition-ii | 598. Range Addition Ii | Easy | python3 | [Problem](https://leetcode.com/problems/range-addition-ii/) | [Solution](./solutions/Easy/0598-range-addition-ii/solution.py) |
 | minimum-index-sum-of-two-lists | 599. Minimum Index Sum Of Two Lists | Easy | python3 | [Problem](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) | [Solution](./solutions/Easy/0599-minimum-index-sum-of-two-lists/solution.py) |
 | non-negative-integers-without-consecutive-ones | 600. Non Negative Integers Without Consecutive Ones | Hard | python3 | [Problem](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/) | [Solution](./solutions/Hard/0600-non-negative-integers-without-consecutive-ones/solution.py) |
@@ -100,7 +101,6 @@
 | maximum-product-of-three-numbers | 628. Maximum Product Of Three Numbers | Easy | python3 | [Problem](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [Solution](./solutions/Easy/0628-maximum-product-of-three-numbers/solution.py) |
 | k-inverse-pairs-array | 629. K Inverse Pairs Array | Hard | python3 | [Problem](https://leetcode.com/problems/k-inverse-pairs-array/) | [Solution](./solutions/Hard/0629-k-inverse-pairs-array/solution.py) |
 | course-schedule-iii | 630. Course Schedule Iii | Hard | python3 | [Problem](https://leetcode.com/problems/course-schedule-iii/) | [Solution](./solutions/Hard/0630-course-schedule-iii/solution.py) |
-| smallest-range-covering-elements-from-k-lists | 632. Smallest Range Covering Elements From K Lists | Hard | python3 | [Problem](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/) | [Solution](./solutions/Hard/0632-smallest-range-covering-elements-from-k-lists/solution.py) |
 | average-of-levels-in-binary-tree | 637. Average Of Levels In Binary Tree | Easy | python3 | [Problem](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [Solution](./solutions/Easy/0637-average-of-levels-in-binary-tree/solution.py) |
 | maximum-average-subarray-i | 643. Maximum Average Subarray I | Easy | python3 | [Problem](https://leetcode.com/problems/maximum-average-subarray-i/) | [Solution](./solutions/Easy/0643-maximum-average-subarray-i/solution.py) |
 | distribute-elements-into-two-arrays-i | 3069. Distribute Elements Into Two Arrays I | Easy | java | [Problem](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) | [Solution](./solutions/Easy/3069-distribute-elements-into-two-arrays-i/solution.java) |
