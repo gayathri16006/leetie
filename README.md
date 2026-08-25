@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 67 Solved
+## Progress Summary: 66 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -27,7 +27,6 @@
 | find-customer-referee | Find Customer Referee | Easy | mysql | [Problem](https://leetcode.com/problems/find-customer-referee/) | [Solution](./solutions/Easy/0584-find-customer-referee/solution.sql) |
 | first-bad-version | 278. First Bad Version | Easy | python3 | [Problem](https://leetcode.com/problems/first-bad-version/) | [Solution](./solutions/Easy/0278-first-bad-version/solution.py) |
 | fizz-buzz | 412. Fizz Buzz | Easy | python3 | [Problem](https://leetcode.com/problems/fizz-buzz/) | [Solution](./solutions/Easy/0412-fizz-buzz/solution.py) |
-| find-mode-in-binary-search-tree | 501. Find Mode In Binary Search Tree | Easy | python3 | [Problem](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | [Solution](./solutions/Easy/0501-find-mode-in-binary-search-tree/solution.py) |
 | fraction-addition-and-subtraction | Fraction Addition and Subtraction | Medium | python | [Problem](https://leetcode.com/problems/fraction-addition-and-subtraction/) | [Solution](./solutions/Medium/0592-fraction-addition-and-subtraction/solution.py) |
 | friend-requests-ii-who-has-the-most-friends | Friend Requests II: Who Has the Most Friends | Medium | mysql | [Problem](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/) | [Solution](./solutions/Medium/0602-friend-requests-ii-who-has-the-most-friends/solution.sql) |
 | game-play-analysis-i | Game Play Analysis I | Easy | mysql | [Problem](https://leetcode.com/problems/game-play-analysis-i/) | [Solution](./solutions/Easy/0511-game-play-analysis-i/solution.sql) |

@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Math, Two Pointers, Binary Search
 # Link     : https://leetcode.com/problems/sum-of-square-numbers/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19232000 (beats 0%)
+# Runtime  : 57 ms (beats 67%)
+# Memory   : 19488000 (beats 26%)
 # Language : python3
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
