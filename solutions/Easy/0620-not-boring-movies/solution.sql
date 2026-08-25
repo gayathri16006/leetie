@@ -3,8 +3,8 @@
 -- Difficulty: Easy
 -- Tags     : Database
 -- Link     : https://leetcode.com/problems/not-boring-movies/
--- Runtime  : 71 ms (beats 0%)
--- Memory   : 0B (beats 0%)
+-- Runtime  : 265 ms (beats 79%)
+-- Memory   : 0B (beats 100%)
 -- Language : mysql
 -- Copyright: (c) 2026 gayathri16006. All rights reserved.
 -- Synced by: leetie

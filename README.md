@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 69 Solved
+## Progress Summary: 68 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -39,7 +39,6 @@
 | find-mode-in-binary-search-tree | 501. Find Mode In Binary Search Tree | Easy | python3 | [Problem](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | [Solution](./solutions/Easy/0501-find-mode-in-binary-search-tree/solution.py) |
 | base-7 | 504. Base 7 | Easy | python3 | [Problem](https://leetcode.com/problems/base-7/) | [Solution](./solutions/Easy/0504-base-7/solution.py) |
 | fibonacci-number | 509. Fibonacci Number | Easy | python3 | [Problem](https://leetcode.com/problems/fibonacci-number/) | [Solution](./solutions/Easy/0509-fibonacci-number/solution.py) |
-| detect-capital | 520. Detect Capital | Easy | python3 | [Problem](https://leetcode.com/problems/detect-capital/) | [Solution](./solutions/Easy/0520-detect-capital/solution.py) |
 | logical-or-of-two-binary-grids-represented-as-quad-trees | Logical OR of Two Binary Grids Represented as Quad-Trees | Medium | python | [Problem](https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees/) | [Solution](./solutions/Medium/0558-logical-or-of-two-binary-grids-represented-as-quad-trees/solution.py) |
 | longest-harmonious-subsequence | Longest Harmonious Subsequence | Easy | python | [Problem](https://leetcode.com/problems/longest-harmonious-subsequence/) | [Solution](./solutions/Easy/0594-longest-harmonious-subsequence/solution.py) |
 | managers-with-at-least-5-direct-reports | Managers with at Least 5 Direct Reports | Medium | mysql | [Problem](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) | [Solution](./solutions/Medium/0570-managers-with-at-least-5-direct-reports/solution.sql) |
