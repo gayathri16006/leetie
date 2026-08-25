@@ -3,8 +3,8 @@
 # Difficulty: Easy
 # Tags     : Array, Stack, Simulation
 # Link     : https://leetcode.com/problems/baseball-game/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19224000 (beats 0%)
+# Runtime  : 0 ms (beats 100%)
+# Memory   : 19348000 (beats 81%)
 # Language : python3
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
