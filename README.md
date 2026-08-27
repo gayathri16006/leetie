@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 89 Solved
+## Progress Summary: 88 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -94,4 +94,3 @@
 | kth-largest-element-in-a-stream | 703. Kth Largest Element In A Stream | Easy | python3 | [Problem](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | [Solution](./solutions/Easy/0703-kth-largest-element-in-a-stream/solution.py) |
 | design-hashset | 705. Design Hashset | Easy | python3 | [Problem](https://leetcode.com/problems/design-hashset/) | [Solution](./solutions/Easy/0705-design-hashset/solution.py) |
 | design-hashmap | 706. Design Hashmap | Easy | python3 | [Problem](https://leetcode.com/problems/design-hashmap/) | [Solution](./solutions/Easy/0706-design-hashmap/solution.py) |
-| to-lower-case | 709. To Lower Case | Easy | python3 | [Problem](https://leetcode.com/problems/to-lower-case/) | [Solution](./solutions/Easy/0709-to-lower-case/solution.py) |
