@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : Array, Dynamic Programming, Backtracking, Breadth-First Search, Memoization, Matrix, Heuristic Search, Bidirectional Search, A* Search
 # Link     : https://leetcode.com/problems/sliding-puzzle/
-# Runtime  : 4 ms (beats 0%)
-# Memory   : 19320000 (beats 0%)
+# Runtime  : 7 ms (beats 58%)
+# Memory   : 19284000 (beats 87%)
 # Language : python3
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie

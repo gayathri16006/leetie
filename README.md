@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 89 Solved
+## Progress Summary: 88 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -94,4 +94,3 @@
 | to-lower-case | 709. To Lower Case | Easy | python3 | [Problem](https://leetcode.com/problems/to-lower-case/) | [Solution](./solutions/Easy/0709-to-lower-case/solution.py) |
 | 1-bit-and-2-bit-characters | 717. 1 Bit And 2 Bit Characters | Easy | python3 | [Problem](https://leetcode.com/problems/1-bit-and-2-bit-characters/) | [Solution](./solutions/Easy/0717-1-bit-and-2-bit-characters/solution.py) |
 | min-cost-climbing-stairs | 746. Min Cost Climbing Stairs | Easy | python3 | [Problem](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Solution](./solutions/Easy/0746-min-cost-climbing-stairs/solution.py) |
-| largest-number-at-least-twice-of-others | 747. Largest Number At Least Twice Of Others | Easy | python3 | [Problem](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | [Solution](./solutions/Easy/0747-largest-number-at-least-twice-of-others/solution.py) |
