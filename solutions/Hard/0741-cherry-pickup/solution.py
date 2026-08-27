@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : Array, Dynamic Programming, Matrix
 # Link     : https://leetcode.com/problems/cherry-pickup/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19412000 (beats 0%)
+# Runtime  : 514 ms (beats 26%)
+# Memory   : 74580000 (beats 38%)
 # Language : python3
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
