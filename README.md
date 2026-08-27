@@ -6,7 +6,6 @@
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
-| wildcard-matching | 44. Wildcard Matching | Hard | python3 | [Problem](https://leetcode.com/problems/wildcard-matching/) | [Solution](./solutions/Hard/0044-wildcard-matching/solution.py) |
 | first-bad-version | 278. First Bad Version | Easy | python3 | [Problem](https://leetcode.com/problems/first-bad-version/) | [Solution](./solutions/Easy/0278-first-bad-version/solution.py) |
 | is-subsequence | 392. Is Subsequence | Easy | python3 | [Problem](https://leetcode.com/problems/is-subsequence/) | [Solution](./solutions/Easy/0392-is-subsequence/solution.py) |
 | binary-watch | 401. Binary Watch | Easy | python3 | [Problem](https://leetcode.com/problems/binary-watch/) | [Solution](./solutions/Easy/0401-binary-watch/solution.py) |
@@ -25,41 +24,42 @@
 | find-mode-in-binary-search-tree | 501. Find Mode In Binary Search Tree | Easy | python3 | [Problem](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | [Solution](./solutions/Easy/0501-find-mode-in-binary-search-tree/solution.py) |
 | base-7 | 504. Base 7 | Easy | python3 | [Problem](https://leetcode.com/problems/base-7/) | [Solution](./solutions/Easy/0504-base-7/solution.py) |
 | fibonacci-number | 509. Fibonacci Number | Easy | python3 | [Problem](https://leetcode.com/problems/fibonacci-number/) | [Solution](./solutions/Easy/0509-fibonacci-number/solution.py) |
+| game-play-analysis-i | 511. Game Play Analysis I | Easy | mysql | [Problem](https://leetcode.com/problems/game-play-analysis-i/) | [Solution](./solutions/Easy/0511-game-play-analysis-i/solution.sql) |
 | detect-capital | 520. Detect Capital | Easy | python3 | [Problem](https://leetcode.com/problems/detect-capital/) | [Solution](./solutions/Easy/0520-detect-capital/solution.py) |
 | longest-uncommon-subsequence-i | 521. Longest Uncommon Subsequence I | Easy | python3 | [Problem](https://leetcode.com/problems/longest-uncommon-subsequence-i/) | [Solution](./solutions/Easy/0521-longest-uncommon-subsequence-i/solution.py) |
-| minimum-absolute-difference-in-bst | 530. Minimum Absolute Difference In Bst | Easy | python3 | [Problem](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [Solution](./solutions/Easy/0530-minimum-absolute-difference-in-bst/solution.py) |
 | diameter-of-binary-tree | 543. Diameter Of Binary Tree | Easy | python3 | [Problem](https://leetcode.com/problems/diameter-of-binary-tree/) | [Solution](./solutions/Easy/0543-diameter-of-binary-tree/solution.py) |
-| maximum-depth-of-n-ary-tree | 559. Maximum Depth Of N Ary Tree | Easy | python3 | [Problem](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) | [Solution](./solutions/Easy/0559-maximum-depth-of-n-ary-tree/solution.py) |
-| array-partition | 561. Array Partition | Easy | python3 | [Problem](https://leetcode.com/problems/array-partition/) | [Solution](./solutions/Easy/0561-array-partition/solution.py) |
+| distribute-candies | 575. Distribute Candies | Easy | python3 | [Problem](https://leetcode.com/problems/distribute-candies/) | [Solution](./solutions/Easy/0575-distribute-candies/solution.py) |
 | partition-labels | Partition Labels | Medium | python3 | [Problem](https://leetcode.com/problems/partition-labels/) | [Solution](./solutions/Medium/0763-partition-labels/solution.py) |
 | perfect-number | 507. Perfect Number | Easy | python3 | [Problem](https://leetcode.com/problems/perfect-number/) | [Solution](./solutions/Easy/0507-perfect-number/solution.py) |
+| maximum-depth-of-n-ary-tree | 559. Maximum Depth Of N Ary Tree | Easy | python3 | [Problem](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) | [Solution](./solutions/Easy/0559-maximum-depth-of-n-ary-tree/solution.py) |
+| array-partition | 561. Array Partition | Easy | python3 | [Problem](https://leetcode.com/problems/array-partition/) | [Solution](./solutions/Easy/0561-array-partition/solution.py) |
 | binary-tree-tilt | 563. Binary Tree Tilt | Easy | python3 | [Problem](https://leetcode.com/problems/binary-tree-tilt/) | [Solution](./solutions/Easy/0563-binary-tree-tilt/solution.py) |
-| distribute-candies | 575. Distribute Candies | Easy | python3 | [Problem](https://leetcode.com/problems/distribute-candies/) | [Solution](./solutions/Easy/0575-distribute-candies/solution.py) |
-| employee-bonus | 577. Employee Bonus | Easy | mysql | [Problem](https://leetcode.com/problems/employee-bonus/) | [Solution](./solutions/Easy/0577-employee-bonus/solution.sql) |
 | prime-number-of-set-bits-in-binary-representation | Prime Number of Set Bits in Binary Representation | Easy | python3 | [Problem](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | [Solution](./solutions/Easy/0762-prime-number-of-set-bits-in-binary-representation/solution.py) |
 | pyramid-transition-matrix | Pyramid Transition Matrix | Medium | python3 | [Problem](https://leetcode.com/problems/pyramid-transition-matrix/) | [Solution](./solutions/Medium/0756-pyramid-transition-matrix/solution.py) |
 | reach-a-number | Reach a Number | Medium | python3 | [Problem](https://leetcode.com/problems/reach-a-number/) | [Solution](./solutions/Medium/0754-reach-a-number/solution.py) |
 | relative-ranks | 506. Relative Ranks | Easy | python3 | [Problem](https://leetcode.com/problems/relative-ranks/) | [Solution](./solutions/Easy/0506-relative-ranks/solution.py) |
+| reorganize-string | Reorganize String | Medium | python3 | [Problem](https://leetcode.com/problems/reorganize-string/) | [Solution](./solutions/Medium/0767-reorganize-string/solution.py) |
 | reverse-words-in-a-string-iii | 557. Reverse Words In A String Iii | Easy | python3 | [Problem](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [Solution](./solutions/Easy/0557-reverse-words-in-a-string-iii/solution.py) |
-| reshape-the-matrix | 566. Reshape The Matrix | Easy | python3 | [Problem](https://leetcode.com/problems/reshape-the-matrix/) | [Solution](./solutions/Easy/0566-reshape-the-matrix/solution.py) |
 | set-intersection-size-at-least-two | Set Intersection Size At Least Two | Hard | python3 | [Problem](https://leetcode.com/problems/set-intersection-size-at-least-two/) | [Solution](./solutions/Hard/0757-set-intersection-size-at-least-two/solution.py) |
 | special-binary-string | Special Binary String | Hard | python3 | [Problem](https://leetcode.com/problems/special-binary-string/) | [Solution](./solutions/Hard/0761-special-binary-string/solution.py) |
-| third-maximum-number | 414. Third Maximum Number | Easy | python3 | [Problem](https://leetcode.com/problems/third-maximum-number/) | [Solution](./solutions/Easy/0414-third-maximum-number/solution.py) |
-| teemo-attacking | 495. Teemo Attacking | Easy | python3 | [Problem](https://leetcode.com/problems/teemo-attacking/) | [Solution](./solutions/Easy/0495-teemo-attacking/solution.py) |
-| reverse-string-ii | 541. Reverse String Ii | Easy | python3 | [Problem](https://leetcode.com/problems/reverse-string-ii/) | [Solution](./solutions/Easy/0541-reverse-string-ii/solution.py) |
-| student-attendance-record-i | 551. Student Attendance Record I | Easy | python3 | [Problem](https://leetcode.com/problems/student-attendance-record-i/) | [Solution](./solutions/Easy/0551-student-attendance-record-i/solution.py) |
 | toeplitz-matrix | Toeplitz Matrix | Easy | python3 | [Problem](https://leetcode.com/problems/toeplitz-matrix/) | [Solution](./solutions/Easy/0766-toeplitz-matrix/solution.py) |
 | two-sum | 1. Two Sum | Easy | java | [Problem](https://leetcode.com/problems/two-sum/) | [Solution](./solutions/Easy/0001-two-sum/solution.java) |
+| wildcard-matching | 44. Wildcard Matching | Hard | python3 | [Problem](https://leetcode.com/problems/wildcard-matching/) | [Solution](./solutions/Hard/0044-wildcard-matching/solution.py) |
 | text-justification | 68. Text Justification | Hard | python3 | [Problem](https://leetcode.com/problems/text-justification/) | [Solution](./solutions/Hard/0068-text-justification/solution.py) |
 | candy | 135. Candy | Hard | python3 | [Problem](https://leetcode.com/problems/candy/) | [Solution](./solutions/Hard/0135-candy/solution.py) |
 | the-skyline-problem | 218. The Skyline Problem | Hard | python3 | [Problem](https://leetcode.com/problems/the-skyline-problem/) | [Solution](./solutions/Hard/0218-the-skyline-problem/solution.py) |
 | contains-duplicate-iii | 220. Contains Duplicate Iii | Hard | python3 | [Problem](https://leetcode.com/problems/contains-duplicate-iii/) | [Solution](./solutions/Hard/0220-contains-duplicate-iii/solution.py) |
 | find-median-from-data-stream | 295. Find Median From Data Stream | Hard | python3 | [Problem](https://leetcode.com/problems/find-median-from-data-stream/) | [Solution](./solutions/Hard/0295-find-median-from-data-stream/solution.py) |
 | serialize-and-deserialize-binary-tree | 297. Serialize And Deserialize Binary Tree | Hard | python3 | [Problem](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Solution](./solutions/Hard/0297-serialize-and-deserialize-binary-tree/solution.py) |
-| count-of-smaller-numbers-after-self | 315. Count Of Smaller Numbers After Self | Hard | python3 | [Problem](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | [Solution](./solutions/Hard/0315-count-of-smaller-numbers-after-self/solution.py) |
 | sum-of-left-leaves | 404. Sum Of Left Leaves | Easy | python3 | [Problem](https://leetcode.com/problems/sum-of-left-leaves/) | [Solution](./solutions/Easy/0404-sum-of-left-leaves/solution.py) |
-| game-play-analysis-i | 511. Game Play Analysis I | Easy | mysql | [Problem](https://leetcode.com/problems/game-play-analysis-i/) | [Solution](./solutions/Easy/0511-game-play-analysis-i/solution.sql) |
+| third-maximum-number | 414. Third Maximum Number | Easy | python3 | [Problem](https://leetcode.com/problems/third-maximum-number/) | [Solution](./solutions/Easy/0414-third-maximum-number/solution.py) |
+| teemo-attacking | 495. Teemo Attacking | Easy | python3 | [Problem](https://leetcode.com/problems/teemo-attacking/) | [Solution](./solutions/Easy/0495-teemo-attacking/solution.py) |
+| minimum-absolute-difference-in-bst | 530. Minimum Absolute Difference In Bst | Easy | python3 | [Problem](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [Solution](./solutions/Easy/0530-minimum-absolute-difference-in-bst/solution.py) |
+| reverse-string-ii | 541. Reverse String Ii | Easy | python3 | [Problem](https://leetcode.com/problems/reverse-string-ii/) | [Solution](./solutions/Easy/0541-reverse-string-ii/solution.py) |
+| student-attendance-record-i | 551. Student Attendance Record I | Easy | python3 | [Problem](https://leetcode.com/problems/student-attendance-record-i/) | [Solution](./solutions/Easy/0551-student-attendance-record-i/solution.py) |
+| reshape-the-matrix | 566. Reshape The Matrix | Easy | python3 | [Problem](https://leetcode.com/problems/reshape-the-matrix/) | [Solution](./solutions/Easy/0566-reshape-the-matrix/solution.py) |
 | subtree-of-another-tree | 572. Subtree Of Another Tree | Easy | python3 | [Problem](https://leetcode.com/problems/subtree-of-another-tree/) | [Solution](./solutions/Easy/0572-subtree-of-another-tree/solution.py) |
+| employee-bonus | 577. Employee Bonus | Easy | mysql | [Problem](https://leetcode.com/problems/employee-bonus/) | [Solution](./solutions/Easy/0577-employee-bonus/solution.sql) |
 | find-customer-referee | 584. Find Customer Referee | Easy | mysql | [Problem](https://leetcode.com/problems/find-customer-referee/) | [Solution](./solutions/Easy/0584-find-customer-referee/solution.sql) |
 | customer-placing-the-largest-number-of-orders | 586. Customer Placing The Largest Number Of Orders | Easy | mysql | [Problem](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | [Solution](./solutions/Easy/0586-customer-placing-the-largest-number-of-orders/solution.sql) |
 | n-ary-tree-preorder-traversal | 589. N Ary Tree Preorder Traversal | Easy | python3 | [Problem](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [Solution](./solutions/Easy/0589-n-ary-tree-preorder-traversal/solution.py) |
