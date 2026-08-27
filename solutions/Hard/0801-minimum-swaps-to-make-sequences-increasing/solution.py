@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : Array, Dynamic Programming
 # Link     : https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19552000 (beats 0%)
+# Runtime  : 133 ms (beats 46%)
+# Memory   : 36240000 (beats 96%)
 # Language : python3
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
