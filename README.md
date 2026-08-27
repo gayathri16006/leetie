@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 86 Solved
+## Progress Summary: 85 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -30,7 +30,6 @@
 | base-7 | 504. Base 7 | Easy | python3 | [Problem](https://leetcode.com/problems/base-7/) | [Solution](./solutions/Easy/0504-base-7/solution.py) |
 | fibonacci-number | 509. Fibonacci Number | Easy | python3 | [Problem](https://leetcode.com/problems/fibonacci-number/) | [Solution](./solutions/Easy/0509-fibonacci-number/solution.py) |
 | game-play-analysis-i | 511. Game Play Analysis I | Easy | mysql | [Problem](https://leetcode.com/problems/game-play-analysis-i/) | [Solution](./solutions/Easy/0511-game-play-analysis-i/solution.sql) |
-| longest-uncommon-subsequence-i | 521. Longest Uncommon Subsequence I | Easy | python3 | [Problem](https://leetcode.com/problems/longest-uncommon-subsequence-i/) | [Solution](./solutions/Easy/0521-longest-uncommon-subsequence-i/solution.py) |
 | partition-labels | Partition Labels | Medium | python3 | [Problem](https://leetcode.com/problems/partition-labels/) | [Solution](./solutions/Medium/0763-partition-labels/solution.py) |
 | perfect-number | 507. Perfect Number | Easy | python3 | [Problem](https://leetcode.com/problems/perfect-number/) | [Solution](./solutions/Easy/0507-perfect-number/solution.py) |
 | detect-capital | 520. Detect Capital | Easy | python3 | [Problem](https://leetcode.com/problems/detect-capital/) | [Solution](./solutions/Easy/0520-detect-capital/solution.py) |
@@ -49,6 +48,7 @@
 | two-sum | 1. Two Sum | Easy | java | [Problem](https://leetcode.com/problems/two-sum/) | [Solution](./solutions/Easy/0001-two-sum/solution.java) |
 | third-maximum-number | 414. Third Maximum Number | Easy | python3 | [Problem](https://leetcode.com/problems/third-maximum-number/) | [Solution](./solutions/Easy/0414-third-maximum-number/solution.py) |
 | teemo-attacking | 495. Teemo Attacking | Easy | python3 | [Problem](https://leetcode.com/problems/teemo-attacking/) | [Solution](./solutions/Easy/0495-teemo-attacking/solution.py) |
+| longest-uncommon-subsequence-i | 521. Longest Uncommon Subsequence I | Easy | python3 | [Problem](https://leetcode.com/problems/longest-uncommon-subsequence-i/) | [Solution](./solutions/Easy/0521-longest-uncommon-subsequence-i/solution.py) |
 | minimum-absolute-difference-in-bst | 530. Minimum Absolute Difference In Bst | Easy | python3 | [Problem](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [Solution](./solutions/Easy/0530-minimum-absolute-difference-in-bst/solution.py) |
 | reverse-string-ii | 541. Reverse String Ii | Easy | python3 | [Problem](https://leetcode.com/problems/reverse-string-ii/) | [Solution](./solutions/Easy/0541-reverse-string-ii/solution.py) |
 | diameter-of-binary-tree | 543. Diameter Of Binary Tree | Easy | python3 | [Problem](https://leetcode.com/problems/diameter-of-binary-tree/) | [Solution](./solutions/Easy/0543-diameter-of-binary-tree/solution.py) |
@@ -91,4 +91,3 @@
 | count-binary-substrings | 696. Count Binary Substrings | Easy | python3 | [Problem](https://leetcode.com/problems/count-binary-substrings/) | [Solution](./solutions/Easy/0696-count-binary-substrings/solution.py) |
 | degree-of-an-array | 697. Degree Of An Array | Easy | python3 | [Problem](https://leetcode.com/problems/degree-of-an-array/) | [Solution](./solutions/Easy/0697-degree-of-an-array/solution.py) |
 | search-in-a-binary-search-tree | 700. Search In A Binary Search Tree | Easy | python3 | [Problem](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Solution](./solutions/Easy/0700-search-in-a-binary-search-tree/solution.py) |
-| kth-largest-element-in-a-stream | 703. Kth Largest Element In A Stream | Easy | python3 | [Problem](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | [Solution](./solutions/Easy/0703-kth-largest-element-in-a-stream/solution.py) |

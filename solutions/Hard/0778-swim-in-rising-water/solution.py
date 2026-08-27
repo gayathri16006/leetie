@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : Array, Binary Search, Depth-First Search, Breadth-First Search, Union-Find, Minimax, Heap (Priority Queue), Matrix, Dijkstra's Algorithm
 # Link     : https://leetcode.com/problems/swim-in-rising-water/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19284000 (beats 0%)
+# Runtime  : 16 ms (beats 92%)
+# Memory   : 20032000 (beats 26%)
 # Language : python3
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
