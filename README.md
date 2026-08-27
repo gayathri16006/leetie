@@ -20,14 +20,13 @@
 | k-th-symbol-in-grammar | K-th Symbol in Grammar | Medium | python3 | [Problem](https://leetcode.com/problems/k-th-symbol-in-grammar/) | [Solution](./solutions/Medium/0779-k-th-symbol-in-grammar/solution.py) |
 | largest-plus-sign | Largest Plus Sign | Medium | python3 | [Problem](https://leetcode.com/problems/largest-plus-sign/) | [Solution](./solutions/Medium/0764-largest-plus-sign/solution.py) |
 | letter-case-permutation | Letter Case Permutation | Medium | python3 | [Problem](https://leetcode.com/problems/letter-case-permutation/) | [Solution](./solutions/Medium/0784-letter-case-permutation/solution.py) |
+| license-key-formatting | 482. License Key Formatting | Easy | python3 | [Problem](https://leetcode.com/problems/license-key-formatting/) | [Solution](./solutions/Easy/0482-license-key-formatting/solution.py) |
 | max-chunks-to-make-sorted | Max Chunks To Make Sorted | Medium | python3 | [Problem](https://leetcode.com/problems/max-chunks-to-make-sorted/) | [Solution](./solutions/Medium/0769-max-chunks-to-make-sorted/solution.py) |
 | max-chunks-to-make-sorted-ii | Max Chunks To Make Sorted II | Hard | python3 | [Problem](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/) | [Solution](./solutions/Hard/0768-max-chunks-to-make-sorted-ii/solution.py) |
 | number-of-segments-in-a-string | 434. Number Of Segments In A String | Easy | python3 | [Problem](https://leetcode.com/problems/number-of-segments-in-a-string/) | [Solution](./solutions/Easy/0434-number-of-segments-in-a-string/solution.py) |
 | number-complement | 476. Number Complement | Easy | python3 | [Problem](https://leetcode.com/problems/number-complement/) | [Solution](./solutions/Easy/0476-number-complement/solution.py) |
-| license-key-formatting | 482. License Key Formatting | Easy | python3 | [Problem](https://leetcode.com/problems/license-key-formatting/) | [Solution](./solutions/Easy/0482-license-key-formatting/solution.py) |
 | max-consecutive-ones | 485. Max Consecutive Ones | Easy | python3 | [Problem](https://leetcode.com/problems/max-consecutive-ones/) | [Solution](./solutions/Easy/0485-max-consecutive-ones/solution.py) |
 | construct-the-rectangle | 492. Construct The Rectangle | Easy | python3 | [Problem](https://leetcode.com/problems/construct-the-rectangle/) | [Solution](./solutions/Easy/0492-construct-the-rectangle/solution.py) |
-| next-greater-element-i | 496. Next Greater Element I | Easy | python3 | [Problem](https://leetcode.com/problems/next-greater-element-i/) | [Solution](./solutions/Easy/0496-next-greater-element-i/solution.py) |
 | partition-labels | Partition Labels | Medium | python3 | [Problem](https://leetcode.com/problems/partition-labels/) | [Solution](./solutions/Medium/0763-partition-labels/solution.py) |
 | prime-number-of-set-bits-in-binary-representation | Prime Number of Set Bits in Binary Representation | Easy | python3 | [Problem](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | [Solution](./solutions/Easy/0762-prime-number-of-set-bits-in-binary-representation/solution.py) |
 | pyramid-transition-matrix | Pyramid Transition Matrix | Medium | python3 | [Problem](https://leetcode.com/problems/pyramid-transition-matrix/) | [Solution](./solutions/Medium/0756-pyramid-transition-matrix/solution.py) |
@@ -35,6 +34,7 @@
 | reach-a-number | Reach a Number | Medium | python3 | [Problem](https://leetcode.com/problems/reach-a-number/) | [Solution](./solutions/Medium/0754-reach-a-number/solution.py) |
 | reaching-points | Reaching Points | Hard | python3 | [Problem](https://leetcode.com/problems/reaching-points/) | [Solution](./solutions/Hard/0780-reaching-points/solution.py) |
 | reorganize-string | Reorganize String | Medium | python3 | [Problem](https://leetcode.com/problems/reorganize-string/) | [Solution](./solutions/Medium/0767-reorganize-string/solution.py) |
+| rotated-digits | Rotated Digits | Medium | python3 | [Problem](https://leetcode.com/problems/rotated-digits/) | [Solution](./solutions/Medium/0788-rotated-digits/solution.py) |
 | set-intersection-size-at-least-two | Set Intersection Size At Least Two | Hard | python3 | [Problem](https://leetcode.com/problems/set-intersection-size-at-least-two/) | [Solution](./solutions/Hard/0757-set-intersection-size-at-least-two/solution.py) |
 | sliding-puzzle | Sliding Puzzle | Hard | python3 | [Problem](https://leetcode.com/problems/sliding-puzzle/) | [Solution](./solutions/Hard/0773-sliding-puzzle/solution.py) |
 | special-binary-string | Special Binary String | Hard | python3 | [Problem](https://leetcode.com/problems/special-binary-string/) | [Solution](./solutions/Hard/0761-special-binary-string/solution.py) |
@@ -46,6 +46,7 @@
 | toeplitz-matrix | Toeplitz Matrix | Easy | python3 | [Problem](https://leetcode.com/problems/toeplitz-matrix/) | [Solution](./solutions/Easy/0766-toeplitz-matrix/solution.py) |
 | transform-to-chessboard | Transform to Chessboard | Hard | python3 | [Problem](https://leetcode.com/problems/transform-to-chessboard/) | [Solution](./solutions/Hard/0782-transform-to-chessboard/solution.py) |
 | two-sum | 1. Two Sum | Easy | java | [Problem](https://leetcode.com/problems/two-sum/) | [Solution](./solutions/Easy/0001-two-sum/solution.java) |
+| next-greater-element-i | 496. Next Greater Element I | Easy | python3 | [Problem](https://leetcode.com/problems/next-greater-element-i/) | [Solution](./solutions/Easy/0496-next-greater-element-i/solution.py) |
 | keyboard-row | 500. Keyboard Row | Easy | python3 | [Problem](https://leetcode.com/problems/keyboard-row/) | [Solution](./solutions/Easy/0500-keyboard-row/solution.py) |
 | find-mode-in-binary-search-tree | 501. Find Mode In Binary Search Tree | Easy | python3 | [Problem](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | [Solution](./solutions/Easy/0501-find-mode-in-binary-search-tree/solution.py) |
 | base-7 | 504. Base 7 | Easy | python3 | [Problem](https://leetcode.com/problems/base-7/) | [Solution](./solutions/Easy/0504-base-7/solution.py) |
@@ -86,4 +87,3 @@
 | average-of-levels-in-binary-tree | 637. Average Of Levels In Binary Tree | Easy | python3 | [Problem](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [Solution](./solutions/Easy/0637-average-of-levels-in-binary-tree/solution.py) |
 | maximum-average-subarray-i | 643. Maximum Average Subarray I | Easy | python3 | [Problem](https://leetcode.com/problems/maximum-average-subarray-i/) | [Solution](./solutions/Easy/0643-maximum-average-subarray-i/solution.py) |
 | set-mismatch | 645. Set Mismatch | Easy | python3 | [Problem](https://leetcode.com/problems/set-mismatch/) | [Solution](./solutions/Easy/0645-set-mismatch/solution.py) |
-| two-sum-iv-input-is-a-bst | 653. Two Sum Iv Input Is A Bst | Easy | python3 | [Problem](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | [Solution](./solutions/Easy/0653-two-sum-iv-input-is-a-bst/solution.py) |
