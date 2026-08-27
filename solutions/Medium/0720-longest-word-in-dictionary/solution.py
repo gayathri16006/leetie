@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Hash Table, String, Trie, Sorting
 # Link     : https://leetcode.com/problems/longest-word-in-dictionary/
-# Runtime  : 7 ms (beats 80%)
-# Memory   : 19628000 (beats 43%)
+# Runtime  : 0 ms (beats 0%)
+# Memory   : 19132000 (beats 0%)
 # Language : python3
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
@@ -12,14 +12,14 @@
 
 class Solution:
     def longestWord(self, words: list[str]) -> str:
-        # Sort words lexicographically first
+        # Sort lexicographically first so the earliest valid word of max length is preferred
         words.sort()
         
         built = {""}
         longest = ""
         
         for word in words:
-            # Check if prefix of length len(word) - 1 exists
+            # Check if prefix of length len(word) - 1 can be built
             if word[:-1] in built:
                 built.add(word)
                 if len(word) > len(longest):
