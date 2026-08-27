@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Hash Table, String, Backtracking, Bit Manipulation
 # Link     : https://leetcode.com/problems/pyramid-transition-matrix/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19216000 (beats 0%)
+# Runtime  : 115 ms (beats 78%)
+# Memory   : 21332000 (beats 66%)
 # Language : python3
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
