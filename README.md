@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 93 Solved
+## Progress Summary: 92 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -10,18 +10,17 @@
 | wildcard-matching | 44. Wildcard Matching | Hard | python3 | [Problem](https://leetcode.com/problems/wildcard-matching/) | [Solution](./solutions/Hard/0044-wildcard-matching/solution.py) |
 | text-justification | 68. Text Justification | Hard | python3 | [Problem](https://leetcode.com/problems/text-justification/) | [Solution](./solutions/Hard/0068-text-justification/solution.py) |
 | candy | 135. Candy | Hard | python3 | [Problem](https://leetcode.com/problems/candy/) | [Solution](./solutions/Hard/0135-candy/solution.py) |
+| the-skyline-problem | 218. The Skyline Problem | Hard | python3 | [Problem](https://leetcode.com/problems/the-skyline-problem/) | [Solution](./solutions/Hard/0218-the-skyline-problem/solution.py) |
+| contains-duplicate-iii | 220. Contains Duplicate Iii | Hard | python3 | [Problem](https://leetcode.com/problems/contains-duplicate-iii/) | [Solution](./solutions/Hard/0220-contains-duplicate-iii/solution.py) |
 | binary-watch | 401. Binary Watch | Easy | python3 | [Problem](https://leetcode.com/problems/binary-watch/) | [Solution](./solutions/Easy/0401-binary-watch/solution.py) |
 | add-strings | 415. Add Strings | Easy | python3 | [Problem](https://leetcode.com/problems/add-strings/) | [Solution](./solutions/Easy/0415-add-strings/solution.py) |
 | arranging-coins | 441. Arranging Coins | Easy | python3 | [Problem](https://leetcode.com/problems/arranging-coins/) | [Solution](./solutions/Easy/0441-arranging-coins/solution.py) |
 | assign-cookies | 455. Assign Cookies | Easy | python3 | [Problem](https://leetcode.com/problems/assign-cookies/) | [Solution](./solutions/Easy/0455-assign-cookies/solution.py) |
 | cherry-pickup | Cherry Pickup | Hard | python3 | [Problem](https://leetcode.com/problems/cherry-pickup/) | [Solution](./solutions/Hard/0741-cherry-pickup/solution.py) |
-| the-skyline-problem | 218. The Skyline Problem | Hard | python3 | [Problem](https://leetcode.com/problems/the-skyline-problem/) | [Solution](./solutions/Hard/0218-the-skyline-problem/solution.py) |
-| contains-duplicate-iii | 220. Contains Duplicate Iii | Hard | python3 | [Problem](https://leetcode.com/problems/contains-duplicate-iii/) | [Solution](./solutions/Hard/0220-contains-duplicate-iii/solution.py) |
 | count-different-palindromic-subsequences | Count Different Palindromic Subsequences | Hard | python3 | [Problem](https://leetcode.com/problems/count-different-palindromic-subsequences/) | [Solution](./solutions/Hard/0730-count-different-palindromic-subsequences/solution.py) |
 | daily-temperatures | Daily Temperatures | Medium | python3 | [Problem](https://leetcode.com/problems/daily-temperatures/) | [Solution](./solutions/Medium/0739-daily-temperatures/solution.py) |
 | delete-and-earn | Delete and Earn | Medium | python3 | [Problem](https://leetcode.com/problems/delete-and-earn/) | [Solution](./solutions/Medium/0740-delete-and-earn/solution.py) |
 | first-bad-version | 278. First Bad Version | Easy | python3 | [Problem](https://leetcode.com/problems/first-bad-version/) | [Solution](./solutions/Easy/0278-first-bad-version/solution.py) |
-| find-median-from-data-stream | 295. Find Median From Data Stream | Hard | python3 | [Problem](https://leetcode.com/problems/find-median-from-data-stream/) | [Solution](./solutions/Hard/0295-find-median-from-data-stream/solution.py) |
 | is-subsequence | 392. Is Subsequence | Easy | python3 | [Problem](https://leetcode.com/problems/is-subsequence/) | [Solution](./solutions/Easy/0392-is-subsequence/solution.py) |
 | fizz-buzz | 412. Fizz Buzz | Easy | python3 | [Problem](https://leetcode.com/problems/fizz-buzz/) | [Solution](./solutions/Easy/0412-fizz-buzz/solution.py) |
 | largest-number-at-least-twice-of-others | Largest Number At Least Twice of Others | Easy | python3 | [Problem](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | [Solution](./solutions/Easy/0747-largest-number-at-least-twice-of-others/solution.py) |
