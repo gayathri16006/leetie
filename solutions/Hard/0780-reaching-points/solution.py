@@ -4,7 +4,7 @@
 # Tags     : Math, Euclidean Algorithm, Greatest Common Divisor
 # Link     : https://leetcode.com/problems/reaching-points/
 # Runtime  : 0 ms (beats 100%)
-# Memory   : 19336000 (beats 41%)
+# Memory   : 19332000 (beats 41%)
 # Language : python3
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
