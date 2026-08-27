@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Math
 # Link     : https://leetcode.com/problems/escape-the-ghosts/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19132000 (beats 0%)
+# Runtime  : 0 ms (beats 100%)
+# Memory   : 19292000 (beats 70%)
 # Language : python3
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
