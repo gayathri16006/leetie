@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort, Kosaraju's Algorithm, Tarjan's SCC Algorithm
 # Link     : https://leetcode.com/problems/find-eventual-safe-states/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19244000 (beats 0%)
+# Runtime  : 18 ms (beats 96%)
+# Memory   : 27444000 (beats 47%)
 # Language : python3
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
