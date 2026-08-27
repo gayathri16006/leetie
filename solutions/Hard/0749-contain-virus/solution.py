@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : Array, Depth-First Search, Breadth-First Search, Matrix, Simulation
 # Link     : https://leetcode.com/problems/contain-virus/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19332000 (beats 0%)
+# Runtime  : 28 ms (beats 50%)
+# Memory   : 20500000 (beats 29%)
 # Language : python3
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
