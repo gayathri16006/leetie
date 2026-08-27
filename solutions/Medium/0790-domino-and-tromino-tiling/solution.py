@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Dynamic Programming
 # Link     : https://leetcode.com/problems/domino-and-tromino-tiling/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 18832000 (beats 0%)
+# Runtime  : 2 ms (beats 59%)
+# Memory   : 19240000 (beats 78%)
 # Language : python3
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
