@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 98 Solved
+## Progress Summary: 97 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -42,7 +42,6 @@
 | reverse-words-in-a-string-iii | 557. Reverse Words In A String Iii | Easy | python3 | [Problem](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [Solution](./solutions/Easy/0557-reverse-words-in-a-string-iii/solution.py) |
 | binary-tree-tilt | 563. Binary Tree Tilt | Easy | python3 | [Problem](https://leetcode.com/problems/binary-tree-tilt/) | [Solution](./solutions/Easy/0563-binary-tree-tilt/solution.py) |
 | reshape-the-matrix | 566. Reshape The Matrix | Easy | python3 | [Problem](https://leetcode.com/problems/reshape-the-matrix/) | [Solution](./solutions/Easy/0566-reshape-the-matrix/solution.py) |
-| range-addition-ii | 598. Range Addition Ii | Easy | python3 | [Problem](https://leetcode.com/problems/range-addition-ii/) | [Solution](./solutions/Easy/0598-range-addition-ii/solution.py) |
 | set-intersection-size-at-least-two | Set Intersection Size At Least Two | Hard | python3 | [Problem](https://leetcode.com/problems/set-intersection-size-at-least-two/) | [Solution](./solutions/Hard/0757-set-intersection-size-at-least-two/solution.py) |
 | special-binary-string | Special Binary String | Hard | python3 | [Problem](https://leetcode.com/problems/special-binary-string/) | [Solution](./solutions/Hard/0761-special-binary-string/solution.py) |
 | two-sum | 1. Two Sum | Easy | java | [Problem](https://leetcode.com/problems/two-sum/) | [Solution](./solutions/Easy/0001-two-sum/solution.java) |
@@ -64,7 +63,6 @@
 | third-maximum-number | 414. Third Maximum Number | Easy | python3 | [Problem](https://leetcode.com/problems/third-maximum-number/) | [Solution](./solutions/Easy/0414-third-maximum-number/solution.py) |
 | strong-password-checker | 420. Strong Password Checker | Hard | python3 | [Problem](https://leetcode.com/problems/strong-password-checker/) | [Solution](./solutions/Hard/0420-strong-password-checker/solution.py) |
 | all-oone-data-structure | 432. All Oone Data Structure | Hard | python3 | [Problem](https://leetcode.com/problems/all-oone-data-structure/) | [Solution](./solutions/Hard/0432-all-oone-data-structure/solution.py) |
-| count-the-repetitions | 466. Count The Repetitions | Hard | python3 | [Problem](https://leetcode.com/problems/count-the-repetitions/) | [Solution](./solutions/Hard/0466-count-the-repetitions/solution.py) |
 | teemo-attacking | 495. Teemo Attacking | Easy | python3 | [Problem](https://leetcode.com/problems/teemo-attacking/) | [Solution](./solutions/Easy/0495-teemo-attacking/solution.py) |
 | game-play-analysis-i | 511. Game Play Analysis I | Easy | mysql | [Problem](https://leetcode.com/problems/game-play-analysis-i/) | [Solution](./solutions/Easy/0511-game-play-analysis-i/solution.sql) |
 | reverse-string-ii | 541. Reverse String Ii | Easy | python3 | [Problem](https://leetcode.com/problems/reverse-string-ii/) | [Solution](./solutions/Easy/0541-reverse-string-ii/solution.py) |
@@ -72,6 +70,7 @@
 | subtree-of-another-tree | 572. Subtree Of Another Tree | Easy | python3 | [Problem](https://leetcode.com/problems/subtree-of-another-tree/) | [Solution](./solutions/Easy/0572-subtree-of-another-tree/solution.py) |
 | customer-placing-the-largest-number-of-orders | 586. Customer Placing The Largest Number Of Orders | Easy | mysql | [Problem](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | [Solution](./solutions/Easy/0586-customer-placing-the-largest-number-of-orders/solution.sql) |
 | classes-with-at-least-5-students | 596. Classes With At Least 5 Students | Easy | mysql | [Problem](https://leetcode.com/problems/classes-with-at-least-5-students/) | [Solution](./solutions/Easy/0596-classes-with-at-least-5-students/solution.sql) |
+| range-addition-ii | 598. Range Addition Ii | Easy | python3 | [Problem](https://leetcode.com/problems/range-addition-ii/) | [Solution](./solutions/Easy/0598-range-addition-ii/solution.py) |
 | minimum-index-sum-of-two-lists | 599. Minimum Index Sum Of Two Lists | Easy | python3 | [Problem](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) | [Solution](./solutions/Easy/0599-minimum-index-sum-of-two-lists/solution.py) |
 | can-place-flowers | 605. Can Place Flowers | Easy | python3 | [Problem](https://leetcode.com/problems/can-place-flowers/) | [Solution](./solutions/Easy/0605-can-place-flowers/solution.py) |
 | sales-person | 607. Sales Person | Easy | mysql | [Problem](https://leetcode.com/problems/sales-person/) | [Solution](./solutions/Easy/0607-sales-person/solution.sql) |

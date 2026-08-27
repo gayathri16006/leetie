@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : String, Divide and Conquer, Sorting
 # Link     : https://leetcode.com/problems/special-binary-string/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19152000 (beats 0%)
+# Runtime  : 1 ms (beats 25%)
+# Memory   : 19248000 (beats 59%)
 # Language : python3
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
