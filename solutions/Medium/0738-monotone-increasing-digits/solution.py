@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Math, Greedy
 # Link     : https://leetcode.com/problems/monotone-increasing-digits/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19204000 (beats 0%)
+# Runtime  : 4 ms (beats 4%)
+# Memory   : 19324000 (beats 21%)
 # Language : python3
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
