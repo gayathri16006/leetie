@@ -3,8 +3,8 @@
 # Difficulty: Easy
 # Tags     : Array
 # Link     : https://leetcode.com/problems/longest-continuous-increasing-subsequence/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19396000 (beats 0%)
+# Runtime  : 2 ms (beats 61%)
+# Memory   : 20508000 (beats 15%)
 # Language : python3
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
