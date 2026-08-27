@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Math, Binary Search
 # Link     : https://leetcode.com/problems/reach-a-number/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19240000 (beats 0%)
+# Runtime  : 39 ms (beats 62%)
+# Memory   : 19224000 (beats 53%)
 # Language : python3
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
