@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Hash Table, Dynamic Programming
 # Link     : https://leetcode.com/problems/delete-and-earn/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19404000 (beats 0%)
+# Runtime  : 11 ms (beats 32%)
+# Memory   : 20928000 (beats 57%)
 # Language : python3
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
