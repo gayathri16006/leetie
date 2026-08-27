@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Two Pointers, String
 # Link     : https://leetcode.com/problems/swap-adjacent-in-lr-string/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19416000 (beats 0%)
+# Runtime  : 7 ms (beats 65%)
+# Memory   : 19300000 (beats 77%)
 # Language : python3
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
