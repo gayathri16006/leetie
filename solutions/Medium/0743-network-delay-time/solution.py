@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Depth-First Search, Breadth-First Search, Graph Theory, Heap (Priority Queue), Shortest Path, Dijkstra's Algorithm
 # Link     : https://leetcode.com/problems/network-delay-time/
-# Runtime  : 43 ms (beats 0%)
-# Memory   : 19372000 (beats 0%)
+# Runtime  : 357 ms (beats 19%)
+# Memory   : 22080000 (beats 9%)
 # Language : python3
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
