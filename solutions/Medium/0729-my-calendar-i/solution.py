@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Binary Search, Design, Segment Tree, Ordered Set
 # Link     : https://leetcode.com/problems/my-calendar-i/
-# Runtime  : 29 ms (beats 91%)
-# Memory   : 20204000 (beats 25%)
+# Runtime  : 19 ms (beats 98%)
+# Memory   : 20312000 (beats 6%)
 # Language : python3
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
