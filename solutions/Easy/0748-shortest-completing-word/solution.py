@@ -3,8 +3,8 @@
 # Difficulty: Easy
 # Tags     : Array, Hash Table, String
 # Link     : https://leetcode.com/problems/shortest-completing-word/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19560000 (beats 0%)
+# Runtime  : 35 ms (beats 17%)
+# Memory   : 19552000 (beats 43%)
 # Language : python3
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
