@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Math
 # Link     : https://leetcode.com/problems/global-and-local-inversions/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19036000 (beats 0%)
+# Runtime  : 20 ms (beats 65%)
+# Memory   : 30456000 (beats 42%)
 # Language : python3
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
