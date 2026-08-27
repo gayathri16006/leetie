@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : Array, Greedy, Sorting
 # Link     : https://leetcode.com/problems/set-intersection-size-at-least-two/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19216000 (beats 0%)
+# Runtime  : 2 ms (beats 94%)
+# Memory   : 20584000 (beats 90%)
 # Language : python3
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
