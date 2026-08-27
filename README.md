@@ -2,10 +2,11 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 92 Solved
+## Progress Summary: 91 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
+| wildcard-matching | 44. Wildcard Matching | Hard | python3 | [Problem](https://leetcode.com/problems/wildcard-matching/) | [Solution](./solutions/Hard/0044-wildcard-matching/solution.py) |
 | first-bad-version | 278. First Bad Version | Easy | python3 | [Problem](https://leetcode.com/problems/first-bad-version/) | [Solution](./solutions/Easy/0278-first-bad-version/solution.py) |
 | is-subsequence | 392. Is Subsequence | Easy | python3 | [Problem](https://leetcode.com/problems/is-subsequence/) | [Solution](./solutions/Easy/0392-is-subsequence/solution.py) |
 | binary-watch | 401. Binary Watch | Easy | python3 | [Problem](https://leetcode.com/problems/binary-watch/) | [Solution](./solutions/Easy/0401-binary-watch/solution.py) |
@@ -44,11 +45,9 @@
 | special-binary-string | Special Binary String | Hard | python3 | [Problem](https://leetcode.com/problems/special-binary-string/) | [Solution](./solutions/Hard/0761-special-binary-string/solution.py) |
 | toeplitz-matrix | Toeplitz Matrix | Easy | python3 | [Problem](https://leetcode.com/problems/toeplitz-matrix/) | [Solution](./solutions/Easy/0766-toeplitz-matrix/solution.py) |
 | two-sum | 1. Two Sum | Easy | java | [Problem](https://leetcode.com/problems/two-sum/) | [Solution](./solutions/Easy/0001-two-sum/solution.java) |
-| wildcard-matching | 44. Wildcard Matching | Hard | python3 | [Problem](https://leetcode.com/problems/wildcard-matching/) | [Solution](./solutions/Hard/0044-wildcard-matching/solution.py) |
 | text-justification | 68. Text Justification | Hard | python3 | [Problem](https://leetcode.com/problems/text-justification/) | [Solution](./solutions/Hard/0068-text-justification/solution.py) |
 | candy | 135. Candy | Hard | python3 | [Problem](https://leetcode.com/problems/candy/) | [Solution](./solutions/Hard/0135-candy/solution.py) |
 | the-skyline-problem | 218. The Skyline Problem | Hard | python3 | [Problem](https://leetcode.com/problems/the-skyline-problem/) | [Solution](./solutions/Hard/0218-the-skyline-problem/solution.py) |
-| contains-duplicate-iii | 220. Contains Duplicate Iii | Hard | python3 | [Problem](https://leetcode.com/problems/contains-duplicate-iii/) | [Solution](./solutions/Hard/0220-contains-duplicate-iii/solution.py) |
 | sum-of-left-leaves | 404. Sum Of Left Leaves | Easy | python3 | [Problem](https://leetcode.com/problems/sum-of-left-leaves/) | [Solution](./solutions/Easy/0404-sum-of-left-leaves/solution.py) |
 | third-maximum-number | 414. Third Maximum Number | Easy | python3 | [Problem](https://leetcode.com/problems/third-maximum-number/) | [Solution](./solutions/Easy/0414-third-maximum-number/solution.py) |
 | teemo-attacking | 495. Teemo Attacking | Easy | python3 | [Problem](https://leetcode.com/problems/teemo-attacking/) | [Solution](./solutions/Easy/0495-teemo-attacking/solution.py) |
