@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : Binary Search, Design, Segment Tree, Prefix Sum, Ordered Set
 # Link     : https://leetcode.com/problems/my-calendar-iii/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19232000 (beats 0%)
+# Runtime  : 463 ms (beats 69%)
+# Memory   : 19744000 (beats 50%)
 # Language : python3
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
