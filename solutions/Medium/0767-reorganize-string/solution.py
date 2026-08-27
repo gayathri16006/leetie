@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Hash Table, String, Greedy, Sorting, Heap (Priority Queue), Counting
 # Link     : https://leetcode.com/problems/reorganize-string/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19392000 (beats 0%)
+# Runtime  : 0 ms (beats 100%)
+# Memory   : 19480000 (beats 54%)
 # Language : python3
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
