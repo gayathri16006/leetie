@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Hash Table, String, Breadth-First Search, Bidirectional Search
 # Link     : https://leetcode.com/problems/open-the-lock/
-# Runtime  : 23 ms (beats 0%)
-# Memory   : 20484000 (beats 0%)
+# Runtime  : 339 ms (beats 64%)
+# Memory   : 20476000 (beats 52%)
 # Language : python3
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
