@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 90 Solved
+## Progress Summary: 89 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -28,7 +28,6 @@
 | find-mode-in-binary-search-tree | 501. Find Mode In Binary Search Tree | Easy | python3 | [Problem](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | [Solution](./solutions/Easy/0501-find-mode-in-binary-search-tree/solution.py) |
 | base-7 | 504. Base 7 | Easy | python3 | [Problem](https://leetcode.com/problems/base-7/) | [Solution](./solutions/Easy/0504-base-7/solution.py) |
 | game-play-analysis-i | 511. Game Play Analysis I | Easy | mysql | [Problem](https://leetcode.com/problems/game-play-analysis-i/) | [Solution](./solutions/Easy/0511-game-play-analysis-i/solution.sql) |
-| maximum-depth-of-n-ary-tree | 559. Maximum Depth Of N Ary Tree | Easy | python3 | [Problem](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) | [Solution](./solutions/Easy/0559-maximum-depth-of-n-ary-tree/solution.py) |
 | partition-labels | Partition Labels | Medium | python3 | [Problem](https://leetcode.com/problems/partition-labels/) | [Solution](./solutions/Medium/0763-partition-labels/solution.py) |
 | perfect-number | 507. Perfect Number | Easy | python3 | [Problem](https://leetcode.com/problems/perfect-number/) | [Solution](./solutions/Easy/0507-perfect-number/solution.py) |
 | detect-capital | 520. Detect Capital | Easy | python3 | [Problem](https://leetcode.com/problems/detect-capital/) | [Solution](./solutions/Easy/0520-detect-capital/solution.py) |
@@ -51,6 +50,7 @@
 | teemo-attacking | 495. Teemo Attacking | Easy | python3 | [Problem](https://leetcode.com/problems/teemo-attacking/) | [Solution](./solutions/Easy/0495-teemo-attacking/solution.py) |
 | fibonacci-number | 509. Fibonacci Number | Easy | python3 | [Problem](https://leetcode.com/problems/fibonacci-number/) | [Solution](./solutions/Easy/0509-fibonacci-number/solution.py) |
 | minimum-absolute-difference-in-bst | 530. Minimum Absolute Difference In Bst | Easy | python3 | [Problem](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [Solution](./solutions/Easy/0530-minimum-absolute-difference-in-bst/solution.py) |
+| maximum-depth-of-n-ary-tree | 559. Maximum Depth Of N Ary Tree | Easy | python3 | [Problem](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) | [Solution](./solutions/Easy/0559-maximum-depth-of-n-ary-tree/solution.py) |
 | array-partition | 561. Array Partition | Easy | python3 | [Problem](https://leetcode.com/problems/array-partition/) | [Solution](./solutions/Easy/0561-array-partition/solution.py) |
 | binary-tree-tilt | 563. Binary Tree Tilt | Easy | python3 | [Problem](https://leetcode.com/problems/binary-tree-tilt/) | [Solution](./solutions/Easy/0563-binary-tree-tilt/solution.py) |
 | reshape-the-matrix | 566. Reshape The Matrix | Easy | python3 | [Problem](https://leetcode.com/problems/reshape-the-matrix/) | [Solution](./solutions/Easy/0566-reshape-the-matrix/solution.py) |
@@ -95,4 +95,3 @@
 | min-cost-climbing-stairs | 746. Min Cost Climbing Stairs | Easy | python3 | [Problem](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Solution](./solutions/Easy/0746-min-cost-climbing-stairs/solution.py) |
 | largest-number-at-least-twice-of-others | 747. Largest Number At Least Twice Of Others | Easy | python3 | [Problem](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | [Solution](./solutions/Easy/0747-largest-number-at-least-twice-of-others/solution.py) |
 | shortest-completing-word | 748. Shortest Completing Word | Easy | python3 | [Problem](https://leetcode.com/problems/shortest-completing-word/) | [Solution](./solutions/Easy/0748-shortest-completing-word/solution.py) |
-| distribute-elements-into-two-arrays-i | 3069. Distribute Elements Into Two Arrays I | Easy | java | [Problem](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) | [Solution](./solutions/Easy/3069-distribute-elements-into-two-arrays-i/solution.java) |
