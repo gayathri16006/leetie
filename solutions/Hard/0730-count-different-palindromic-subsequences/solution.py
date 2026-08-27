@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : String, Dynamic Programming
 # Link     : https://leetcode.com/problems/count-different-palindromic-subsequences/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19484000 (beats 0%)
+# Runtime  : 971 ms (beats 21%)
+# Memory   : 42104000 (beats 65%)
 # Language : python3
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
