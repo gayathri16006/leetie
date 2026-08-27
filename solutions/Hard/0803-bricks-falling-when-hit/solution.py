@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : Array, Union-Find, Matrix
 # Link     : https://leetcode.com/problems/bricks-falling-when-hit/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 19408000 (beats 0%)
+# Runtime  : 279 ms (beats 71%)
+# Memory   : 28236000 (beats 88%)
 # Language : python3
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
