@@ -6,12 +6,13 @@
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
-| shortest-palindrome | Shortest Palindrome | Hard | python3 | [Problem](https://leetcode.com/problems/shortest-palindrome/) | [Solution](./solutions/Hard/0214-shortest-palindrome/solution.py) |
+| minimum-moves-to-clean-the-classroom | Minimum Moves to Clean the Classroom | Medium | python3 | [Problem](https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/) | [Solution](./solutions/Medium/3568-minimum-moves-to-clean-the-classroom/solution.py) |
 | two-sum | 1. Two Sum | Easy | java | [Problem](https://leetcode.com/problems/two-sum/) | [Solution](./solutions/Easy/0001-two-sum/solution.java) |
 | find-the-index-of-the-first-occurrence-in-a-string | 28. Find The Index Of The First Occurrence In A String | Easy | python3 | [Problem](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Solution](./solutions/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/solution.py) |
 | wildcard-matching | 44. Wildcard Matching | Hard | python3 | [Problem](https://leetcode.com/problems/wildcard-matching/) | [Solution](./solutions/Hard/0044-wildcard-matching/solution.py) |
 | text-justification | 68. Text Justification | Hard | python3 | [Problem](https://leetcode.com/problems/text-justification/) | [Solution](./solutions/Hard/0068-text-justification/solution.py) |
 | candy | 135. Candy | Hard | python3 | [Problem](https://leetcode.com/problems/candy/) | [Solution](./solutions/Hard/0135-candy/solution.py) |
+| shortest-palindrome | 214. Shortest Palindrome | Hard | python3 | [Problem](https://leetcode.com/problems/shortest-palindrome/) | [Solution](./solutions/Hard/0214-shortest-palindrome/solution.py) |
 | the-skyline-problem | 218. The Skyline Problem | Hard | python3 | [Problem](https://leetcode.com/problems/the-skyline-problem/) | [Solution](./solutions/Hard/0218-the-skyline-problem/solution.py) |
 | contains-duplicate-iii | 220. Contains Duplicate Iii | Hard | python3 | [Problem](https://leetcode.com/problems/contains-duplicate-iii/) | [Solution](./solutions/Hard/0220-contains-duplicate-iii/solution.py) |
 | first-bad-version | 278. First Bad Version | Easy | python3 | [Problem](https://leetcode.com/problems/first-bad-version/) | [Solution](./solutions/Easy/0278-first-bad-version/solution.py) |
@@ -36,7 +37,6 @@
 | arranging-coins | 441. Arranging Coins | Easy | python3 | [Problem](https://leetcode.com/problems/arranging-coins/) | [Solution](./solutions/Easy/0441-arranging-coins/solution.py) |
 | assign-cookies | 455. Assign Cookies | Easy | python3 | [Problem](https://leetcode.com/problems/assign-cookies/) | [Solution](./solutions/Easy/0455-assign-cookies/solution.py) |
 | count-the-repetitions | 466. Count The Repetitions | Hard | python3 | [Problem](https://leetcode.com/problems/count-the-repetitions/) | [Solution](./solutions/Hard/0466-count-the-repetitions/solution.py) |
-| concatenated-words | 472. Concatenated Words | Hard | python3 | [Problem](https://leetcode.com/problems/concatenated-words/) | [Solution](./solutions/Hard/0472-concatenated-words/solution.py) |
 | number-complement | 476. Number Complement | Easy | python3 | [Problem](https://leetcode.com/problems/number-complement/) | [Solution](./solutions/Easy/0476-number-complement/solution.py) |
 | license-key-formatting | 482. License Key Formatting | Easy | python3 | [Problem](https://leetcode.com/problems/license-key-formatting/) | [Solution](./solutions/Easy/0482-license-key-formatting/solution.py) |
 | max-consecutive-ones | 485. Max Consecutive Ones | Easy | python3 | [Problem](https://leetcode.com/problems/max-consecutive-ones/) | [Solution](./solutions/Easy/0485-max-consecutive-ones/solution.py) |
