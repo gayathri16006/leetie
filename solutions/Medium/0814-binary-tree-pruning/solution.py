@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Tree, Depth-First Search, Binary Tree
 # Link     : https://leetcode.com/problems/binary-tree-pruning/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12292000 (beats 0%)
+# Runtime  : 0 ms (beats 100%)
+# Memory   : 12444000 (beats 24%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
