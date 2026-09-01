@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : Array, Hash Table, Math, Dynamic Programming, Bit Manipulation, Meet in the Middle, Bitmask
 # Link     : https://leetcode.com/problems/split-array-with-same-average/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12476000 (beats 0%)
+# Runtime  : 1529 ms (beats 54%)
+# Memory   : 53552000 (beats 54%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
