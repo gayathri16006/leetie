@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Hash Table, Dynamic Programming
 # Link     : https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12356000 (beats 0%)
+# Runtime  : 812 ms (beats 91%)
+# Memory   : 12692000 (beats 84%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
