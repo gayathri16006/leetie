@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array
 # Link     : https://leetcode.com/problems/partition-array-into-disjoint-intervals/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12416000 (beats 0%)
+# Runtime  : 88 ms (beats 92%)
+# Memory   : 20020000 (beats 67%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
