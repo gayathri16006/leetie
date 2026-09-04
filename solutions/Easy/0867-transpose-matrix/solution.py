@@ -3,8 +3,8 @@
 # Difficulty: Easy
 # Tags     : Array, Matrix, Simulation
 # Link     : https://leetcode.com/problems/transpose-matrix/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12328000 (beats 0%)
+# Runtime  : 0 ms (beats 100%)
+# Memory   : 12860000 (beats 78%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
