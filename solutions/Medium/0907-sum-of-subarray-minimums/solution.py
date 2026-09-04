@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Dynamic Programming, Stack, Monotonic Stack
 # Link     : https://leetcode.com/problems/sum-of-subarray-minimums/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12284000 (beats 0%)
+# Runtime  : 846 ms (beats 45%)
+# Memory   : 16488000 (beats 49%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
