@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : String, Backtracking
 # Link     : https://leetcode.com/problems/split-array-into-fibonacci-sequence/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12276000 (beats 0%)
+# Runtime  : 12 ms (beats 39%)
+# Memory   : 12564000 (beats 7%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
