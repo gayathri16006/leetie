@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Binary Search, Ternary Search
 # Link     : https://leetcode.com/problems/peak-index-in-a-mountain-array/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12420000 (beats 0%)
+# Runtime  : 0 ms (beats 100%)
+# Memory   : 21700000 (beats 39%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
