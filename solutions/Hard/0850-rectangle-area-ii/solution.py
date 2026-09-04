@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : Array, Segment Tree, Sweep Line, Ordered Set
 # Link     : https://leetcode.com/problems/rectangle-area-ii/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12536000 (beats 0%)
+# Runtime  : 6 ms (beats 96%)
+# Memory   : 12460000 (beats 43%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
