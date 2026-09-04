@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : Dynamic Programming, Bit Manipulation, Breadth-First Search, Graph Theory, Bitmask
 # Link     : https://leetcode.com/problems/shortest-path-visiting-all-nodes/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12484000 (beats 0%)
+# Runtime  : 125 ms (beats 40%)
+# Memory   : 17508000 (beats 79%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
