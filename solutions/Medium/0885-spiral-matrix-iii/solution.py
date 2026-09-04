@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Matrix, Simulation
 # Link     : https://leetcode.com/problems/spiral-matrix-iii/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12376000 (beats 0%)
+# Runtime  : 12 ms (beats 84%)
+# Memory   : 14332000 (beats 31%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
