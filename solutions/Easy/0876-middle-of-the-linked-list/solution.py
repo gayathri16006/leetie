@@ -3,8 +3,8 @@
 # Difficulty: Easy
 # Tags     : Linked List, Two Pointers
 # Link     : https://leetcode.com/problems/middle-of-the-linked-list/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12444000 (beats 0%)
+# Runtime  : 0 ms (beats 100%)
+# Memory   : 12316000 (beats 61%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
