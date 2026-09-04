@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Hash Table, Tree, Depth-First Search, Breadth-First Search, Binary Tree, Binary Lifting, Lowest Common Ancestor, DP on Trees
 # Link     : https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12496000 (beats 0%)
+# Runtime  : 0 ms (beats 100%)
+# Memory   : 12600000 (beats 96%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
