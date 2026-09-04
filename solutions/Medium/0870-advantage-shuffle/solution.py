@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Two Pointers, Greedy, Sorting
 # Link     : https://leetcode.com/problems/advantage-shuffle/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12388000 (beats 0%)
+# Runtime  : 126 ms (beats 88%)
+# Memory   : 29720000 (beats 91%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
