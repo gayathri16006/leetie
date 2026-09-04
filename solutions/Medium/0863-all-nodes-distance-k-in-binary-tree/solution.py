@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Hash Table, Tree, Depth-First Search, Breadth-First Search, Binary Tree
 # Link     : https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/
-# Runtime  : 20 ms (beats 0%)
-# Memory   : 12216000 (beats 0%)
+# Runtime  : 14 ms (beats 97%)
+# Memory   : 12776000 (beats 49%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
