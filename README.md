@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 371 Solved
+## Progress Summary: 372 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -10,17 +10,17 @@
 | all-nodes-distance-k-in-binary-tree | All Nodes Distance K in Binary Tree | Medium | python | [Problem](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | [Solution](./solutions/Medium/0863-all-nodes-distance-k-in-binary-tree/solution.py) |
 | backspace-string-compare | Backspace String Compare | Easy | python | [Problem](https://leetcode.com/problems/backspace-string-compare/) | [Solution](./solutions/Easy/0844-backspace-string-compare/solution.py) |
 | binary-trees-with-factors | Binary Trees With Factors | Medium | python | [Problem](https://leetcode.com/problems/binary-trees-with-factors/) | [Solution](./solutions/Medium/0823-binary-trees-with-factors/solution.py) |
+| binary-watch | 401. Binary Watch | Easy | python3 | [Problem](https://leetcode.com/problems/binary-watch/) | [Solution](./solutions/Easy/0401-binary-watch/solution.py) |
 | boats-to-save-people | Boats to Save People | Medium | python | [Problem](https://leetcode.com/problems/boats-to-save-people/) | [Solution](./solutions/Medium/0881-boats-to-save-people/solution.py) |
 | consecutive-numbers-sum | Consecutive Numbers Sum | Hard | python | [Problem](https://leetcode.com/problems/consecutive-numbers-sum/) | [Solution](./solutions/Hard/0829-consecutive-numbers-sum/solution.py) |
 | decoded-string-at-index | Decoded String at Index | Medium | python | [Problem](https://leetcode.com/problems/decoded-string-at-index/) | [Solution](./solutions/Medium/0880-decoded-string-at-index/solution.py) |
+| find-and-replace-pattern | Find and Replace Pattern | Medium | python | [Problem](https://leetcode.com/problems/find-and-replace-pattern/) | [Solution](./solutions/Medium/0890-find-and-replace-pattern/solution.py) |
 | find-the-index-of-the-first-occurrence-in-a-string | 28. Find The Index Of The First Occurrence In A String | Easy | python3 | [Problem](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Solution](./solutions/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/solution.py) |
 | flatten-binary-tree-to-linked-list | 114. Flatten Binary Tree To Linked List | Medium | python3 | [Problem](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [Solution](./solutions/Medium/0114-flatten-binary-tree-to-linked-list/solution.py) |
 | first-bad-version | 278. First Bad Version | Easy | python3 | [Problem](https://leetcode.com/problems/first-bad-version/) | [Solution](./solutions/Easy/0278-first-bad-version/solution.py) |
+| fizz-buzz | 412. Fizz Buzz | Easy | python3 | [Problem](https://leetcode.com/problems/fizz-buzz/) | [Solution](./solutions/Easy/0412-fizz-buzz/solution.py) |
 | guess-the-word | Guess the Word | Hard | python | [Problem](https://leetcode.com/problems/guess-the-word/) | [Solution](./solutions/Hard/0843-guess-the-word/solution.py) |
 | is-subsequence | 392. Is Subsequence | Easy | python3 | [Problem](https://leetcode.com/problems/is-subsequence/) | [Solution](./solutions/Easy/0392-is-subsequence/solution.py) |
-| binary-watch | 401. Binary Watch | Easy | python3 | [Problem](https://leetcode.com/problems/binary-watch/) | [Solution](./solutions/Easy/0401-binary-watch/solution.py) |
-| fizz-buzz | 412. Fizz Buzz | Easy | python3 | [Problem](https://leetcode.com/problems/fizz-buzz/) | [Solution](./solutions/Easy/0412-fizz-buzz/solution.py) |
-| add-strings | 415. Add Strings | Easy | python3 | [Problem](https://leetcode.com/problems/add-strings/) | [Solution](./solutions/Easy/0415-add-strings/solution.py) |
 | k-similar-strings | K-Similar Strings | Hard | python | [Problem](https://leetcode.com/problems/k-similar-strings/) | [Solution](./solutions/Hard/0854-k-similar-strings/solution.py) |
 | koko-eating-bananas | Koko Eating Bananas | Medium | python | [Problem](https://leetcode.com/problems/koko-eating-bananas/) | [Solution](./solutions/Medium/0875-koko-eating-bananas/solution.py) |
 | largest-triangle-area | Largest Triangle Area | Easy | python | [Problem](https://leetcode.com/problems/largest-triangle-area/) | [Solution](./solutions/Easy/0812-largest-triangle-area/solution.py) |
@@ -101,6 +101,7 @@
 | frog-jump | 403. Frog Jump | Hard | python3 | [Problem](https://leetcode.com/problems/frog-jump/) | [Solution](./solutions/Hard/0403-frog-jump/solution.py) |
 | queue-reconstruction-by-height | 406. Queue Reconstruction By Height | Medium | python3 | [Problem](https://leetcode.com/problems/queue-reconstruction-by-height/) | [Solution](./solutions/Medium/0406-queue-reconstruction-by-height/solution.py) |
 | arithmetic-slices | 413. Arithmetic Slices | Medium | python3 | [Problem](https://leetcode.com/problems/arithmetic-slices/) | [Solution](./solutions/Medium/0413-arithmetic-slices/solution.py) |
+| add-strings | 415. Add Strings | Easy | python3 | [Problem](https://leetcode.com/problems/add-strings/) | [Solution](./solutions/Easy/0415-add-strings/solution.py) |
 | partition-equal-subset-sum | 416. Partition Equal Subset Sum | Medium | python3 | [Problem](https://leetcode.com/problems/partition-equal-subset-sum/) | [Solution](./solutions/Medium/0416-partition-equal-subset-sum/solution.py) |
 | pacific-atlantic-water-flow | 417. Pacific Atlantic Water Flow | Medium | python3 | [Problem](https://leetcode.com/problems/pacific-atlantic-water-flow/) | [Solution](./solutions/Medium/0417-pacific-atlantic-water-flow/solution.py) |
 | battleships-in-a-board | 419. Battleships In A Board | Medium | python3 | [Problem](https://leetcode.com/problems/battleships-in-a-board/) | [Solution](./solutions/Medium/0419-battleships-in-a-board/solution.py) |
