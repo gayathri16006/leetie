@@ -3,8 +3,8 @@
 # Difficulty: Easy
 # Tags     : Tree, Depth-First Search, Binary Tree
 # Link     : https://leetcode.com/problems/leaf-similar-trees/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12284000 (beats 0%)
+# Runtime  : 0 ms (beats 100%)
+# Memory   : 12400000 (beats 99%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
