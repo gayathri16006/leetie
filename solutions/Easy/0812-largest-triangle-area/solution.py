@@ -3,8 +3,8 @@
 # Difficulty: Easy
 # Tags     : Array, Math, Geometry, Polygons
 # Link     : https://leetcode.com/problems/largest-triangle-area/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12336000 (beats 0%)
+# Runtime  : 55 ms (beats 53%)
+# Memory   : 12252000 (beats 92%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
