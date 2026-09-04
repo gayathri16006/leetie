@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Divide and Conquer, Sorting, Heap (Priority Queue), Merge Sort, Bucket Sort, Radix Sort, Counting Sort
 # Link     : https://leetcode.com/problems/sort-an-array/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12508000 (beats 0%)
+# Runtime  : 1529 ms (beats 7%)
+# Memory   : 28516000 (beats 6%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
