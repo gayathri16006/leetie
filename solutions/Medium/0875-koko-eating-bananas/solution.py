@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Binary Search
 # Link     : https://leetcode.com/problems/koko-eating-bananas/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12404000 (beats 0%)
+# Runtime  : 167 ms (beats 48%)
+# Memory   : 13608000 (beats 15%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
