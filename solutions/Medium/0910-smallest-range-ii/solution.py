@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Math, Greedy, Sorting
 # Link     : https://leetcode.com/problems/smallest-range-ii/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12420000 (beats 0%)
+# Runtime  : 35 ms (beats 75%)
+# Memory   : 13360000 (beats 5%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
