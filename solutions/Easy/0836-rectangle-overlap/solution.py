@@ -3,8 +3,8 @@
 # Difficulty: Easy
 # Tags     : Math, Geometry
 # Link     : https://leetcode.com/problems/rectangle-overlap/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12356000 (beats 0%)
+# Runtime  : 3 ms (beats 0%)
+# Memory   : 12400000 (beats 53%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
