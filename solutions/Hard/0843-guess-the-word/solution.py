@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : Array, Math, String, Minimax, Interactive, Game Theory
 # Link     : https://leetcode.com/problems/guess-the-word/
-# Runtime  : 16 ms (beats 0%)
-# Memory   : 12340000 (beats 0%)
+# Runtime  : 145 ms (beats 33%)
+# Memory   : 12372000 (beats 73%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
