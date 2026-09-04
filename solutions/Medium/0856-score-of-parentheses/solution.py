@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : String, Stack, Bracket Sequences
 # Link     : https://leetcode.com/problems/score-of-parentheses/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12444000 (beats 0%)
+# Runtime  : 0 ms (beats 100%)
+# Memory   : 12460000 (beats 17%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
