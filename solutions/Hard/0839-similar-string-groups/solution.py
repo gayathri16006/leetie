@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : Array, Hash Table, String, Depth-First Search, Breadth-First Search, Union-Find
 # Link     : https://leetcode.com/problems/similar-string-groups/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12524000 (beats 0%)
+# Runtime  : 812 ms (beats 53%)
+# Memory   : 12720000 (beats 18%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
