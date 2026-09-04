@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : Math, Binary Search, Least Common Multiple, Inclusion-Exclusion Principle
 # Link     : https://leetcode.com/problems/nth-magical-number/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12448000 (beats 0%)
+# Runtime  : 0 ms (beats 100%)
+# Memory   : 12392000 (beats 72%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
