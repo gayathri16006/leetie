@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 381 Solved
+## Progress Summary: 382 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -47,6 +47,7 @@
 | similar-string-groups | Similar String Groups | Hard | python | [Problem](https://leetcode.com/problems/similar-string-groups/) | [Solution](./solutions/Hard/0839-similar-string-groups/solution.py) |
 | smallest-stable-index-i | Smallest Stable Index I | Easy | python | [Problem](https://leetcode.com/problems/smallest-stable-index-i/) | [Solution](./solutions/Easy/3903-smallest-stable-index-i/solution.py) |
 | smallest-subtree-with-all-the-deepest-nodes | Smallest Subtree with all the Deepest Nodes | Medium | python | [Problem](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/) | [Solution](./solutions/Medium/0865-smallest-subtree-with-all-the-deepest-nodes/solution.py) |
+| sort-array-by-parity | Sort Array By Parity | Easy | python | [Problem](https://leetcode.com/problems/sort-array-by-parity/) | [Solution](./solutions/Easy/0905-sort-array-by-parity/solution.py) |
 | soup-servings | Soup Servings | Medium | python | [Problem](https://leetcode.com/problems/soup-servings/) | [Solution](./solutions/Medium/0808-soup-servings/solution.py) |
 | spiral-matrix-iii | Spiral Matrix III | Medium | python | [Problem](https://leetcode.com/problems/spiral-matrix-iii/) | [Solution](./solutions/Medium/0885-spiral-matrix-iii/solution.py) |
 | split-array-into-fibonacci-sequence | Split Array into Fibonacci Sequence | Medium | python | [Problem](https://leetcode.com/problems/split-array-into-fibonacci-sequence/) | [Solution](./solutions/Medium/0842-split-array-into-fibonacci-sequence/solution.py) |
