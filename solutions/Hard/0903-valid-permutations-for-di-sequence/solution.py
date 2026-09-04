@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : String, Dynamic Programming, Prefix Sum
 # Link     : https://leetcode.com/problems/valid-permutations-for-di-sequence/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12524000 (beats 0%)
+# Runtime  : 7 ms (beats 90%)
+# Memory   : 12416000 (beats 50%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
