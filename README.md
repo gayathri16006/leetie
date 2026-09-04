@@ -2,12 +2,13 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 374 Solved
+## Progress Summary: 375 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
 | advantage-shuffle | Advantage Shuffle | Medium | python | [Problem](https://leetcode.com/problems/advantage-shuffle/) | [Solution](./solutions/Medium/0870-advantage-shuffle/solution.py) |
 | all-nodes-distance-k-in-binary-tree | All Nodes Distance K in Binary Tree | Medium | python | [Problem](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | [Solution](./solutions/Medium/0863-all-nodes-distance-k-in-binary-tree/solution.py) |
+| all-possible-full-binary-trees | All Possible Full Binary Trees | Medium | python | [Problem](https://leetcode.com/problems/all-possible-full-binary-trees/) | [Solution](./solutions/Medium/0894-all-possible-full-binary-trees/solution.py) |
 | backspace-string-compare | Backspace String Compare | Easy | python | [Problem](https://leetcode.com/problems/backspace-string-compare/) | [Solution](./solutions/Easy/0844-backspace-string-compare/solution.py) |
 | binary-trees-with-factors | Binary Trees With Factors | Medium | python | [Problem](https://leetcode.com/problems/binary-trees-with-factors/) | [Solution](./solutions/Medium/0823-binary-trees-with-factors/solution.py) |
 | binary-watch | 401. Binary Watch | Easy | python3 | [Problem](https://leetcode.com/problems/binary-watch/) | [Solution](./solutions/Easy/0401-binary-watch/solution.py) |
@@ -49,7 +50,6 @@
 | spiral-matrix-iii | Spiral Matrix III | Medium | python | [Problem](https://leetcode.com/problems/spiral-matrix-iii/) | [Solution](./solutions/Medium/0885-spiral-matrix-iii/solution.py) |
 | split-array-into-fibonacci-sequence | Split Array into Fibonacci Sequence | Medium | python | [Problem](https://leetcode.com/problems/split-array-into-fibonacci-sequence/) | [Solution](./solutions/Medium/0842-split-array-into-fibonacci-sequence/solution.py) |
 | sum-of-distances-in-tree | Sum of Distances in Tree | Hard | python | [Problem](https://leetcode.com/problems/sum-of-distances-in-tree/) | [Solution](./solutions/Hard/0834-sum-of-distances-in-tree/solution.py) |
-| sum-of-left-leaves | 404. Sum Of Left Leaves | Easy | python3 | [Problem](https://leetcode.com/problems/sum-of-left-leaves/) | [Solution](./solutions/Easy/0404-sum-of-left-leaves/solution.py) |
 | sum-of-subsequence-widths | Sum of Subsequence Widths | Hard | python | [Problem](https://leetcode.com/problems/sum-of-subsequence-widths/) | [Solution](./solutions/Hard/0891-sum-of-subsequence-widths/solution.py) |
 | transpose-matrix | Transpose Matrix | Easy | python | [Problem](https://leetcode.com/problems/transpose-matrix/) | [Solution](./solutions/Easy/0867-transpose-matrix/solution.py) |
 | two-sum | 1. Two Sum | Easy | java | [Problem](https://leetcode.com/problems/two-sum/) | [Solution](./solutions/Easy/0001-two-sum/solution.java) |
@@ -99,6 +99,7 @@
 | evaluate-division | 399. Evaluate Division | Medium | python3 | [Problem](https://leetcode.com/problems/evaluate-division/) | [Solution](./solutions/Medium/0399-evaluate-division/solution.py) |
 | nth-digit | 400. Nth Digit | Medium | python3 | [Problem](https://leetcode.com/problems/nth-digit/) | [Solution](./solutions/Medium/0400-nth-digit/solution.py) |
 | frog-jump | 403. Frog Jump | Hard | python3 | [Problem](https://leetcode.com/problems/frog-jump/) | [Solution](./solutions/Hard/0403-frog-jump/solution.py) |
+| sum-of-left-leaves | 404. Sum Of Left Leaves | Easy | python3 | [Problem](https://leetcode.com/problems/sum-of-left-leaves/) | [Solution](./solutions/Easy/0404-sum-of-left-leaves/solution.py) |
 | queue-reconstruction-by-height | 406. Queue Reconstruction By Height | Medium | python3 | [Problem](https://leetcode.com/problems/queue-reconstruction-by-height/) | [Solution](./solutions/Medium/0406-queue-reconstruction-by-height/solution.py) |
 | fizz-buzz | 412. Fizz Buzz | Easy | python3 | [Problem](https://leetcode.com/problems/fizz-buzz/) | [Solution](./solutions/Easy/0412-fizz-buzz/solution.py) |
 | arithmetic-slices | 413. Arithmetic Slices | Medium | python3 | [Problem](https://leetcode.com/problems/arithmetic-slices/) | [Solution](./solutions/Medium/0413-arithmetic-slices/solution.py) |
