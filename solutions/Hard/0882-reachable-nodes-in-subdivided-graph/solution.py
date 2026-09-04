@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : Graph Theory, Heap (Priority Queue), Shortest Path, Dijkstra's Algorithm
 # Link     : https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12460000 (beats 0%)
+# Runtime  : 135 ms (beats 18%)
+# Memory   : 18444000 (beats 9%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
