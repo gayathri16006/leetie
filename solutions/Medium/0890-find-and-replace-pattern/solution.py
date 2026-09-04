@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Hash Table, String
 # Link     : https://leetcode.com/problems/find-and-replace-pattern/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12400000 (beats 0%)
+# Runtime  : 2 ms (beats 30%)
+# Memory   : 12164000 (beats 100%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
