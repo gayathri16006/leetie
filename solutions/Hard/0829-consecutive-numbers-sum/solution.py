@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : Math, Enumeration
 # Link     : https://leetcode.com/problems/consecutive-numbers-sum/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12496000 (beats 0%)
+# Runtime  : 91 ms (beats 70%)
+# Memory   : 12400000 (beats 64%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
