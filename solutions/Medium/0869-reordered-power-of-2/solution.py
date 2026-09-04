@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Hash Table, Math, Sorting, Counting, Enumeration
 # Link     : https://leetcode.com/problems/reordered-power-of-2/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12380000 (beats 0%)
+# Runtime  : 0 ms (beats 100%)
+# Memory   : 12352000 (beats 57%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
