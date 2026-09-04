@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 360 Solved
+## Progress Summary: 361 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -65,39 +65,38 @@
 | 132-pattern | 456. 132 Pattern | Medium | python3 | [Problem](https://leetcode.com/problems/132-pattern/) | [Solution](./solutions/Medium/0456-132-pattern/solution.py) |
 | k-similar-strings | K-Similar Strings | Hard | python | [Problem](https://leetcode.com/problems/k-similar-strings/) | [Solution](./solutions/Hard/0854-k-similar-strings/solution.py) |
 | largest-triangle-area | Largest Triangle Area | Easy | python | [Problem](https://leetcode.com/problems/largest-triangle-area/) | [Solution](./solutions/Easy/0812-largest-triangle-area/solution.py) |
-| making-a-large-island | Making A Large Island | Hard | python | [Problem](https://leetcode.com/problems/making-a-large-island/) | [Solution](./solutions/Hard/0827-making-a-large-island/solution.py) |
-| maximize-distance-to-closest-person | Maximize Distance to Closest Person | Medium | python | [Problem](https://leetcode.com/problems/maximize-distance-to-closest-person/) | [Solution](./solutions/Medium/0849-maximize-distance-to-closest-person/solution.py) |
-| minimum-cost-to-hire-k-workers | Minimum Cost to Hire K Workers | Hard | python | [Problem](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) | [Solution](./solutions/Hard/0857-minimum-cost-to-hire-k-workers/solution.py) |
-| number-of-segments-in-a-string | 434. Number Of Segments In A String | Easy | python3 | [Problem](https://leetcode.com/problems/number-of-segments-in-a-string/) | [Solution](./solutions/Easy/0434-number-of-segments-in-a-string/solution.py) |
 | unique-substrings-in-wraparound-string | 467. Unique Substrings In Wraparound String | Medium | python3 | [Problem](https://leetcode.com/problems/unique-substrings-in-wraparound-string/) | [Solution](./solutions/Medium/0467-unique-substrings-in-wraparound-string/solution.py) |
 | validate-ip-address | 468. Validate Ip Address | Medium | python3 | [Problem](https://leetcode.com/problems/validate-ip-address/) | [Solution](./solutions/Medium/0468-validate-ip-address/solution.py) |
 | implement-rand10-using-rand7 | 470. Implement Rand10 Using Rand7 | Medium | python3 | [Problem](https://leetcode.com/problems/implement-rand10-using-rand7/) | [Solution](./solutions/Medium/0470-implement-rand10-using-rand7/solution.py) |
 | matchsticks-to-square | 473. Matchsticks To Square | Medium | python3 | [Problem](https://leetcode.com/problems/matchsticks-to-square/) | [Solution](./solutions/Medium/0473-matchsticks-to-square/solution.py) |
 | ones-and-zeroes | 474. Ones And Zeroes | Medium | python3 | [Problem](https://leetcode.com/problems/ones-and-zeroes/) | [Solution](./solutions/Medium/0474-ones-and-zeroes/solution.py) |
 | heaters | 475. Heaters | Medium | python3 | [Problem](https://leetcode.com/problems/heaters/) | [Solution](./solutions/Medium/0475-heaters/solution.py) |
-| number-complement | 476. Number Complement | Easy | python3 | [Problem](https://leetcode.com/problems/number-complement/) | [Solution](./solutions/Easy/0476-number-complement/solution.py) |
 | total-hamming-distance | 477. Total Hamming Distance | Medium | python3 | [Problem](https://leetcode.com/problems/total-hamming-distance/) | [Solution](./solutions/Medium/0477-total-hamming-distance/solution.py) |
 | generate-random-point-in-a-circle | 478. Generate Random Point In A Circle | Medium | python3 | [Problem](https://leetcode.com/problems/generate-random-point-in-a-circle/) | [Solution](./solutions/Medium/0478-generate-random-point-in-a-circle/solution.py) |
 | magical-string | 481. Magical String | Medium | python3 | [Problem](https://leetcode.com/problems/magical-string/) | [Solution](./solutions/Medium/0481-magical-string/solution.py) |
 | license-key-formatting | 482. License Key Formatting | Easy | python3 | [Problem](https://leetcode.com/problems/license-key-formatting/) | [Solution](./solutions/Easy/0482-license-key-formatting/solution.py) |
+| making-a-large-island | Making A Large Island | Hard | python | [Problem](https://leetcode.com/problems/making-a-large-island/) | [Solution](./solutions/Hard/0827-making-a-large-island/solution.py) |
+| maximize-distance-to-closest-person | Maximize Distance to Closest Person | Medium | python | [Problem](https://leetcode.com/problems/maximize-distance-to-closest-person/) | [Solution](./solutions/Medium/0849-maximize-distance-to-closest-person/solution.py) |
+| minimum-cost-to-hire-k-workers | Minimum Cost to Hire K Workers | Hard | python | [Problem](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) | [Solution](./solutions/Hard/0857-minimum-cost-to-hire-k-workers/solution.py) |
+| number-of-segments-in-a-string | 434. Number Of Segments In A String | Easy | python3 | [Problem](https://leetcode.com/problems/number-of-segments-in-a-string/) | [Solution](./solutions/Easy/0434-number-of-segments-in-a-string/solution.py) |
+| number-complement | 476. Number Complement | Easy | python3 | [Problem](https://leetcode.com/problems/number-complement/) | [Solution](./solutions/Easy/0476-number-complement/solution.py) |
 | max-consecutive-ones | 485. Max Consecutive Ones | Easy | python3 | [Problem](https://leetcode.com/problems/max-consecutive-ones/) | [Solution](./solutions/Easy/0485-max-consecutive-ones/solution.py) |
 | predict-the-winner | 486. Predict The Winner | Medium | python3 | [Problem](https://leetcode.com/problems/predict-the-winner/) | [Solution](./solutions/Medium/0486-predict-the-winner/solution.py) |
 | non-decreasing-subsequences | 491. Non Decreasing Subsequences | Medium | python3 | [Problem](https://leetcode.com/problems/non-decreasing-subsequences/) | [Solution](./solutions/Medium/0491-non-decreasing-subsequences/solution.py) |
 | construct-the-rectangle | 492. Construct The Rectangle | Easy | python3 | [Problem](https://leetcode.com/problems/construct-the-rectangle/) | [Solution](./solutions/Easy/0492-construct-the-rectangle/solution.py) |
 | target-sum | 494. Target Sum | Medium | python3 | [Problem](https://leetcode.com/problems/target-sum/) | [Solution](./solutions/Medium/0494-target-sum/solution.py) |
 | next-greater-element-i | 496. Next Greater Element I | Easy | python3 | [Problem](https://leetcode.com/problems/next-greater-element-i/) | [Solution](./solutions/Easy/0496-next-greater-element-i/solution.py) |
+| peak-index-in-a-mountain-array | Peak Index in a Mountain Array | Medium | python | [Problem](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [Solution](./solutions/Medium/0852-peak-index-in-a-mountain-array/solution.py) |
+| positions-of-large-groups | Positions of Large Groups | Easy | python | [Problem](https://leetcode.com/problems/positions-of-large-groups/) | [Solution](./solutions/Easy/0830-positions-of-large-groups/solution.py) |
+| prime-palindrome | Prime Palindrome | Medium | python | [Problem](https://leetcode.com/problems/prime-palindrome/) | [Solution](./solutions/Medium/0866-prime-palindrome/solution.py) |
 | random-point-in-non-overlapping-rectangles | 497. Random Point In Non Overlapping Rectangles | Medium | python3 | [Problem](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/) | [Solution](./solutions/Medium/0497-random-point-in-non-overlapping-rectangles/solution.py) |
 | diagonal-traverse | 498. Diagonal Traverse | Medium | python3 | [Problem](https://leetcode.com/problems/diagonal-traverse/) | [Solution](./solutions/Medium/0498-diagonal-traverse/solution.py) |
-| keyboard-row | 500. Keyboard Row | Easy | python3 | [Problem](https://leetcode.com/problems/keyboard-row/) | [Solution](./solutions/Easy/0500-keyboard-row/solution.py) |
 | next-greater-element-ii | 503. Next Greater Element Ii | Medium | python3 | [Problem](https://leetcode.com/problems/next-greater-element-ii/) | [Solution](./solutions/Medium/0503-next-greater-element-ii/solution.py) |
 | most-frequent-subtree-sum | 508. Most Frequent Subtree Sum | Medium | python3 | [Problem](https://leetcode.com/problems/most-frequent-subtree-sum/) | [Solution](./solutions/Medium/0508-most-frequent-subtree-sum/solution.py) |
 | find-bottom-left-tree-value | 513. Find Bottom Left Tree Value | Medium | python3 | [Problem](https://leetcode.com/problems/find-bottom-left-tree-value/) | [Solution](./solutions/Medium/0513-find-bottom-left-tree-value/solution.py) |
 | find-largest-value-in-each-tree-row | 515. Find Largest Value In Each Tree Row | Medium | python3 | [Problem](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | [Solution](./solutions/Medium/0515-find-largest-value-in-each-tree-row/solution.py) |
 | longest-palindromic-subsequence | 516. Longest Palindromic Subsequence | Medium | python3 | [Problem](https://leetcode.com/problems/longest-palindromic-subsequence/) | [Solution](./solutions/Medium/0516-longest-palindromic-subsequence/solution.py) |
 | coin-change-ii | 518. Coin Change Ii | Medium | python3 | [Problem](https://leetcode.com/problems/coin-change-ii/) | [Solution](./solutions/Medium/0518-coin-change-ii/solution.py) |
-| peak-index-in-a-mountain-array | Peak Index in a Mountain Array | Medium | python | [Problem](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [Solution](./solutions/Medium/0852-peak-index-in-a-mountain-array/solution.py) |
-| positions-of-large-groups | Positions of Large Groups | Easy | python | [Problem](https://leetcode.com/problems/positions-of-large-groups/) | [Solution](./solutions/Easy/0830-positions-of-large-groups/solution.py) |
-| prime-palindrome | Prime Palindrome | Medium | python | [Problem](https://leetcode.com/problems/prime-palindrome/) | [Solution](./solutions/Medium/0866-prime-palindrome/solution.py) |
 | random-flip-matrix | 519. Random Flip Matrix | Medium | python3 | [Problem](https://leetcode.com/problems/random-flip-matrix/) | [Solution](./solutions/Medium/0519-random-flip-matrix/solution.py) |
 | longest-uncommon-subsequence-ii | 522. Longest Uncommon Subsequence Ii | Medium | python3 | [Problem](https://leetcode.com/problems/longest-uncommon-subsequence-ii/) | [Solution](./solutions/Medium/0522-longest-uncommon-subsequence-ii/solution.py) |
 | continuous-subarray-sum | 523. Continuous Subarray Sum | Medium | python3 | [Problem](https://leetcode.com/problems/continuous-subarray-sum/) | [Solution](./solutions/Medium/0523-continuous-subarray-sum/solution.py) |
@@ -126,6 +125,7 @@
 | out-of-boundary-paths | 576. Out Of Boundary Paths | Medium | python3 | [Problem](https://leetcode.com/problems/out-of-boundary-paths/) | [Solution](./solutions/Medium/0576-out-of-boundary-paths/solution.py) |
 | rectangle-area-ii | Rectangle Area II | Hard | python | [Problem](https://leetcode.com/problems/rectangle-area-ii/) | [Solution](./solutions/Hard/0850-rectangle-area-ii/solution.py) |
 | rectangle-overlap | Rectangle Overlap | Easy | python | [Problem](https://leetcode.com/problems/rectangle-overlap/) | [Solution](./solutions/Easy/0836-rectangle-overlap/solution.py) |
+| reordered-power-of-2 | Reordered Power of 2 | Medium | python | [Problem](https://leetcode.com/problems/reordered-power-of-2/) | [Solution](./solutions/Medium/0869-reordered-power-of-2/solution.py) |
 | score-of-parentheses | Score of Parentheses | Medium | python | [Problem](https://leetcode.com/problems/score-of-parentheses/) | [Solution](./solutions/Medium/0856-score-of-parentheses/solution.py) |
 | shortest-distance-to-a-character | Shortest Distance to a Character | Easy | python | [Problem](https://leetcode.com/problems/shortest-distance-to-a-character/) | [Solution](./solutions/Easy/0821-shortest-distance-to-a-character/solution.py) |
 | shortest-path-visiting-all-nodes | Shortest Path Visiting All Nodes | Hard | python | [Problem](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [Solution](./solutions/Hard/0847-shortest-path-visiting-all-nodes/solution.py) |
@@ -169,6 +169,7 @@
 | smallest-good-base | 483. Smallest Good Base | Hard | python3 | [Problem](https://leetcode.com/problems/smallest-good-base/) | [Solution](./solutions/Hard/0483-smallest-good-base/solution.py) |
 | zuma-game | 488. Zuma Game | Hard | python3 | [Problem](https://leetcode.com/problems/zuma-game/) | [Solution](./solutions/Hard/0488-zuma-game/solution.py) |
 | reverse-pairs | 493. Reverse Pairs | Hard | python3 | [Problem](https://leetcode.com/problems/reverse-pairs/) | [Solution](./solutions/Hard/0493-reverse-pairs/solution.py) |
+| keyboard-row | 500. Keyboard Row | Easy | python3 | [Problem](https://leetcode.com/problems/keyboard-row/) | [Solution](./solutions/Easy/0500-keyboard-row/solution.py) |
 | find-mode-in-binary-search-tree | 501. Find Mode In Binary Search Tree | Easy | python3 | [Problem](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | [Solution](./solutions/Easy/0501-find-mode-in-binary-search-tree/solution.py) |
 | ipo | 502. Ipo | Hard | python3 | [Problem](https://leetcode.com/problems/ipo/) | [Solution](./solutions/Hard/0502-ipo/solution.py) |
 | base-7 | 504. Base 7 | Easy | python3 | [Problem](https://leetcode.com/problems/base-7/) | [Solution](./solutions/Easy/0504-base-7/solution.py) |
