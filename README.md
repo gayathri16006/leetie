@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 375 Solved
+## Progress Summary: 376 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -31,6 +31,7 @@
 | maximize-distance-to-closest-person | Maximize Distance to Closest Person | Medium | python | [Problem](https://leetcode.com/problems/maximize-distance-to-closest-person/) | [Solution](./solutions/Medium/0849-maximize-distance-to-closest-person/solution.py) |
 | middle-of-the-linked-list | Middle of the Linked List | Easy | python | [Problem](https://leetcode.com/problems/middle-of-the-linked-list/) | [Solution](./solutions/Easy/0876-middle-of-the-linked-list/solution.py) |
 | minimum-cost-to-hire-k-workers | Minimum Cost to Hire K Workers | Hard | python | [Problem](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) | [Solution](./solutions/Hard/0857-minimum-cost-to-hire-k-workers/solution.py) |
+| monotonic-array | Monotonic Array | Easy | python | [Problem](https://leetcode.com/problems/monotonic-array/) | [Solution](./solutions/Easy/0896-monotonic-array/solution.py) |
 | nth-magical-number | Nth Magical Number | Hard | python | [Problem](https://leetcode.com/problems/nth-magical-number/) | [Solution](./solutions/Hard/0878-nth-magical-number/solution.py) |
 | peak-index-in-a-mountain-array | Peak Index in a Mountain Array | Medium | python | [Problem](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [Solution](./solutions/Medium/0852-peak-index-in-a-mountain-array/solution.py) |
 | positions-of-large-groups | Positions of Large Groups | Easy | python | [Problem](https://leetcode.com/problems/positions-of-large-groups/) | [Solution](./solutions/Easy/0830-positions-of-large-groups/solution.py) |
