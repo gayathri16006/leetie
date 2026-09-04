@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 376 Solved
+## Progress Summary: 377 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -11,7 +11,7 @@
 | all-possible-full-binary-trees | All Possible Full Binary Trees | Medium | python | [Problem](https://leetcode.com/problems/all-possible-full-binary-trees/) | [Solution](./solutions/Medium/0894-all-possible-full-binary-trees/solution.py) |
 | backspace-string-compare | Backspace String Compare | Easy | python | [Problem](https://leetcode.com/problems/backspace-string-compare/) | [Solution](./solutions/Easy/0844-backspace-string-compare/solution.py) |
 | binary-trees-with-factors | Binary Trees With Factors | Medium | python | [Problem](https://leetcode.com/problems/binary-trees-with-factors/) | [Solution](./solutions/Medium/0823-binary-trees-with-factors/solution.py) |
-| binary-watch | 401. Binary Watch | Easy | python3 | [Problem](https://leetcode.com/problems/binary-watch/) | [Solution](./solutions/Easy/0401-binary-watch/solution.py) |
+| bitwise-ors-of-subarrays | Bitwise ORs of Subarrays | Medium | python | [Problem](https://leetcode.com/problems/bitwise-ors-of-subarrays/) | [Solution](./solutions/Medium/0898-bitwise-ors-of-subarrays/solution.py) |
 | boats-to-save-people | Boats to Save People | Medium | python | [Problem](https://leetcode.com/problems/boats-to-save-people/) | [Solution](./solutions/Medium/0881-boats-to-save-people/solution.py) |
 | consecutive-numbers-sum | Consecutive Numbers Sum | Hard | python | [Problem](https://leetcode.com/problems/consecutive-numbers-sum/) | [Solution](./solutions/Hard/0829-consecutive-numbers-sum/solution.py) |
 | decoded-string-at-index | Decoded String at Index | Medium | python | [Problem](https://leetcode.com/problems/decoded-string-at-index/) | [Solution](./solutions/Medium/0880-decoded-string-at-index/solution.py) |
@@ -99,6 +99,7 @@
 | random-pick-index | 398. Random Pick Index | Medium | python3 | [Problem](https://leetcode.com/problems/random-pick-index/) | [Solution](./solutions/Medium/0398-random-pick-index/solution.py) |
 | evaluate-division | 399. Evaluate Division | Medium | python3 | [Problem](https://leetcode.com/problems/evaluate-division/) | [Solution](./solutions/Medium/0399-evaluate-division/solution.py) |
 | nth-digit | 400. Nth Digit | Medium | python3 | [Problem](https://leetcode.com/problems/nth-digit/) | [Solution](./solutions/Medium/0400-nth-digit/solution.py) |
+| binary-watch | 401. Binary Watch | Easy | python3 | [Problem](https://leetcode.com/problems/binary-watch/) | [Solution](./solutions/Easy/0401-binary-watch/solution.py) |
 | frog-jump | 403. Frog Jump | Hard | python3 | [Problem](https://leetcode.com/problems/frog-jump/) | [Solution](./solutions/Hard/0403-frog-jump/solution.py) |
 | sum-of-left-leaves | 404. Sum Of Left Leaves | Easy | python3 | [Problem](https://leetcode.com/problems/sum-of-left-leaves/) | [Solution](./solutions/Easy/0404-sum-of-left-leaves/solution.py) |
 | queue-reconstruction-by-height | 406. Queue Reconstruction By Height | Medium | python3 | [Problem](https://leetcode.com/problems/queue-reconstruction-by-height/) | [Solution](./solutions/Medium/0406-queue-reconstruction-by-height/solution.py) |
