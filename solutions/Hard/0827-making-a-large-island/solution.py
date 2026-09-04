@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix
 # Link     : https://leetcode.com/problems/making-a-large-island/
-# Runtime  : 3 ms (beats 0%)
-# Memory   : 12308000 (beats 0%)
+# Runtime  : 706 ms (beats 94%)
+# Memory   : 17948000 (beats 96%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
