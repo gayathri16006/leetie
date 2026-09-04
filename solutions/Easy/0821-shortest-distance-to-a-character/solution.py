@@ -3,8 +3,8 @@
 # Difficulty: Easy
 # Tags     : Array, Two Pointers, String
 # Link     : https://leetcode.com/problems/shortest-distance-to-a-character/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12360000 (beats 0%)
+# Runtime  : 0 ms (beats 100%)
+# Memory   : 12448000 (beats 50%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
