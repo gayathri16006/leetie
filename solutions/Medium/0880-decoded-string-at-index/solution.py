@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : String, Stack
 # Link     : https://leetcode.com/problems/decoded-string-at-index/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12496000 (beats 0%)
+# Runtime  : 0 ms (beats 100%)
+# Memory   : 12436000 (beats 25%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
