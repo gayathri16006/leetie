@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 382 Solved
+## Progress Summary: 383 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -53,6 +53,7 @@
 | split-array-into-fibonacci-sequence | Split Array into Fibonacci Sequence | Medium | python | [Problem](https://leetcode.com/problems/split-array-into-fibonacci-sequence/) | [Solution](./solutions/Medium/0842-split-array-into-fibonacci-sequence/solution.py) |
 | sum-of-distances-in-tree | Sum of Distances in Tree | Hard | python | [Problem](https://leetcode.com/problems/sum-of-distances-in-tree/) | [Solution](./solutions/Hard/0834-sum-of-distances-in-tree/solution.py) |
 | sum-of-subsequence-widths | Sum of Subsequence Widths | Hard | python | [Problem](https://leetcode.com/problems/sum-of-subsequence-widths/) | [Solution](./solutions/Hard/0891-sum-of-subsequence-widths/solution.py) |
+| super-palindromes | Super Palindromes | Hard | python | [Problem](https://leetcode.com/problems/super-palindromes/) | [Solution](./solutions/Hard/0906-super-palindromes/solution.py) |
 | transpose-matrix | Transpose Matrix | Easy | python | [Problem](https://leetcode.com/problems/transpose-matrix/) | [Solution](./solutions/Easy/0867-transpose-matrix/solution.py) |
 | two-sum | 1. Two Sum | Easy | java | [Problem](https://leetcode.com/problems/two-sum/) | [Solution](./solutions/Easy/0001-two-sum/solution.java) |
 | find-the-index-of-the-first-occurrence-in-a-string | 28. Find The Index Of The First Occurrence In A String | Easy | python3 | [Problem](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Solution](./solutions/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/solution.py) |
