@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 378 Solved
+## Progress Summary: 379 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -18,7 +18,6 @@
 | find-and-replace-pattern | Find and Replace Pattern | Medium | python | [Problem](https://leetcode.com/problems/find-and-replace-pattern/) | [Solution](./solutions/Medium/0890-find-and-replace-pattern/solution.py) |
 | find-the-index-of-the-first-occurrence-in-a-string | 28. Find The Index Of The First Occurrence In A String | Easy | python3 | [Problem](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Solution](./solutions/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/solution.py) |
 | flatten-binary-tree-to-linked-list | 114. Flatten Binary Tree To Linked List | Medium | python3 | [Problem](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [Solution](./solutions/Medium/0114-flatten-binary-tree-to-linked-list/solution.py) |
-| first-bad-version | 278. First Bad Version | Easy | python3 | [Problem](https://leetcode.com/problems/first-bad-version/) | [Solution](./solutions/Easy/0278-first-bad-version/solution.py) |
 | groups-of-special-equivalent-strings | Groups of Special-Equivalent Strings | Medium | python | [Problem](https://leetcode.com/problems/groups-of-special-equivalent-strings/) | [Solution](./solutions/Medium/0893-groups-of-special-equivalent-strings/solution.py) |
 | guess-the-word | Guess the Word | Hard | python | [Problem](https://leetcode.com/problems/guess-the-word/) | [Solution](./solutions/Hard/0843-guess-the-word/solution.py) |
 | k-similar-strings | K-Similar Strings | Hard | python | [Problem](https://leetcode.com/problems/k-similar-strings/) | [Solution](./solutions/Hard/0854-k-similar-strings/solution.py) |
@@ -32,6 +31,7 @@
 | minimum-cost-to-hire-k-workers | Minimum Cost to Hire K Workers | Hard | python | [Problem](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) | [Solution](./solutions/Hard/0857-minimum-cost-to-hire-k-workers/solution.py) |
 | monotonic-array | Monotonic Array | Easy | python | [Problem](https://leetcode.com/problems/monotonic-array/) | [Solution](./solutions/Easy/0896-monotonic-array/solution.py) |
 | nth-magical-number | Nth Magical Number | Hard | python | [Problem](https://leetcode.com/problems/nth-magical-number/) | [Solution](./solutions/Hard/0878-nth-magical-number/solution.py) |
+| numbers-at-most-n-given-digit-set | Numbers At Most N Given Digit Set | Hard | python | [Problem](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/) | [Solution](./solutions/Hard/0902-numbers-at-most-n-given-digit-set/solution.py) |
 | orderly-queue | Orderly Queue | Hard | python | [Problem](https://leetcode.com/problems/orderly-queue/) | [Solution](./solutions/Hard/0899-orderly-queue/solution.py) |
 | peak-index-in-a-mountain-array | Peak Index in a Mountain Array | Medium | python | [Problem](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [Solution](./solutions/Medium/0852-peak-index-in-a-mountain-array/solution.py) |
 | positions-of-large-groups | Positions of Large Groups | Easy | python | [Problem](https://leetcode.com/problems/positions-of-large-groups/) | [Solution](./solutions/Easy/0830-positions-of-large-groups/solution.py) |
@@ -69,6 +69,7 @@
 | contains-duplicate-iii | 220. Contains Duplicate Iii | Hard | python3 | [Problem](https://leetcode.com/problems/contains-duplicate-iii/) | [Solution](./solutions/Hard/0220-contains-duplicate-iii/solution.py) |
 | h-index | 274. H Index | Medium | python3 | [Problem](https://leetcode.com/problems/h-index/) | [Solution](./solutions/Medium/0274-h-index/solution.py) |
 | h-index-ii | 275. H Index Ii | Medium | python3 | [Problem](https://leetcode.com/problems/h-index-ii/) | [Solution](./solutions/Medium/0275-h-index-ii/solution.py) |
+| first-bad-version | 278. First Bad Version | Easy | python3 | [Problem](https://leetcode.com/problems/first-bad-version/) | [Solution](./solutions/Easy/0278-first-bad-version/solution.py) |
 | peeking-iterator | 284. Peeking Iterator | Medium | python3 | [Problem](https://leetcode.com/problems/peeking-iterator/) | [Solution](./solutions/Medium/0284-peeking-iterator/solution.py) |
 | game-of-life | 289. Game Of Life | Medium | python3 | [Problem](https://leetcode.com/problems/game-of-life/) | [Solution](./solutions/Medium/0289-game-of-life/solution.py) |
 | find-median-from-data-stream | 295. Find Median From Data Stream | Hard | python3 | [Problem](https://leetcode.com/problems/find-median-from-data-stream/) | [Solution](./solutions/Hard/0295-find-median-from-data-stream/solution.py) |
