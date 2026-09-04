@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Breadth-First Search, Matrix
 # Link     : https://leetcode.com/problems/snakes-and-ladders/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12256000 (beats 0%)
+# Runtime  : 47 ms (beats 29%)
+# Memory   : 12288000 (beats 100%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
