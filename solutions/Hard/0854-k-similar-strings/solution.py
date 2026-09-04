@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : Hash Table, String, Breadth-First Search
 # Link     : https://leetcode.com/problems/k-similar-strings/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12360000 (beats 0%)
+# Runtime  : 46 ms (beats 100%)
+# Memory   : 12976000 (beats 100%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
