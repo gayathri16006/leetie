@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 377 Solved
+## Progress Summary: 378 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -21,7 +21,6 @@
 | first-bad-version | 278. First Bad Version | Easy | python3 | [Problem](https://leetcode.com/problems/first-bad-version/) | [Solution](./solutions/Easy/0278-first-bad-version/solution.py) |
 | groups-of-special-equivalent-strings | Groups of Special-Equivalent Strings | Medium | python | [Problem](https://leetcode.com/problems/groups-of-special-equivalent-strings/) | [Solution](./solutions/Medium/0893-groups-of-special-equivalent-strings/solution.py) |
 | guess-the-word | Guess the Word | Hard | python | [Problem](https://leetcode.com/problems/guess-the-word/) | [Solution](./solutions/Hard/0843-guess-the-word/solution.py) |
-| is-subsequence | 392. Is Subsequence | Easy | python3 | [Problem](https://leetcode.com/problems/is-subsequence/) | [Solution](./solutions/Easy/0392-is-subsequence/solution.py) |
 | k-similar-strings | K-Similar Strings | Hard | python | [Problem](https://leetcode.com/problems/k-similar-strings/) | [Solution](./solutions/Hard/0854-k-similar-strings/solution.py) |
 | koko-eating-bananas | Koko Eating Bananas | Medium | python | [Problem](https://leetcode.com/problems/koko-eating-bananas/) | [Solution](./solutions/Medium/0875-koko-eating-bananas/solution.py) |
 | largest-triangle-area | Largest Triangle Area | Easy | python | [Problem](https://leetcode.com/problems/largest-triangle-area/) | [Solution](./solutions/Easy/0812-largest-triangle-area/solution.py) |
@@ -33,6 +32,7 @@
 | minimum-cost-to-hire-k-workers | Minimum Cost to Hire K Workers | Hard | python | [Problem](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) | [Solution](./solutions/Hard/0857-minimum-cost-to-hire-k-workers/solution.py) |
 | monotonic-array | Monotonic Array | Easy | python | [Problem](https://leetcode.com/problems/monotonic-array/) | [Solution](./solutions/Easy/0896-monotonic-array/solution.py) |
 | nth-magical-number | Nth Magical Number | Hard | python | [Problem](https://leetcode.com/problems/nth-magical-number/) | [Solution](./solutions/Hard/0878-nth-magical-number/solution.py) |
+| orderly-queue | Orderly Queue | Hard | python | [Problem](https://leetcode.com/problems/orderly-queue/) | [Solution](./solutions/Hard/0899-orderly-queue/solution.py) |
 | peak-index-in-a-mountain-array | Peak Index in a Mountain Array | Medium | python | [Problem](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [Solution](./solutions/Medium/0852-peak-index-in-a-mountain-array/solution.py) |
 | positions-of-large-groups | Positions of Large Groups | Easy | python | [Problem](https://leetcode.com/problems/positions-of-large-groups/) | [Solution](./solutions/Easy/0830-positions-of-large-groups/solution.py) |
 | prime-palindrome | Prime Palindrome | Medium | python | [Problem](https://leetcode.com/problems/prime-palindrome/) | [Solution](./solutions/Medium/0866-prime-palindrome/solution.py) |
@@ -93,6 +93,7 @@
 | lexicographical-numbers | 386. Lexicographical Numbers | Medium | python3 | [Problem](https://leetcode.com/problems/lexicographical-numbers/) | [Solution](./solutions/Medium/0386-lexicographical-numbers/solution.py) |
 | longest-absolute-file-path | 388. Longest Absolute File Path | Medium | python3 | [Problem](https://leetcode.com/problems/longest-absolute-file-path/) | [Solution](./solutions/Medium/0388-longest-absolute-file-path/solution.py) |
 | elimination-game | 390. Elimination Game | Medium | python3 | [Problem](https://leetcode.com/problems/elimination-game/) | [Solution](./solutions/Medium/0390-elimination-game/solution.py) |
+| is-subsequence | 392. Is Subsequence | Easy | python3 | [Problem](https://leetcode.com/problems/is-subsequence/) | [Solution](./solutions/Easy/0392-is-subsequence/solution.py) |
 | utf-8-validation | 393. Utf 8 Validation | Medium | python3 | [Problem](https://leetcode.com/problems/utf-8-validation/) | [Solution](./solutions/Medium/0393-utf-8-validation/solution.py) |
 | decode-string | 394. Decode String | Medium | python3 | [Problem](https://leetcode.com/problems/decode-string/) | [Solution](./solutions/Medium/0394-decode-string/solution.py) |
 | integer-replacement | 397. Integer Replacement | Medium | python3 | [Problem](https://leetcode.com/problems/integer-replacement/) | [Solution](./solutions/Medium/0397-integer-replacement/solution.py) |
