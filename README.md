@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 366 Solved
+## Progress Summary: 367 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -52,6 +52,18 @@
 | fizz-buzz | 412. Fizz Buzz | Easy | python3 | [Problem](https://leetcode.com/problems/fizz-buzz/) | [Solution](./solutions/Easy/0412-fizz-buzz/solution.py) |
 | arithmetic-slices | 413. Arithmetic Slices | Medium | python3 | [Problem](https://leetcode.com/problems/arithmetic-slices/) | [Solution](./solutions/Medium/0413-arithmetic-slices/solution.py) |
 | add-strings | 415. Add Strings | Easy | python3 | [Problem](https://leetcode.com/problems/add-strings/) | [Solution](./solutions/Easy/0415-add-strings/solution.py) |
+| partition-equal-subset-sum | 416. Partition Equal Subset Sum | Medium | python3 | [Problem](https://leetcode.com/problems/partition-equal-subset-sum/) | [Solution](./solutions/Medium/0416-partition-equal-subset-sum/solution.py) |
+| pacific-atlantic-water-flow | 417. Pacific Atlantic Water Flow | Medium | python3 | [Problem](https://leetcode.com/problems/pacific-atlantic-water-flow/) | [Solution](./solutions/Medium/0417-pacific-atlantic-water-flow/solution.py) |
+| battleships-in-a-board | 419. Battleships In A Board | Medium | python3 | [Problem](https://leetcode.com/problems/battleships-in-a-board/) | [Solution](./solutions/Medium/0419-battleships-in-a-board/solution.py) |
+| reconstruct-original-digits-from-english | 423. Reconstruct Original Digits From English | Medium | python3 | [Problem](https://leetcode.com/problems/reconstruct-original-digits-from-english/) | [Solution](./solutions/Medium/0423-reconstruct-original-digits-from-english/solution.py) |
+| n-ary-tree-level-order-traversal | 429. N Ary Tree Level Order Traversal | Medium | python3 | [Problem](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) | [Solution](./solutions/Medium/0429-n-ary-tree-level-order-traversal/solution.py) |
+| flatten-a-multilevel-doubly-linked-list | 430. Flatten A Multilevel Doubly Linked List | Medium | python3 | [Problem](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) | [Solution](./solutions/Medium/0430-flatten-a-multilevel-doubly-linked-list/solution.py) |
+| non-overlapping-intervals | 435. Non Overlapping Intervals | Medium | python3 | [Problem](https://leetcode.com/problems/non-overlapping-intervals/) | [Solution](./solutions/Medium/0435-non-overlapping-intervals/solution.py) |
+| find-right-interval | 436. Find Right Interval | Medium | python3 | [Problem](https://leetcode.com/problems/find-right-interval/) | [Solution](./solutions/Medium/0436-find-right-interval/solution.py) |
+| arranging-coins | 441. Arranging Coins | Easy | python3 | [Problem](https://leetcode.com/problems/arranging-coins/) | [Solution](./solutions/Easy/0441-arranging-coins/solution.py) |
+| string-compression | 443. String Compression | Medium | python3 | [Problem](https://leetcode.com/problems/string-compression/) | [Solution](./solutions/Medium/0443-string-compression/solution.py) |
+| assign-cookies | 455. Assign Cookies | Easy | python3 | [Problem](https://leetcode.com/problems/assign-cookies/) | [Solution](./solutions/Easy/0455-assign-cookies/solution.py) |
+| 132-pattern | 456. 132 Pattern | Medium | python3 | [Problem](https://leetcode.com/problems/132-pattern/) | [Solution](./solutions/Medium/0456-132-pattern/solution.py) |
 | k-similar-strings | K-Similar Strings | Hard | python | [Problem](https://leetcode.com/problems/k-similar-strings/) | [Solution](./solutions/Hard/0854-k-similar-strings/solution.py) |
 | koko-eating-bananas | Koko Eating Bananas | Medium | python | [Problem](https://leetcode.com/problems/koko-eating-bananas/) | [Solution](./solutions/Medium/0875-koko-eating-bananas/solution.py) |
 | largest-triangle-area | Largest Triangle Area | Easy | python | [Problem](https://leetcode.com/problems/largest-triangle-area/) | [Solution](./solutions/Easy/0812-largest-triangle-area/solution.py) |
@@ -61,26 +73,8 @@
 | maximize-distance-to-closest-person | Maximize Distance to Closest Person | Medium | python | [Problem](https://leetcode.com/problems/maximize-distance-to-closest-person/) | [Solution](./solutions/Medium/0849-maximize-distance-to-closest-person/solution.py) |
 | middle-of-the-linked-list | Middle of the Linked List | Easy | python | [Problem](https://leetcode.com/problems/middle-of-the-linked-list/) | [Solution](./solutions/Easy/0876-middle-of-the-linked-list/solution.py) |
 | minimum-cost-to-hire-k-workers | Minimum Cost to Hire K Workers | Hard | python | [Problem](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) | [Solution](./solutions/Hard/0857-minimum-cost-to-hire-k-workers/solution.py) |
-| partition-equal-subset-sum | 416. Partition Equal Subset Sum | Medium | python3 | [Problem](https://leetcode.com/problems/partition-equal-subset-sum/) | [Solution](./solutions/Medium/0416-partition-equal-subset-sum/solution.py) |
-| pacific-atlantic-water-flow | 417. Pacific Atlantic Water Flow | Medium | python3 | [Problem](https://leetcode.com/problems/pacific-atlantic-water-flow/) | [Solution](./solutions/Medium/0417-pacific-atlantic-water-flow/solution.py) |
-| battleships-in-a-board | 419. Battleships In A Board | Medium | python3 | [Problem](https://leetcode.com/problems/battleships-in-a-board/) | [Solution](./solutions/Medium/0419-battleships-in-a-board/solution.py) |
-| reconstruct-original-digits-from-english | 423. Reconstruct Original Digits From English | Medium | python3 | [Problem](https://leetcode.com/problems/reconstruct-original-digits-from-english/) | [Solution](./solutions/Medium/0423-reconstruct-original-digits-from-english/solution.py) |
-| n-ary-tree-level-order-traversal | 429. N Ary Tree Level Order Traversal | Medium | python3 | [Problem](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) | [Solution](./solutions/Medium/0429-n-ary-tree-level-order-traversal/solution.py) |
-| flatten-a-multilevel-doubly-linked-list | 430. Flatten A Multilevel Doubly Linked List | Medium | python3 | [Problem](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) | [Solution](./solutions/Medium/0430-flatten-a-multilevel-doubly-linked-list/solution.py) |
+| nth-magical-number | Nth Magical Number | Hard | python | [Problem](https://leetcode.com/problems/nth-magical-number/) | [Solution](./solutions/Hard/0878-nth-magical-number/solution.py) |
 | number-of-segments-in-a-string | 434. Number Of Segments In A String | Easy | python3 | [Problem](https://leetcode.com/problems/number-of-segments-in-a-string/) | [Solution](./solutions/Easy/0434-number-of-segments-in-a-string/solution.py) |
-| non-overlapping-intervals | 435. Non Overlapping Intervals | Medium | python3 | [Problem](https://leetcode.com/problems/non-overlapping-intervals/) | [Solution](./solutions/Medium/0435-non-overlapping-intervals/solution.py) |
-| find-right-interval | 436. Find Right Interval | Medium | python3 | [Problem](https://leetcode.com/problems/find-right-interval/) | [Solution](./solutions/Medium/0436-find-right-interval/solution.py) |
-| arranging-coins | 441. Arranging Coins | Easy | python3 | [Problem](https://leetcode.com/problems/arranging-coins/) | [Solution](./solutions/Easy/0441-arranging-coins/solution.py) |
-| string-compression | 443. String Compression | Medium | python3 | [Problem](https://leetcode.com/problems/string-compression/) | [Solution](./solutions/Medium/0443-string-compression/solution.py) |
-| assign-cookies | 455. Assign Cookies | Easy | python3 | [Problem](https://leetcode.com/problems/assign-cookies/) | [Solution](./solutions/Easy/0455-assign-cookies/solution.py) |
-| 132-pattern | 456. 132 Pattern | Medium | python3 | [Problem](https://leetcode.com/problems/132-pattern/) | [Solution](./solutions/Medium/0456-132-pattern/solution.py) |
-| unique-substrings-in-wraparound-string | 467. Unique Substrings In Wraparound String | Medium | python3 | [Problem](https://leetcode.com/problems/unique-substrings-in-wraparound-string/) | [Solution](./solutions/Medium/0467-unique-substrings-in-wraparound-string/solution.py) |
-| validate-ip-address | 468. Validate Ip Address | Medium | python3 | [Problem](https://leetcode.com/problems/validate-ip-address/) | [Solution](./solutions/Medium/0468-validate-ip-address/solution.py) |
-| implement-rand10-using-rand7 | 470. Implement Rand10 Using Rand7 | Medium | python3 | [Problem](https://leetcode.com/problems/implement-rand10-using-rand7/) | [Solution](./solutions/Medium/0470-implement-rand10-using-rand7/solution.py) |
-| matchsticks-to-square | 473. Matchsticks To Square | Medium | python3 | [Problem](https://leetcode.com/problems/matchsticks-to-square/) | [Solution](./solutions/Medium/0473-matchsticks-to-square/solution.py) |
-| ones-and-zeroes | 474. Ones And Zeroes | Medium | python3 | [Problem](https://leetcode.com/problems/ones-and-zeroes/) | [Solution](./solutions/Medium/0474-ones-and-zeroes/solution.py) |
-| heaters | 475. Heaters | Medium | python3 | [Problem](https://leetcode.com/problems/heaters/) | [Solution](./solutions/Medium/0475-heaters/solution.py) |
-| number-complement | 476. Number Complement | Easy | python3 | [Problem](https://leetcode.com/problems/number-complement/) | [Solution](./solutions/Easy/0476-number-complement/solution.py) |
 | peak-index-in-a-mountain-array | Peak Index in a Mountain Array | Medium | python | [Problem](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [Solution](./solutions/Medium/0852-peak-index-in-a-mountain-array/solution.py) |
 | positions-of-large-groups | Positions of Large Groups | Easy | python | [Problem](https://leetcode.com/problems/positions-of-large-groups/) | [Solution](./solutions/Easy/0830-positions-of-large-groups/solution.py) |
 | prime-palindrome | Prime Palindrome | Medium | python | [Problem](https://leetcode.com/problems/prime-palindrome/) | [Solution](./solutions/Medium/0866-prime-palindrome/solution.py) |
@@ -119,7 +113,14 @@
 | strong-password-checker | 420. Strong Password Checker | Hard | python3 | [Problem](https://leetcode.com/problems/strong-password-checker/) | [Solution](./solutions/Hard/0420-strong-password-checker/solution.py) |
 | all-oone-data-structure | 432. All Oone Data Structure | Hard | python3 | [Problem](https://leetcode.com/problems/all-oone-data-structure/) | [Solution](./solutions/Hard/0432-all-oone-data-structure/solution.py) |
 | count-the-repetitions | 466. Count The Repetitions | Hard | python3 | [Problem](https://leetcode.com/problems/count-the-repetitions/) | [Solution](./solutions/Hard/0466-count-the-repetitions/solution.py) |
+| unique-substrings-in-wraparound-string | 467. Unique Substrings In Wraparound String | Medium | python3 | [Problem](https://leetcode.com/problems/unique-substrings-in-wraparound-string/) | [Solution](./solutions/Medium/0467-unique-substrings-in-wraparound-string/solution.py) |
+| validate-ip-address | 468. Validate Ip Address | Medium | python3 | [Problem](https://leetcode.com/problems/validate-ip-address/) | [Solution](./solutions/Medium/0468-validate-ip-address/solution.py) |
+| implement-rand10-using-rand7 | 470. Implement Rand10 Using Rand7 | Medium | python3 | [Problem](https://leetcode.com/problems/implement-rand10-using-rand7/) | [Solution](./solutions/Medium/0470-implement-rand10-using-rand7/solution.py) |
 | concatenated-words | 472. Concatenated Words | Hard | python3 | [Problem](https://leetcode.com/problems/concatenated-words/) | [Solution](./solutions/Hard/0472-concatenated-words/solution.py) |
+| matchsticks-to-square | 473. Matchsticks To Square | Medium | python3 | [Problem](https://leetcode.com/problems/matchsticks-to-square/) | [Solution](./solutions/Medium/0473-matchsticks-to-square/solution.py) |
+| ones-and-zeroes | 474. Ones And Zeroes | Medium | python3 | [Problem](https://leetcode.com/problems/ones-and-zeroes/) | [Solution](./solutions/Medium/0474-ones-and-zeroes/solution.py) |
+| heaters | 475. Heaters | Medium | python3 | [Problem](https://leetcode.com/problems/heaters/) | [Solution](./solutions/Medium/0475-heaters/solution.py) |
+| number-complement | 476. Number Complement | Easy | python3 | [Problem](https://leetcode.com/problems/number-complement/) | [Solution](./solutions/Easy/0476-number-complement/solution.py) |
 | total-hamming-distance | 477. Total Hamming Distance | Medium | python3 | [Problem](https://leetcode.com/problems/total-hamming-distance/) | [Solution](./solutions/Medium/0477-total-hamming-distance/solution.py) |
 | generate-random-point-in-a-circle | 478. Generate Random Point In A Circle | Medium | python3 | [Problem](https://leetcode.com/problems/generate-random-point-in-a-circle/) | [Solution](./solutions/Medium/0478-generate-random-point-in-a-circle/solution.py) |
 | largest-palindrome-product | 479. Largest Palindrome Product | Hard | python3 | [Problem](https://leetcode.com/problems/largest-palindrome-product/) | [Solution](./solutions/Hard/0479-largest-palindrome-product/solution.py) |
