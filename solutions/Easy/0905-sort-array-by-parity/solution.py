@@ -3,8 +3,8 @@
 # Difficulty: Easy
 # Tags     : Array, Two Pointers, Sorting
 # Link     : https://leetcode.com/problems/sort-array-by-parity/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12508000 (beats 0%)
+# Runtime  : 4 ms (beats 37%)
+# Memory   : 13008000 (beats 35%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
