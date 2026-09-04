@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Hash Table, Sliding Window
 # Link     : https://leetcode.com/problems/fruit-into-baskets/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12308000 (beats 0%)
+# Runtime  : 264 ms (beats 52%)
+# Memory   : 17012000 (beats 60%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
