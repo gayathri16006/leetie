@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Tree, Breadth-First Search, Design, Binary Tree
 # Link     : https://leetcode.com/problems/complete-binary-tree-inserter/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12356000 (beats 0%)
+# Runtime  : 0 ms (beats 100%)
+# Memory   : 13696000 (beats 38%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
