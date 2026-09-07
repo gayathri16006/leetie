@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : String, Stack, Greedy, Bracket Sequences
 # Link     : https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12376000 (beats 0%)
+# Runtime  : 0 ms (beats 100%)
+# Memory   : 12412000 (beats 19%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
