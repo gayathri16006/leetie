@@ -3,8 +3,8 @@
 # Difficulty: Easy
 # Tags     : Array, Two Pointers, String, Greedy
 # Link     : https://leetcode.com/problems/di-string-match/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12512000 (beats 0%)
+# Runtime  : 7 ms (beats 38%)
+# Memory   : 13436000 (beats 90%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
