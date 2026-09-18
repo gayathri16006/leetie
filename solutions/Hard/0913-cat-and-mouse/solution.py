@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : Math, Dynamic Programming, Graph Theory, Topological Sort, Memoization, Minimax, Game Theory, Zero-Sum Game
 # Link     : https://leetcode.com/problems/cat-and-mouse/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12612000 (beats 0%)
+# Runtime  : 369 ms (beats 47%)
+# Memory   : 13104000 (beats 44%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
@@ -68,7 +68,7 @@ class Solution(object):
                     color[prev_m][prev_c][prev_turn] = result
                     queue.append((prev_m, prev_c, prev_turn, result))
                 else:
-                    # Otherwise, decrement the degree of neutral moves
+                   
                     degree[prev_m][prev_c][prev_turn] -= 1
                     if degree[prev_m][prev_c][prev_turn] == 0:
                         
