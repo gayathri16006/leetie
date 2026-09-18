@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Hash Table, Math, Geometry
 # Link     : https://leetcode.com/problems/minimum-area-rectangle-ii/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12296000 (beats 0%)
+# Runtime  : 33 ms (beats 97%)
+# Memory   : 12984000 (beats 26%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
