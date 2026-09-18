@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Two Pointers, Stack, Monotonic Stack
 # Link     : https://leetcode.com/problems/maximum-width-ramp/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12420000 (beats 0%)
+# Runtime  : 83 ms (beats 59%)
+# Memory   : 18432000 (beats 81%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
@@ -24,7 +24,7 @@ class Solution(object):
 
         max_width = 0
 
-        erse from right to left to find maximum ramp width
+        
         for j in range(len(nums) - 1, -1, -1):
             while stack and nums[j] >= nums[stack[-1]]:
                 max_width = max(max_width, j - stack.pop())
