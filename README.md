@@ -2,25 +2,26 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 432 Solved
+## Progress Summary: 433 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
 | 3sum-with-multiplicity | 3Sum With Multiplicity | Medium | python | [Problem](https://leetcode.com/problems/3sum-with-multiplicity/) | [Solution](./solutions/Medium/0923-3sum-with-multiplicity/solution.py) |
 | flatten-binary-tree-to-linked-list | 114. Flatten Binary Tree To Linked List | Medium | python3 | [Problem](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [Solution](./solutions/Medium/0114-flatten-binary-tree-to-linked-list/solution.py) |
 | add-strings | 415. Add Strings | Easy | python3 | [Problem](https://leetcode.com/problems/add-strings/) | [Solution](./solutions/Easy/0415-add-strings/solution.py) |
+| arranging-coins | 441. Arranging Coins | Easy | python3 | [Problem](https://leetcode.com/problems/arranging-coins/) | [Solution](./solutions/Easy/0441-arranging-coins/solution.py) |
 | array-of-doubled-pairs | Array of Doubled Pairs | Medium | python | [Problem](https://leetcode.com/problems/array-of-doubled-pairs/) | [Solution](./solutions/Medium/0954-array-of-doubled-pairs/solution.py) |
 | assign-cookies | 455. Assign Cookies | Easy | python3 | [Problem](https://leetcode.com/problems/assign-cookies/) | [Solution](./solutions/Easy/0455-assign-cookies/solution.py) |
 | bag-of-tokens | Bag of Tokens | Medium | python | [Problem](https://leetcode.com/problems/bag-of-tokens/) | [Solution](./solutions/Medium/0948-bag-of-tokens/solution.py) |
 | beautiful-array | Beautiful Array | Medium | python | [Problem](https://leetcode.com/problems/beautiful-array/) | [Solution](./solutions/Medium/0932-beautiful-array/solution.py) |
 | binary-subarrays-with-sum | Binary Subarrays With Sum | Medium | python | [Problem](https://leetcode.com/problems/binary-subarrays-with-sum/) | [Solution](./solutions/Medium/0930-binary-subarrays-with-sum/solution.py) |
 | binary-watch | 401. Binary Watch | Easy | python3 | [Problem](https://leetcode.com/problems/binary-watch/) | [Solution](./solutions/Easy/0401-binary-watch/solution.py) |
-| arranging-coins | 441. Arranging Coins | Easy | python3 | [Problem](https://leetcode.com/problems/arranging-coins/) | [Solution](./solutions/Easy/0441-arranging-coins/solution.py) |
 | cat-and-mouse | Cat and Mouse | Hard | python | [Problem](https://leetcode.com/problems/cat-and-mouse/) | [Solution](./solutions/Hard/0913-cat-and-mouse/solution.py) |
 | check-completeness-of-a-binary-tree | Check Completeness of a Binary Tree | Medium | python | [Problem](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) | [Solution](./solutions/Medium/0958-check-completeness-of-a-binary-tree/solution.py) |
 | complete-binary-tree-inserter | Complete Binary Tree Inserter | Medium | python | [Problem](https://leetcode.com/problems/complete-binary-tree-inserter/) | [Solution](./solutions/Medium/0919-complete-binary-tree-inserter/solution.py) |
 | delete-columns-to-make-sorted | Delete Columns to Make Sorted | Easy | python | [Problem](https://leetcode.com/problems/delete-columns-to-make-sorted/) | [Solution](./solutions/Easy/0944-delete-columns-to-make-sorted/solution.py) |
 | delete-columns-to-make-sorted-ii | Delete Columns to Make Sorted II | Medium | python | [Problem](https://leetcode.com/problems/delete-columns-to-make-sorted-ii/) | [Solution](./solutions/Medium/0955-delete-columns-to-make-sorted-ii/solution.py) |
+| delete-columns-to-make-sorted-iii | Delete Columns to Make Sorted III | Hard | python | [Problem](https://leetcode.com/problems/delete-columns-to-make-sorted-iii/) | [Solution](./solutions/Hard/0960-delete-columns-to-make-sorted-iii/solution.py) |
 | di-string-match | DI String Match | Easy | python | [Problem](https://leetcode.com/problems/di-string-match/) | [Solution](./solutions/Easy/0942-di-string-match/solution.py) |
 | distinct-subsequences-ii | Distinct Subsequences II | Hard | python | [Problem](https://leetcode.com/problems/distinct-subsequences-ii/) | [Solution](./solutions/Hard/0940-distinct-subsequences-ii/solution.py) |
 | find-the-index-of-the-first-occurrence-in-a-string | 28. Find The Index Of The First Occurrence In A String | Easy | python3 | [Problem](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Solution](./solutions/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/solution.py) |
