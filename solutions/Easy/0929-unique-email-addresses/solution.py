@@ -3,8 +3,8 @@
 # Difficulty: Easy
 # Tags     : Array, Hash Table, String
 # Link     : https://leetcode.com/problems/unique-email-addresses/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12260000 (beats 0%)
+# Runtime  : 9 ms (beats 49%)
+# Memory   : 12476000 (beats 33%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
