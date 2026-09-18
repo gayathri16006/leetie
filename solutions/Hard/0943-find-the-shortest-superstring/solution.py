@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : Array, String, Dynamic Programming, Bit Manipulation, Bitmask, Hamiltonian Path
 # Link     : https://leetcode.com/problems/find-the-shortest-superstring/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12300000 (beats 0%)
+# Runtime  : 423 ms (beats 96%)
+# Memory   : 13836000 (beats 85%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
