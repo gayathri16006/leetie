@@ -3,8 +3,8 @@
 # Difficulty: Easy
 # Tags     : Array, Hash Table, Pigeonhole Principle
 # Link     : https://leetcode.com/problems/n-repeated-element-in-size-2n-array/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12272000 (beats 0%)
+# Runtime  : 0 ms (beats 100%)
+# Memory   : 13228000 (beats 71%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
