@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Tree, Depth-First Search, Binary Tree
 # Link     : https://leetcode.com/problems/flip-equivalent-binary-trees/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12324000 (beats 0%)
+# Runtime  : 0 ms (beats 100%)
+# Memory   : 12552000 (beats 28%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
@@ -27,7 +27,7 @@ class Solution(object):
         if not root1 and not root2:
             return True
         
-        # One null or values don't match -> not equivalent
+        
         if not root1 or not root2 or root1.val != root2.val:
             return False
         
