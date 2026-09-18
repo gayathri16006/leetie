@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Stack, Simulation
 # Link     : https://leetcode.com/problems/validate-stack-sequences/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12456000 (beats 0%)
+# Runtime  : 2 ms (beats 65%)
+# Memory   : 12412000 (beats 68%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
