@@ -1,0 +1,32 @@
+# ──────────────────────────────────────────────────
+# Problem  : 942. DI String Match
+# Difficulty: Easy
+# Tags     : Array, Two Pointers, String, Greedy
+# Link     : https://leetcode.com/problems/di-string-match/
+# Runtime  : 0 ms (beats 0%)
+# Memory   : 12512000 (beats 0%)
+# Language : python
+# Copyright: (c) 2026 gayathri16006. All rights reserved.
+# Synced by: leetie
+# ──────────────────────────────────────────────────
+
+class Solution(object):
+    def diStringMatch(self, s):
+        """
+        :type s: str
+        :rtype: List[int]
+        """
+        low = 0
+        high = len(s)
+        ans = []
+        
+        for ch in s:
+            if ch == 'I':
+                ans.append(low)
+                low += 1
+            else:
+                ans.append(high)
+                high -= 1
+                
+        ans.append(low)
+        return ans
