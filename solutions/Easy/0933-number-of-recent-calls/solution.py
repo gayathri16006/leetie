@@ -3,8 +3,8 @@
 # Difficulty: Easy
 # Tags     : Design, Queue, Data Stream
 # Link     : https://leetcode.com/problems/number-of-recent-calls/
-# Runtime  : 60 ms (beats 70%)
-# Memory   : 17160000 (beats 91%)
+# Runtime  : 0 ms (beats 0%)
+# Memory   : 12392000 (beats 0%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
@@ -28,3 +28,6 @@ class RecentCounter(object):
         return len(self.requests)
 
 
+# Your RecentCounter object will be instantiated and called as such:
+# obj = RecentCounter()
+# param_1 = obj.ping(t)
