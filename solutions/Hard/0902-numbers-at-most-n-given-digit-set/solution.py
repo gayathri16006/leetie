@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : Array, Math, String, Binary Search, Dynamic Programming
 # Link     : https://leetcode.com/problems/numbers-at-most-n-given-digit-set/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12468000 (beats 0%)
+# Runtime  : 0 ms (beats 100%)
+# Memory   : 12524000 (beats 0%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
@@ -26,11 +26,11 @@ class Solution(object):
         
         # Step 2: Count valid numbers with length == L
         for i, char in enumerate(s):
-            # Add choices where digit at position i is strictly smaller than s[i]
+           
             smaller_count = sum(1 for d in digits if d < char)
             total += smaller_count * (num_digits ** (L - 1 - i))
             
-            # If current character is not in digits, we cannot match further prefixes
+            
             if char not in digits:
                 break
         else:
