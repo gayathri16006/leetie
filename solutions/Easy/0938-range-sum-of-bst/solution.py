@@ -3,8 +3,8 @@
 # Difficulty: Easy
 # Tags     : Tree, Depth-First Search, Binary Search Tree, Binary Tree
 # Link     : https://leetcode.com/problems/range-sum-of-bst/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12548000 (beats 0%)
+# Runtime  : 1 ms (beats 98%)
+# Memory   : 28760000 (beats 48%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
