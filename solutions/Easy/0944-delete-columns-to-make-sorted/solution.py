@@ -3,8 +3,8 @@
 # Difficulty: Easy
 # Tags     : Array, String, Longest Increasing Subsequence
 # Link     : https://leetcode.com/problems/delete-columns-to-make-sorted/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12396000 (beats 0%)
+# Runtime  : 88 ms (beats 45%)
+# Memory   : 13020000 (beats 20%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
