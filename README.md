@@ -327,9 +327,6 @@
 | construct-uniform-parity-array-ii | 3876. Construct Uniform Parity Array Ii | Medium | python3 | [Problem](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | [Solution](./solutions/Medium/3876-construct-uniform-parity-array-ii/solution.py) |
 | smallest-stable-index-i | 3903. Smallest Stable Index I | Easy | python3 | [Problem](https://leetcode.com/problems/smallest-stable-index-i/) | [Solution](./solutions/Easy/3903-smallest-stable-index-i/solution.py) |
 | sort-array-by-parity-ii | Sort Array By Parity II | Easy | python | [Problem](https://leetcode.com/problems/sort-array-by-parity-ii/) | [Solution](./solutions/Easy/0922-sort-array-by-parity-ii/solution.py) |
-| stamping-the-sequence | Stamping The Sequence | Hard | python | [Problem](https://leetcode.com/problems/stamping-the-sequence/) | [Solution](./solutions/Hard/0936-stamping-the-sequence/solution.py) |
-| sum-of-left-leaves | 404. Sum Of Left Leaves | Easy | python3 | [Problem](https://leetcode.com/problems/sum-of-left-leaves/) | [Solution](./solutions/Easy/0404-sum-of-left-leaves/solution.py) |
-| third-maximum-number | 414. Third Maximum Number | Easy | python3 | [Problem](https://leetcode.com/problems/third-maximum-number/) | [Solution](./solutions/Easy/0414-third-maximum-number/solution.py) |
 | three-equal-parts | Three Equal Parts | Hard | python | [Problem](https://leetcode.com/problems/three-equal-parts/) | [Solution](./solutions/Hard/0927-three-equal-parts/solution.py) |
 | two-sum | 1. Two Sum | Easy | java | [Problem](https://leetcode.com/problems/two-sum/) | [Solution](./solutions/Easy/0001-two-sum/solution.java) |
 | wildcard-matching | 44. Wildcard Matching | Hard | python3 | [Problem](https://leetcode.com/problems/wildcard-matching/) | [Solution](./solutions/Hard/0044-wildcard-matching/solution.py) |
@@ -348,6 +345,8 @@
 | russian-doll-envelopes | 354. Russian Doll Envelopes | Hard | python3 | [Problem](https://leetcode.com/problems/russian-doll-envelopes/) | [Solution](./solutions/Hard/0354-russian-doll-envelopes/solution.py) |
 | insert-delete-getrandom-o1-duplicates-allowed | 381. Insert Delete Getrandom O1 Duplicates Allowed | Hard | python3 | [Problem](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) | [Solution](./solutions/Hard/0381-insert-delete-getrandom-o1-duplicates-allowed/solution.py) |
 | frog-jump | 403. Frog Jump | Hard | python3 | [Problem](https://leetcode.com/problems/frog-jump/) | [Solution](./solutions/Hard/0403-frog-jump/solution.py) |
+| sum-of-left-leaves | 404. Sum Of Left Leaves | Easy | python3 | [Problem](https://leetcode.com/problems/sum-of-left-leaves/) | [Solution](./solutions/Easy/0404-sum-of-left-leaves/solution.py) |
+| third-maximum-number | 414. Third Maximum Number | Easy | python3 | [Problem](https://leetcode.com/problems/third-maximum-number/) | [Solution](./solutions/Easy/0414-third-maximum-number/solution.py) |
 | strong-password-checker | 420. Strong Password Checker | Hard | python3 | [Problem](https://leetcode.com/problems/strong-password-checker/) | [Solution](./solutions/Hard/0420-strong-password-checker/solution.py) |
 | all-oone-data-structure | 432. All Oone Data Structure | Hard | python3 | [Problem](https://leetcode.com/problems/all-oone-data-structure/) | [Solution](./solutions/Hard/0432-all-oone-data-structure/solution.py) |
 | count-the-repetitions | 466. Count The Repetitions | Hard | python3 | [Problem](https://leetcode.com/problems/count-the-repetitions/) | [Solution](./solutions/Hard/0466-count-the-repetitions/solution.py) |
@@ -421,5 +420,6 @@
 | super-palindromes | 906. Super Palindromes | Hard | python3 | [Problem](https://leetcode.com/problems/super-palindromes/) | [Solution](./solutions/Hard/0906-super-palindromes/solution.py) |
 | unique-3-digit-even-numbers | Unique 3-Digit Even Numbers | Easy | python | [Problem](https://leetcode.com/problems/unique-3-digit-even-numbers/) | [Solution](./solutions/Easy/3483-unique-3-digit-even-numbers/solution.py) |
 | unique-email-addresses | Unique Email Addresses | Easy | python | [Problem](https://leetcode.com/problems/unique-email-addresses/) | [Solution](./solutions/Easy/0929-unique-email-addresses/solution.py) |
+| valid-mountain-array | Valid Mountain Array | Easy | python | [Problem](https://leetcode.com/problems/valid-mountain-array/) | [Solution](./solutions/Easy/0941-valid-mountain-array/solution.py) |
 | word-subsets | Word Subsets | Medium | python | [Problem](https://leetcode.com/problems/word-subsets/) | [Solution](./solutions/Medium/0916-word-subsets/solution.py) |
 | x-of-a-kind-in-a-deck-of-cards | X of a Kind in a Deck of Cards | Easy | python | [Problem](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/) | [Solution](./solutions/Easy/0914-x-of-a-kind-in-a-deck-of-cards/solution.py) |
