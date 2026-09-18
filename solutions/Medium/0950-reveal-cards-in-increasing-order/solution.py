@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Queue, Sorting, Simulation
 # Link     : https://leetcode.com/problems/reveal-cards-in-increasing-order/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12292000 (beats 0%)
+# Runtime  : 4 ms (beats 32%)
+# Memory   : 12564000 (beats 53%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
@@ -28,7 +28,7 @@ class Solution(object):
         for card in deck:
             # Reveal the card at the top index
             res[index_queue.popleft()] = card
-            # Move the next card index to the bottom of the deck
+           
             if index_queue:
                 index_queue.append(index_queue.popleft())
                 
