@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Tree, Breadth-First Search, Binary Tree
 # Link     : https://leetcode.com/problems/check-completeness-of-a-binary-tree/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12300000 (beats 0%)
+# Runtime  : 0 ms (beats 100%)
+# Memory   : 12424000 (beats 55%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
