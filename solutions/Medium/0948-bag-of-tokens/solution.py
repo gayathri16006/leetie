@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Two Pointers, Greedy, Sorting
 # Link     : https://leetcode.com/problems/bag-of-tokens/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12484000 (beats 0%)
+# Runtime  : 0 ms (beats 100%)
+# Memory   : 12532000 (beats 17%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
