@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, String, Greedy
 # Link     : https://leetcode.com/problems/delete-columns-to-make-sorted-ii/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12400000 (beats 0%)
+# Runtime  : 3 ms (beats 92%)
+# Memory   : 12540000 (beats 6%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
