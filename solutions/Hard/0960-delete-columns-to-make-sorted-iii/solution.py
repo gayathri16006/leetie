@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : Array, String, Dynamic Programming
 # Link     : https://leetcode.com/problems/delete-columns-to-make-sorted-iii/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12512000 (beats 0%)
+# Runtime  : 151 ms (beats 82%)
+# Memory   : 12508000 (beats 0%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
