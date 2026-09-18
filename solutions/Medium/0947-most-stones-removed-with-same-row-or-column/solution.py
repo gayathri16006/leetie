@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Hash Table, Depth-First Search, Union-Find, Graph Theory, Bipartite Graph
 # Link     : https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12380000 (beats 0%)
+# Runtime  : 21 ms (beats 90%)
+# Memory   : 12856000 (beats 70%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
@@ -38,7 +38,7 @@ class Solution(object):
                 parent[col_id] = col_id
             union(r, col_id)
 
-        # Count connected components
+        
         num_components = len({find(x) for x in parent})
 
         
