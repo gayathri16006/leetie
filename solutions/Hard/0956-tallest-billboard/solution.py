@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : Array, Dynamic Programming, Meet in the Middle, Knapsack Problem, 0-1 Knapsack
 # Link     : https://leetcode.com/problems/tallest-billboard/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12492000 (beats 0%)
+# Runtime  : 335 ms (beats 88%)
+# Memory   : 13624000 (beats 25%)
 # Language : python
 # Copyright: (c) 2026 gayathri16006. All rights reserved.
 # Synced by: leetie
@@ -35,7 +35,7 @@ class Solution(object):
                     new_diff = diff - rod
                     new_dp[new_diff] = max(new_dp.get(new_diff, 0), shorter + rod)
                 else:
-                    # Shorter side becomes the new taller side
+                    
                     new_diff = rod - diff
                     new_dp[new_diff] = max(new_dp.get(new_diff, 0), taller)
                     
