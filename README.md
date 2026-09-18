@@ -2,14 +2,14 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 422 Solved
+## Progress Summary: 423 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
 | 3sum-with-multiplicity | 3Sum With Multiplicity | Medium | python | [Problem](https://leetcode.com/problems/3sum-with-multiplicity/) | [Solution](./solutions/Medium/0923-3sum-with-multiplicity/solution.py) |
 | flatten-binary-tree-to-linked-list | 114. Flatten Binary Tree To Linked List | Medium | python3 | [Problem](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [Solution](./solutions/Medium/0114-flatten-binary-tree-to-linked-list/solution.py) |
 | add-strings | 415. Add Strings | Easy | python3 | [Problem](https://leetcode.com/problems/add-strings/) | [Solution](./solutions/Easy/0415-add-strings/solution.py) |
-| assign-cookies | 455. Assign Cookies | Easy | python3 | [Problem](https://leetcode.com/problems/assign-cookies/) | [Solution](./solutions/Easy/0455-assign-cookies/solution.py) |
+| arranging-coins | 441. Arranging Coins | Easy | python3 | [Problem](https://leetcode.com/problems/arranging-coins/) | [Solution](./solutions/Easy/0441-arranging-coins/solution.py) |
 | beautiful-array | Beautiful Array | Medium | python | [Problem](https://leetcode.com/problems/beautiful-array/) | [Solution](./solutions/Medium/0932-beautiful-array/solution.py) |
 | binary-subarrays-with-sum | Binary Subarrays With Sum | Medium | python | [Problem](https://leetcode.com/problems/binary-subarrays-with-sum/) | [Solution](./solutions/Medium/0930-binary-subarrays-with-sum/solution.py) |
 | binary-watch | 401. Binary Watch | Easy | python3 | [Problem](https://leetcode.com/problems/binary-watch/) | [Solution](./solutions/Easy/0401-binary-watch/solution.py) |
@@ -24,7 +24,7 @@
 | first-bad-version | 278. First Bad Version | Easy | python3 | [Problem](https://leetcode.com/problems/first-bad-version/) | [Solution](./solutions/Easy/0278-first-bad-version/solution.py) |
 | is-subsequence | 392. Is Subsequence | Easy | python3 | [Problem](https://leetcode.com/problems/is-subsequence/) | [Solution](./solutions/Easy/0392-is-subsequence/solution.py) |
 | fizz-buzz | 412. Fizz Buzz | Easy | python3 | [Problem](https://leetcode.com/problems/fizz-buzz/) | [Solution](./solutions/Easy/0412-fizz-buzz/solution.py) |
-| arranging-coins | 441. Arranging Coins | Easy | python3 | [Problem](https://leetcode.com/problems/arranging-coins/) | [Solution](./solutions/Easy/0441-arranging-coins/solution.py) |
+| assign-cookies | 455. Assign Cookies | Easy | python3 | [Problem](https://leetcode.com/problems/assign-cookies/) | [Solution](./solutions/Easy/0455-assign-cookies/solution.py) |
 | knight-dialer | Knight Dialer | Medium | python | [Problem](https://leetcode.com/problems/knight-dialer/) | [Solution](./solutions/Medium/0935-knight-dialer/solution.py) |
 | license-key-formatting | 482. License Key Formatting | Easy | python3 | [Problem](https://leetcode.com/problems/license-key-formatting/) | [Solution](./solutions/Easy/0482-license-key-formatting/solution.py) |
 | max-consecutive-ones | 485. Max Consecutive Ones | Easy | python3 | [Problem](https://leetcode.com/problems/max-consecutive-ones/) | [Solution](./solutions/Easy/0485-max-consecutive-ones/solution.py) |
@@ -426,5 +426,6 @@
 | unique-3-digit-even-numbers | Unique 3-Digit Even Numbers | Easy | python | [Problem](https://leetcode.com/problems/unique-3-digit-even-numbers/) | [Solution](./solutions/Easy/3483-unique-3-digit-even-numbers/solution.py) |
 | unique-email-addresses | Unique Email Addresses | Easy | python | [Problem](https://leetcode.com/problems/unique-email-addresses/) | [Solution](./solutions/Easy/0929-unique-email-addresses/solution.py) |
 | valid-mountain-array | Valid Mountain Array | Easy | python | [Problem](https://leetcode.com/problems/valid-mountain-array/) | [Solution](./solutions/Easy/0941-valid-mountain-array/solution.py) |
+| validate-stack-sequences | Validate Stack Sequences | Medium | python | [Problem](https://leetcode.com/problems/validate-stack-sequences/) | [Solution](./solutions/Medium/0946-validate-stack-sequences/solution.py) |
 | word-subsets | Word Subsets | Medium | python | [Problem](https://leetcode.com/problems/word-subsets/) | [Solution](./solutions/Medium/0916-word-subsets/solution.py) |
 | x-of-a-kind-in-a-deck-of-cards | X of a Kind in a Deck of Cards | Easy | python | [Problem](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/) | [Solution](./solutions/Easy/0914-x-of-a-kind-in-a-deck-of-cards/solution.py) |
