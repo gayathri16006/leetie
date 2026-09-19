@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Math, Greedy
 // Link     : https://leetcode.com/problems/broken-calculator/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 41928000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 41956000 (beats 80%)
 // Language : java
 // Copyright: (c) 2026 gayathri16006. All rights reserved.
 // Synced by: leetie
@@ -23,7 +23,7 @@ class Solution {
             }
         }
 
-        d
+        
         return operations + (startValue - target);
     }
 }
