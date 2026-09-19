@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Two Pointers, Greedy, Sorting
 // Link     : https://leetcode.com/problems/pancake-sorting/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42608000 (beats 0%)
+// Runtime  : 1 ms (beats 100%)
+// Memory   : 43928000 (beats 70%)
 // Language : java
 // Copyright: (c) 2026 gayathri16006. All rights reserved.
 // Synced by: leetie
