@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : String, Backtracking, Tree, Depth-First Search, Binary Tree
 // Link     : https://leetcode.com/problems/smallest-string-starting-from-leaf/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42920000 (beats 0%)
+// Runtime  : 4 ms (beats 43%)
+// Memory   : 46724000 (beats 44%)
 // Language : java
 // Copyright: (c) 2026 gayathri16006. All rights reserved.
 // Synced by: leetie
