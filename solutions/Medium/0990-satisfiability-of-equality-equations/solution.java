@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, String, Union-Find, Graph Theory
 // Link     : https://leetcode.com/problems/satisfiability-of-equality-equations/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42504000 (beats 0%)
+// Runtime  : 1 ms (beats 96%)
+// Memory   : 43748000 (beats 58%)
 // Language : java
 // Copyright: (c) 2026 gayathri16006. All rights reserved.
 // Synced by: leetie
