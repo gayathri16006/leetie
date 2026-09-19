@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, Hash Table, Bit Manipulation
 // Link     : https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/
-// Runtime  : 1 ms (beats 0%)
-// Memory   : 42640000 (beats 0%)
+// Runtime  : 72 ms (beats 92%)
+// Memory   : 46716000 (beats 52%)
 // Language : java
 // Copyright: (c) 2026 gayathri16006. All rights reserved.
 // Synced by: leetie
