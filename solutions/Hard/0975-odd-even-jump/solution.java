@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, Dynamic Programming, Stack, Sorting, Monotonic Stack, Ordered Set
 // Link     : https://leetcode.com/problems/odd-even-jump/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42508000 (beats 0%)
+// Runtime  : 69 ms (beats 60%)
+// Memory   : 50900000 (beats 56%)
 // Language : java
 // Copyright: (c) 2026 gayathri16006. All rights reserved.
 // Synced by: leetie
