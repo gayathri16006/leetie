@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Hash Table, Tree, Depth-First Search, Breadth-First Search, Sorting, Binary Tree
 // Link     : https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/
-// Runtime  : 1 ms (beats 0%)
-// Memory   : 42592000 (beats 0%)
+// Runtime  : 3 ms (beats 94%)
+// Memory   : 44032000 (beats 63%)
 // Language : java
 // Copyright: (c) 2026 gayathri16006. All rights reserved.
 // Synced by: leetie
