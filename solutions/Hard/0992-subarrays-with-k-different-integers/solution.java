@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, Hash Table, Sliding Window, Counting
 // Link     : https://leetcode.com/problems/subarrays-with-k-different-integers/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42444000 (beats 0%)
+// Runtime  : 5 ms (beats 99%)
+// Memory   : 49340000 (beats 85%)
 // Language : java
 // Copyright: (c) 2026 gayathri16006. All rights reserved.
 // Synced by: leetie
