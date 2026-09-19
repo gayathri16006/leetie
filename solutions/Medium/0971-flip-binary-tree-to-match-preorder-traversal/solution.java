@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Tree, Depth-First Search, Binary Tree
 // Link     : https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42700000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 43880000 (beats 52%)
 // Language : java
 // Copyright: (c) 2026 gayathri16006. All rights reserved.
 // Synced by: leetie
@@ -52,7 +52,7 @@ class Solution {
         // If left child exists and doesn't match next value, flip
         if (node.left != null && node.left.val != voyage[index]) {
             flipped.add(node.val);
-            // Traverse right first, then left (simulating the flip)
+           
             return dfs(node.right, voyage) && dfs(node.left, voyage);
         }
 
