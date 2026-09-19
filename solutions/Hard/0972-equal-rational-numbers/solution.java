@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Math, String
 // Link     : https://leetcode.com/problems/equal-rational-numbers/
-// Runtime  : 1 ms (beats 0%)
-// Memory   : 42860000 (beats 0%)
+// Runtime  : 3 ms (beats 37%)
+// Memory   : 44556000 (beats 6%)
 // Language : java
 // Copyright: (c) 2026 gayathri16006. All rights reserved.
 // Synced by: leetie
