@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Hash Table, String, Binary Search, Design
 // Link     : https://leetcode.com/problems/time-based-key-value-store/
-// Runtime  : 3 ms (beats 0%)
-// Memory   : 42976000 (beats 0%)
+// Runtime  : 133 ms (beats 70%)
+// Memory   : 108256000 (beats 60%)
 // Language : java
 // Copyright: (c) 2026 gayathri16006. All rights reserved.
 // Synced by: leetie
