@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Dynamic Programming, Tree, Depth-First Search, Binary Tree, DP on Trees
 // Link     : https://leetcode.com/problems/binary-tree-cameras/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42948000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 44328000 (beats 94%)
 // Language : java
 // Copyright: (c) 2026 gayathri16006. All rights reserved.
 // Synced by: leetie
@@ -41,19 +41,19 @@ class Solution {
 
     private int dfs(TreeNode node) {
         if (node == null) {
-            return 2; // Null nodes are considered covered
+            return 2; 
         }
 
         int left = dfs(node.left);
         int right = dfs(node.right);
 
-        // If any child is uncovered, place a camera here
+        
         if (left == 0 || right == 0) {
             cameras++;
             return 1;
         }
 
-        // If any child has a camera, this node is covered
+        
         if (left == 1 || right == 1) {
             return 2;
         }
