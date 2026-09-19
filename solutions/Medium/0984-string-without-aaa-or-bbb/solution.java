@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : String, Greedy
 // Link     : https://leetcode.com/problems/string-without-aaa-or-bbb/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42796000 (beats 0%)
+// Runtime  : 2 ms (beats 37%)
+// Memory   : 42964000 (beats 22%)
 // Language : java
 // Copyright: (c) 2026 gayathri16006. All rights reserved.
 // Synced by: leetie
