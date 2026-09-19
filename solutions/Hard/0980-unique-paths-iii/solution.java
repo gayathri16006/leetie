@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, Backtracking, Bit Manipulation, Matrix, Hamiltonian Path
 // Link     : https://leetcode.com/problems/unique-paths-iii/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42396000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 42832000 (beats 35%)
 // Language : java
 // Copyright: (c) 2026 gayathri16006. All rights reserved.
 // Synced by: leetie
@@ -57,7 +57,7 @@ class Solution {
         int temp = grid[r][c];
         grid[r][c] = -1;
 
-        // Explore all 4 directions
+        
         backtrack(grid, r + 1, c, visited + 1);
         backtrack(grid, r - 1, c, visited + 1);
         backtrack(grid, r, c + 1, visited + 1);
