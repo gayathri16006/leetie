@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Hash Table, Math, Enumeration
 // Link     : https://leetcode.com/problems/powerful-integers/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42388000 (beats 0%)
+// Runtime  : 1 ms (beats 100%)
+// Memory   : 42556000 (beats 85%)
 // Language : java
 // Copyright: (c) 2026 gayathri16006. All rights reserved.
 // Synced by: leetie
