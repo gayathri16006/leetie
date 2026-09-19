@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Dynamic Programming
 // Link     : https://leetcode.com/problems/minimum-cost-for-tickets/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42844000 (beats 0%)
+// Runtime  : 2 ms (beats 39%)
+// Memory   : 43340000 (beats 42%)
 // Language : java
 // Copyright: (c) 2026 gayathri16006. All rights reserved.
 // Synced by: leetie
