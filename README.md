@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 438 Solved
+## Progress Summary: 439 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -11,6 +11,7 @@
 | bag-of-tokens | Bag of Tokens | Medium | python | [Problem](https://leetcode.com/problems/bag-of-tokens/) | [Solution](./solutions/Medium/0948-bag-of-tokens/solution.py) |
 | beautiful-array | Beautiful Array | Medium | python | [Problem](https://leetcode.com/problems/beautiful-array/) | [Solution](./solutions/Medium/0932-beautiful-array/solution.py) |
 | binary-subarrays-with-sum | Binary Subarrays With Sum | Medium | python | [Problem](https://leetcode.com/problems/binary-subarrays-with-sum/) | [Solution](./solutions/Medium/0930-binary-subarrays-with-sum/solution.py) |
+| binary-watch | 401. Binary Watch | Easy | python3 | [Problem](https://leetcode.com/problems/binary-watch/) | [Solution](./solutions/Easy/0401-binary-watch/solution.py) |
 | cat-and-mouse | Cat and Mouse | Hard | python | [Problem](https://leetcode.com/problems/cat-and-mouse/) | [Solution](./solutions/Hard/0913-cat-and-mouse/solution.py) |
 | check-completeness-of-a-binary-tree | Check Completeness of a Binary Tree | Medium | python | [Problem](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) | [Solution](./solutions/Medium/0958-check-completeness-of-a-binary-tree/solution.py) |
 | complete-binary-tree-inserter | Complete Binary Tree Inserter | Medium | python | [Problem](https://leetcode.com/problems/complete-binary-tree-inserter/) | [Solution](./solutions/Medium/0919-complete-binary-tree-inserter/solution.py) |
@@ -25,9 +26,9 @@
 | first-bad-version | 278. First Bad Version | Easy | python3 | [Problem](https://leetcode.com/problems/first-bad-version/) | [Solution](./solutions/Easy/0278-first-bad-version/solution.py) |
 | flip-equivalent-binary-trees | Flip Equivalent Binary Trees | Medium | python | [Problem](https://leetcode.com/problems/flip-equivalent-binary-trees/) | [Solution](./solutions/Medium/0951-flip-equivalent-binary-trees/solution.py) |
 | is-subsequence | 392. Is Subsequence | Easy | python3 | [Problem](https://leetcode.com/problems/is-subsequence/) | [Solution](./solutions/Easy/0392-is-subsequence/solution.py) |
-| binary-watch | 401. Binary Watch | Easy | python3 | [Problem](https://leetcode.com/problems/binary-watch/) | [Solution](./solutions/Easy/0401-binary-watch/solution.py) |
 | knight-dialer | Knight Dialer | Medium | python | [Problem](https://leetcode.com/problems/knight-dialer/) | [Solution](./solutions/Medium/0935-knight-dialer/solution.py) |
 | largest-component-size-by-common-factor | Largest Component Size by Common Factor | Hard | python | [Problem](https://leetcode.com/problems/largest-component-size-by-common-factor/) | [Solution](./solutions/Hard/0952-largest-component-size-by-common-factor/solution.py) |
+| longest-turbulent-subarray | Longest Turbulent Subarray | Medium | python | [Problem](https://leetcode.com/problems/longest-turbulent-subarray/) | [Solution](./solutions/Medium/0978-longest-turbulent-subarray/solution.py) |
 | maximum-number-of-non-overlapping-substrings | Maximum Number of Non-Overlapping Substrings | Hard | python | [Problem](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/) | [Solution](./solutions/Hard/1520-maximum-number-of-non-overlapping-substrings/solution.py) |
 | maximum-score-of-non-overlapping-intervals | Maximum Score of Non-overlapping Intervals | Hard | python | [Problem](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/) | [Solution](./solutions/Hard/3414-maximum-score-of-non-overlapping-intervals/solution.py) |
 | maximum-sum-circular-subarray | Maximum Sum Circular Subarray | Medium | python | [Problem](https://leetcode.com/problems/maximum-sum-circular-subarray/) | [Solution](./solutions/Medium/0918-maximum-sum-circular-subarray/solution.py) |
@@ -124,6 +125,24 @@
 | largest-number-at-least-twice-of-others | 747. Largest Number At Least Twice Of Others | Easy | python3 | [Problem](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | [Solution](./solutions/Easy/0747-largest-number-at-least-twice-of-others/solution.py) |
 | shortest-completing-word | 748. Shortest Completing Word | Easy | python3 | [Problem](https://leetcode.com/problems/shortest-completing-word/) | [Solution](./solutions/Easy/0748-shortest-completing-word/solution.py) |
 | prime-number-of-set-bits-in-binary-representation | 762. Prime Number Of Set Bits In Binary Representation | Easy | python3 | [Problem](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | [Solution](./solutions/Easy/0762-prime-number-of-set-bits-in-binary-representation/solution.py) |
+| toeplitz-matrix | 766. Toeplitz Matrix | Easy | python3 | [Problem](https://leetcode.com/problems/toeplitz-matrix/) | [Solution](./solutions/Easy/0766-toeplitz-matrix/solution.py) |
+| jewels-and-stones | 771. Jewels And Stones | Easy | python3 | [Problem](https://leetcode.com/problems/jewels-and-stones/) | [Solution](./solutions/Easy/0771-jewels-and-stones/solution.py) |
+| rotate-string | 796. Rotate String | Easy | python3 | [Problem](https://leetcode.com/problems/rotate-string/) | [Solution](./solutions/Easy/0796-rotate-string/solution.py) |
+| number-of-lines-to-write-string | 806. Number Of Lines To Write String | Easy | python3 | [Problem](https://leetcode.com/problems/number-of-lines-to-write-string/) | [Solution](./solutions/Easy/0806-number-of-lines-to-write-string/solution.py) |
+| largest-triangle-area | 812. Largest Triangle Area | Easy | python3 | [Problem](https://leetcode.com/problems/largest-triangle-area/) | [Solution](./solutions/Easy/0812-largest-triangle-area/solution.py) |
+| most-common-word | 819. Most Common Word | Easy | python3 | [Problem](https://leetcode.com/problems/most-common-word/) | [Solution](./solutions/Easy/0819-most-common-word/solution.py) |
+| shortest-distance-to-a-character | 821. Shortest Distance To A Character | Easy | python3 | [Problem](https://leetcode.com/problems/shortest-distance-to-a-character/) | [Solution](./solutions/Easy/0821-shortest-distance-to-a-character/solution.py) |
+| positions-of-large-groups | 830. Positions Of Large Groups | Easy | python3 | [Problem](https://leetcode.com/problems/positions-of-large-groups/) | [Solution](./solutions/Easy/0830-positions-of-large-groups/solution.py) |
+| rectangle-overlap | 836. Rectangle Overlap | Easy | python3 | [Problem](https://leetcode.com/problems/rectangle-overlap/) | [Solution](./solutions/Easy/0836-rectangle-overlap/solution.py) |
+| backspace-string-compare | 844. Backspace String Compare | Easy | python3 | [Problem](https://leetcode.com/problems/backspace-string-compare/) | [Solution](./solutions/Easy/0844-backspace-string-compare/solution.py) |
+| transpose-matrix | 867. Transpose Matrix | Easy | python3 | [Problem](https://leetcode.com/problems/transpose-matrix/) | [Solution](./solutions/Easy/0867-transpose-matrix/solution.py) |
+| leaf-similar-trees | 872. Leaf Similar Trees | Easy | python3 | [Problem](https://leetcode.com/problems/leaf-similar-trees/) | [Solution](./solutions/Easy/0872-leaf-similar-trees/solution.py) |
+| middle-of-the-linked-list | 876. Middle Of The Linked List | Easy | python3 | [Problem](https://leetcode.com/problems/middle-of-the-linked-list/) | [Solution](./solutions/Easy/0876-middle-of-the-linked-list/solution.py) |
+| monotonic-array | 896. Monotonic Array | Easy | python3 | [Problem](https://leetcode.com/problems/monotonic-array/) | [Solution](./solutions/Easy/0896-monotonic-array/solution.py) |
+| sort-array-by-parity | 905. Sort Array By Parity | Easy | python3 | [Problem](https://leetcode.com/problems/sort-array-by-parity/) | [Solution](./solutions/Easy/0905-sort-array-by-parity/solution.py) |
+| smallest-range-i | 908. Smallest Range I | Easy | python3 | [Problem](https://leetcode.com/problems/smallest-range-i/) | [Solution](./solutions/Easy/0908-smallest-range-i/solution.py) |
+| distribute-elements-into-two-arrays-i | 3069. Distribute Elements Into Two Arrays I | Easy | java | [Problem](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) | [Solution](./solutions/Easy/3069-distribute-elements-into-two-arrays-i/solution.java) |
+| smallest-stable-index-i | 3903. Smallest Stable Index I | Easy | python3 | [Problem](https://leetcode.com/problems/smallest-stable-index-i/) | [Solution](./solutions/Easy/3903-smallest-stable-index-i/solution.py) |
 | three-equal-parts | Three Equal Parts | Hard | python | [Problem](https://leetcode.com/problems/three-equal-parts/) | [Solution](./solutions/Hard/0927-three-equal-parts/solution.py) |
 | two-sum | 1. Two Sum | Easy | java | [Problem](https://leetcode.com/problems/two-sum/) | [Solution](./solutions/Easy/0001-two-sum/solution.java) |
 | wildcard-matching | 44. Wildcard Matching | Hard | python3 | [Problem](https://leetcode.com/problems/wildcard-matching/) | [Solution](./solutions/Hard/0044-wildcard-matching/solution.py) |
@@ -339,12 +358,10 @@
 | special-binary-string | 761. Special Binary String | Hard | python3 | [Problem](https://leetcode.com/problems/special-binary-string/) | [Solution](./solutions/Hard/0761-special-binary-string/solution.py) |
 | partition-labels | 763. Partition Labels | Medium | python3 | [Problem](https://leetcode.com/problems/partition-labels/) | [Solution](./solutions/Medium/0763-partition-labels/solution.py) |
 | largest-plus-sign | 764. Largest Plus Sign | Medium | python3 | [Problem](https://leetcode.com/problems/largest-plus-sign/) | [Solution](./solutions/Medium/0764-largest-plus-sign/solution.py) |
-| toeplitz-matrix | 766. Toeplitz Matrix | Easy | python3 | [Problem](https://leetcode.com/problems/toeplitz-matrix/) | [Solution](./solutions/Easy/0766-toeplitz-matrix/solution.py) |
 | reorganize-string | 767. Reorganize String | Medium | python3 | [Problem](https://leetcode.com/problems/reorganize-string/) | [Solution](./solutions/Medium/0767-reorganize-string/solution.py) |
 | max-chunks-to-make-sorted-ii | 768. Max Chunks To Make Sorted Ii | Hard | python3 | [Problem](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/) | [Solution](./solutions/Hard/0768-max-chunks-to-make-sorted-ii/solution.py) |
 | max-chunks-to-make-sorted | 769. Max Chunks To Make Sorted | Medium | python3 | [Problem](https://leetcode.com/problems/max-chunks-to-make-sorted/) | [Solution](./solutions/Medium/0769-max-chunks-to-make-sorted/solution.py) |
 | basic-calculator-iv | 770. Basic Calculator Iv | Hard | python3 | [Problem](https://leetcode.com/problems/basic-calculator-iv/) | [Solution](./solutions/Hard/0770-basic-calculator-iv/solution.py) |
-| jewels-and-stones | 771. Jewels And Stones | Easy | python3 | [Problem](https://leetcode.com/problems/jewels-and-stones/) | [Solution](./solutions/Easy/0771-jewels-and-stones/solution.py) |
 | sliding-puzzle | 773. Sliding Puzzle | Hard | python3 | [Problem](https://leetcode.com/problems/sliding-puzzle/) | [Solution](./solutions/Hard/0773-sliding-puzzle/solution.py) |
 | global-and-local-inversions | 775. Global And Local Inversions | Medium | python3 | [Problem](https://leetcode.com/problems/global-and-local-inversions/) | [Solution](./solutions/Medium/0775-global-and-local-inversions/solution.py) |
 | swap-adjacent-in-lr-string | 777. Swap Adjacent In Lr String | Medium | python3 | [Problem](https://leetcode.com/problems/swap-adjacent-in-lr-string/) | [Solution](./solutions/Medium/0777-swap-adjacent-in-lr-string/solution.py) |
@@ -363,7 +380,6 @@
 | preimage-size-of-factorial-zeroes-function | 793. Preimage Size Of Factorial Zeroes Function | Hard | python3 | [Problem](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/) | [Solution](./solutions/Hard/0793-preimage-size-of-factorial-zeroes-function/solution.py) |
 | valid-tic-tac-toe-state | 794. Valid Tic Tac Toe State | Medium | python3 | [Problem](https://leetcode.com/problems/valid-tic-tac-toe-state/) | [Solution](./solutions/Medium/0794-valid-tic-tac-toe-state/solution.py) |
 | number-of-subarrays-with-bounded-maximum | 795. Number Of Subarrays With Bounded Maximum | Medium | python3 | [Problem](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/) | [Solution](./solutions/Medium/0795-number-of-subarrays-with-bounded-maximum/solution.py) |
-| rotate-string | 796. Rotate String | Easy | python3 | [Problem](https://leetcode.com/problems/rotate-string/) | [Solution](./solutions/Easy/0796-rotate-string/solution.py) |
 | all-paths-from-source-to-target | 797. All Paths From Source To Target | Medium | python3 | [Problem](https://leetcode.com/problems/all-paths-from-source-to-target/) | [Solution](./solutions/Medium/0797-all-paths-from-source-to-target/solution.py) |
 | smallest-rotation-with-highest-score | 798. Smallest Rotation With Highest Score | Hard | python3 | [Problem](https://leetcode.com/problems/smallest-rotation-with-highest-score/) | [Solution](./solutions/Hard/0798-smallest-rotation-with-highest-score/solution.py) |
 | champagne-tower | 799. Champagne Tower | Medium | python3 | [Problem](https://leetcode.com/problems/champagne-tower/) | [Solution](./solutions/Medium/0799-champagne-tower/solution.py) |
@@ -371,25 +387,18 @@
 | find-eventual-safe-states | 802. Find Eventual Safe States | Medium | python3 | [Problem](https://leetcode.com/problems/find-eventual-safe-states/) | [Solution](./solutions/Medium/0802-find-eventual-safe-states/solution.py) |
 | bricks-falling-when-hit | 803. Bricks Falling When Hit | Hard | python3 | [Problem](https://leetcode.com/problems/bricks-falling-when-hit/) | [Solution](./solutions/Hard/0803-bricks-falling-when-hit/solution.py) |
 | split-array-with-same-average | 805. Split Array With Same Average | Hard | python3 | [Problem](https://leetcode.com/problems/split-array-with-same-average/) | [Solution](./solutions/Hard/0805-split-array-with-same-average/solution.py) |
-| number-of-lines-to-write-string | 806. Number Of Lines To Write String | Easy | python3 | [Problem](https://leetcode.com/problems/number-of-lines-to-write-string/) | [Solution](./solutions/Easy/0806-number-of-lines-to-write-string/solution.py) |
 | soup-servings | 808. Soup Servings | Medium | python3 | [Problem](https://leetcode.com/problems/soup-servings/) | [Solution](./solutions/Medium/0808-soup-servings/solution.py) |
-| largest-triangle-area | 812. Largest Triangle Area | Easy | python3 | [Problem](https://leetcode.com/problems/largest-triangle-area/) | [Solution](./solutions/Easy/0812-largest-triangle-area/solution.py) |
 | largest-sum-of-averages | 813. Largest Sum Of Averages | Medium | python3 | [Problem](https://leetcode.com/problems/largest-sum-of-averages/) | [Solution](./solutions/Medium/0813-largest-sum-of-averages/solution.py) |
 | binary-tree-pruning | 814. Binary Tree Pruning | Medium | python3 | [Problem](https://leetcode.com/problems/binary-tree-pruning/) | [Solution](./solutions/Medium/0814-binary-tree-pruning/solution.py) |
 | linked-list-components | 817. Linked List Components | Medium | python3 | [Problem](https://leetcode.com/problems/linked-list-components/) | [Solution](./solutions/Medium/0817-linked-list-components/solution.py) |
-| most-common-word | 819. Most Common Word | Easy | python3 | [Problem](https://leetcode.com/problems/most-common-word/) | [Solution](./solutions/Easy/0819-most-common-word/solution.py) |
-| shortest-distance-to-a-character | 821. Shortest Distance To A Character | Easy | python3 | [Problem](https://leetcode.com/problems/shortest-distance-to-a-character/) | [Solution](./solutions/Easy/0821-shortest-distance-to-a-character/solution.py) |
 | binary-trees-with-factors | 823. Binary Trees With Factors | Medium | python3 | [Problem](https://leetcode.com/problems/binary-trees-with-factors/) | [Solution](./solutions/Medium/0823-binary-trees-with-factors/solution.py) |
 | making-a-large-island | 827. Making A Large Island | Hard | python3 | [Problem](https://leetcode.com/problems/making-a-large-island/) | [Solution](./solutions/Hard/0827-making-a-large-island/solution.py) |
 | consecutive-numbers-sum | 829. Consecutive Numbers Sum | Hard | python3 | [Problem](https://leetcode.com/problems/consecutive-numbers-sum/) | [Solution](./solutions/Hard/0829-consecutive-numbers-sum/solution.py) |
-| positions-of-large-groups | 830. Positions Of Large Groups | Easy | python3 | [Problem](https://leetcode.com/problems/positions-of-large-groups/) | [Solution](./solutions/Easy/0830-positions-of-large-groups/solution.py) |
 | find-and-replace-in-string | 833. Find And Replace In String | Medium | python3 | [Problem](https://leetcode.com/problems/find-and-replace-in-string/) | [Solution](./solutions/Medium/0833-find-and-replace-in-string/solution.py) |
 | sum-of-distances-in-tree | 834. Sum Of Distances In Tree | Hard | python3 | [Problem](https://leetcode.com/problems/sum-of-distances-in-tree/) | [Solution](./solutions/Hard/0834-sum-of-distances-in-tree/solution.py) |
-| rectangle-overlap | 836. Rectangle Overlap | Easy | python3 | [Problem](https://leetcode.com/problems/rectangle-overlap/) | [Solution](./solutions/Easy/0836-rectangle-overlap/solution.py) |
 | similar-string-groups | 839. Similar String Groups | Hard | python3 | [Problem](https://leetcode.com/problems/similar-string-groups/) | [Solution](./solutions/Hard/0839-similar-string-groups/solution.py) |
 | split-array-into-fibonacci-sequence | 842. Split Array Into Fibonacci Sequence | Medium | python3 | [Problem](https://leetcode.com/problems/split-array-into-fibonacci-sequence/) | [Solution](./solutions/Medium/0842-split-array-into-fibonacci-sequence/solution.py) |
 | guess-the-word | 843. Guess The Word | Hard | python3 | [Problem](https://leetcode.com/problems/guess-the-word/) | [Solution](./solutions/Hard/0843-guess-the-word/solution.py) |
-| backspace-string-compare | 844. Backspace String Compare | Easy | python3 | [Problem](https://leetcode.com/problems/backspace-string-compare/) | [Solution](./solutions/Easy/0844-backspace-string-compare/solution.py) |
 | shortest-path-visiting-all-nodes | 847. Shortest Path Visiting All Nodes | Hard | python3 | [Problem](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [Solution](./solutions/Hard/0847-shortest-path-visiting-all-nodes/solution.py) |
 | maximize-distance-to-closest-person | 849. Maximize Distance To Closest Person | Medium | python3 | [Problem](https://leetcode.com/problems/maximize-distance-to-closest-person/) | [Solution](./solutions/Medium/0849-maximize-distance-to-closest-person/solution.py) |
 | rectangle-area-ii | 850. Rectangle Area Ii | Hard | python3 | [Problem](https://leetcode.com/problems/rectangle-area-ii/) | [Solution](./solutions/Hard/0850-rectangle-area-ii/solution.py) |
@@ -401,13 +410,10 @@
 | all-nodes-distance-k-in-binary-tree | 863. All Nodes Distance K In Binary Tree | Medium | python3 | [Problem](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | [Solution](./solutions/Medium/0863-all-nodes-distance-k-in-binary-tree/solution.py) |
 | smallest-subtree-with-all-the-deepest-nodes | 865. Smallest Subtree With All The Deepest Nodes | Medium | python3 | [Problem](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/) | [Solution](./solutions/Medium/0865-smallest-subtree-with-all-the-deepest-nodes/solution.py) |
 | prime-palindrome | 866. Prime Palindrome | Medium | python3 | [Problem](https://leetcode.com/problems/prime-palindrome/) | [Solution](./solutions/Medium/0866-prime-palindrome/solution.py) |
-| transpose-matrix | 867. Transpose Matrix | Easy | python3 | [Problem](https://leetcode.com/problems/transpose-matrix/) | [Solution](./solutions/Easy/0867-transpose-matrix/solution.py) |
 | reordered-power-of-2 | 869. Reordered Power Of 2 | Medium | python3 | [Problem](https://leetcode.com/problems/reordered-power-of-2/) | [Solution](./solutions/Medium/0869-reordered-power-of-2/solution.py) |
 | advantage-shuffle | 870. Advantage Shuffle | Medium | python3 | [Problem](https://leetcode.com/problems/advantage-shuffle/) | [Solution](./solutions/Medium/0870-advantage-shuffle/solution.py) |
-| leaf-similar-trees | 872. Leaf Similar Trees | Easy | python3 | [Problem](https://leetcode.com/problems/leaf-similar-trees/) | [Solution](./solutions/Easy/0872-leaf-similar-trees/solution.py) |
 | length-of-longest-fibonacci-subsequence | 873. Length Of Longest Fibonacci Subsequence | Medium | python3 | [Problem](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/) | [Solution](./solutions/Medium/0873-length-of-longest-fibonacci-subsequence/solution.py) |
 | koko-eating-bananas | 875. Koko Eating Bananas | Medium | python3 | [Problem](https://leetcode.com/problems/koko-eating-bananas/) | [Solution](./solutions/Medium/0875-koko-eating-bananas/solution.py) |
-| middle-of-the-linked-list | 876. Middle Of The Linked List | Easy | python3 | [Problem](https://leetcode.com/problems/middle-of-the-linked-list/) | [Solution](./solutions/Easy/0876-middle-of-the-linked-list/solution.py) |
 | nth-magical-number | 878. Nth Magical Number | Hard | python3 | [Problem](https://leetcode.com/problems/nth-magical-number/) | [Solution](./solutions/Hard/0878-nth-magical-number/solution.py) |
 | decoded-string-at-index | 880. Decoded String At Index | Medium | python3 | [Problem](https://leetcode.com/problems/decoded-string-at-index/) | [Solution](./solutions/Medium/0880-decoded-string-at-index/solution.py) |
 | boats-to-save-people | 881. Boats To Save People | Medium | python3 | [Problem](https://leetcode.com/problems/boats-to-save-people/) | [Solution](./solutions/Medium/0881-boats-to-save-people/solution.py) |
@@ -417,25 +423,20 @@
 | sum-of-subsequence-widths | 891. Sum Of Subsequence Widths | Hard | python3 | [Problem](https://leetcode.com/problems/sum-of-subsequence-widths/) | [Solution](./solutions/Hard/0891-sum-of-subsequence-widths/solution.py) |
 | groups-of-special-equivalent-strings | 893. Groups Of Special Equivalent Strings | Medium | python3 | [Problem](https://leetcode.com/problems/groups-of-special-equivalent-strings/) | [Solution](./solutions/Medium/0893-groups-of-special-equivalent-strings/solution.py) |
 | all-possible-full-binary-trees | 894. All Possible Full Binary Trees | Medium | python3 | [Problem](https://leetcode.com/problems/all-possible-full-binary-trees/) | [Solution](./solutions/Medium/0894-all-possible-full-binary-trees/solution.py) |
-| monotonic-array | 896. Monotonic Array | Easy | python3 | [Problem](https://leetcode.com/problems/monotonic-array/) | [Solution](./solutions/Easy/0896-monotonic-array/solution.py) |
 | bitwise-ors-of-subarrays | 898. Bitwise Ors Of Subarrays | Medium | python3 | [Problem](https://leetcode.com/problems/bitwise-ors-of-subarrays/) | [Solution](./solutions/Medium/0898-bitwise-ors-of-subarrays/solution.py) |
 | orderly-queue | 899. Orderly Queue | Hard | python3 | [Problem](https://leetcode.com/problems/orderly-queue/) | [Solution](./solutions/Hard/0899-orderly-queue/solution.py) |
 | valid-permutations-for-di-sequence | 903. Valid Permutations For Di Sequence | Hard | python3 | [Problem](https://leetcode.com/problems/valid-permutations-for-di-sequence/) | [Solution](./solutions/Hard/0903-valid-permutations-for-di-sequence/solution.py) |
 | fruit-into-baskets | 904. Fruit Into Baskets | Medium | python3 | [Problem](https://leetcode.com/problems/fruit-into-baskets/) | [Solution](./solutions/Medium/0904-fruit-into-baskets/solution.py) |
-| sort-array-by-parity | 905. Sort Array By Parity | Easy | python3 | [Problem](https://leetcode.com/problems/sort-array-by-parity/) | [Solution](./solutions/Easy/0905-sort-array-by-parity/solution.py) |
 | super-palindromes | 906. Super Palindromes | Hard | python3 | [Problem](https://leetcode.com/problems/super-palindromes/) | [Solution](./solutions/Hard/0906-super-palindromes/solution.py) |
 | sum-of-subarray-minimums | 907. Sum Of Subarray Minimums | Medium | python3 | [Problem](https://leetcode.com/problems/sum-of-subarray-minimums/) | [Solution](./solutions/Medium/0907-sum-of-subarray-minimums/solution.py) |
-| smallest-range-i | 908. Smallest Range I | Easy | python3 | [Problem](https://leetcode.com/problems/smallest-range-i/) | [Solution](./solutions/Easy/0908-smallest-range-i/solution.py) |
 | snakes-and-ladders | 909. Snakes And Ladders | Medium | python3 | [Problem](https://leetcode.com/problems/snakes-and-ladders/) | [Solution](./solutions/Medium/0909-snakes-and-ladders/solution.py) |
 | smallest-range-ii | 910. Smallest Range Ii | Medium | python3 | [Problem](https://leetcode.com/problems/smallest-range-ii/) | [Solution](./solutions/Medium/0910-smallest-range-ii/solution.py) |
 | sort-an-array | 912. Sort An Array | Medium | python3 | [Problem](https://leetcode.com/problems/sort-an-array/) | [Solution](./solutions/Medium/0912-sort-an-array/solution.py) |
 | partition-array-into-disjoint-intervals | 915. Partition Array Into Disjoint Intervals | Medium | python3 | [Problem](https://leetcode.com/problems/partition-array-into-disjoint-intervals/) | [Solution](./solutions/Medium/0915-partition-array-into-disjoint-intervals/solution.py) |
 | sum-game | 1927. Sum Game | Medium | python3 | [Problem](https://leetcode.com/problems/sum-game/) | [Solution](./solutions/Medium/1927-sum-game/solution.py) |
 | removing-minimum-and-maximum-from-array | 2091. Removing Minimum And Maximum From Array | Medium | python3 | [Problem](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/) | [Solution](./solutions/Medium/2091-removing-minimum-and-maximum-from-array/solution.py) |
-| distribute-elements-into-two-arrays-i | 3069. Distribute Elements Into Two Arrays I | Easy | java | [Problem](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) | [Solution](./solutions/Easy/3069-distribute-elements-into-two-arrays-i/solution.java) |
 | minimum-moves-to-clean-the-classroom | 3568. Minimum Moves To Clean The Classroom | Medium | python3 | [Problem](https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/) | [Solution](./solutions/Medium/3568-minimum-moves-to-clean-the-classroom/solution.py) |
 | construct-uniform-parity-array-ii | 3876. Construct Uniform Parity Array Ii | Medium | python3 | [Problem](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | [Solution](./solutions/Medium/3876-construct-uniform-parity-array-ii/solution.py) |
-| smallest-stable-index-i | 3903. Smallest Stable Index I | Easy | python3 | [Problem](https://leetcode.com/problems/smallest-stable-index-i/) | [Solution](./solutions/Easy/3903-smallest-stable-index-i/solution.py) |
 | unique-3-digit-even-numbers | Unique 3-Digit Even Numbers | Easy | python | [Problem](https://leetcode.com/problems/unique-3-digit-even-numbers/) | [Solution](./solutions/Easy/3483-unique-3-digit-even-numbers/solution.py) |
 | unique-email-addresses | Unique Email Addresses | Easy | python | [Problem](https://leetcode.com/problems/unique-email-addresses/) | [Solution](./solutions/Easy/0929-unique-email-addresses/solution.py) |
 | univalued-binary-tree | Univalued Binary Tree | Easy | python | [Problem](https://leetcode.com/problems/univalued-binary-tree/) | [Solution](./solutions/Easy/0965-univalued-binary-tree/solution.py) |
