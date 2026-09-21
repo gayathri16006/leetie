@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 479 Solved
+## Progress Summary: 480 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -87,6 +87,7 @@
 | longest-arithmetic-subsequence | Longest Arithmetic Subsequence | Medium | java | [Problem](https://leetcode.com/problems/longest-arithmetic-subsequence/) | [Solution](./solutions/Medium/1027-longest-arithmetic-subsequence/solution.java) |
 | longest-turbulent-subarray | Longest Turbulent Subarray | Medium | python | [Problem](https://leetcode.com/problems/longest-turbulent-subarray/) | [Solution](./solutions/Medium/0978-longest-turbulent-subarray/solution.py) |
 | longest-uncommon-subsequence-i | 521. Longest Uncommon Subsequence I | Easy | python3 | [Problem](https://leetcode.com/problems/longest-uncommon-subsequence-i/) | [Solution](./solutions/Easy/0521-longest-uncommon-subsequence-i/solution.py) |
+| max-consecutive-ones-iii | Max Consecutive Ones III | Medium | java | [Problem](https://leetcode.com/problems/max-consecutive-ones-iii/) | [Solution](./solutions/Medium/1004-max-consecutive-ones-iii/solution.java) |
 | maximum-binary-tree-ii | Maximum Binary Tree II | Medium | java | [Problem](https://leetcode.com/problems/maximum-binary-tree-ii/) | [Solution](./solutions/Medium/0998-maximum-binary-tree-ii/solution.java) |
 | maximum-difference-between-node-and-ancestor | Maximum Difference Between Node and Ancestor | Medium | java | [Problem](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | [Solution](./solutions/Medium/1026-maximum-difference-between-node-and-ancestor/solution.java) |
 | maximum-number-of-non-overlapping-substrings | Maximum Number of Non-Overlapping Substrings | Hard | python | [Problem](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/) | [Solution](./solutions/Hard/1520-maximum-number-of-non-overlapping-substrings/solution.py) |
