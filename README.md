@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 487 Solved
+## Progress Summary: 488 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -63,6 +63,7 @@
 | max-consecutive-ones | 485. Max Consecutive Ones | Easy | python3 | [Problem](https://leetcode.com/problems/max-consecutive-ones/) | [Solution](./solutions/Easy/0485-max-consecutive-ones/solution.py) |
 | keyboard-row | 500. Keyboard Row | Easy | python3 | [Problem](https://leetcode.com/problems/keyboard-row/) | [Solution](./solutions/Easy/0500-keyboard-row/solution.py) |
 | base-7 | 504. Base 7 | Easy | python3 | [Problem](https://leetcode.com/problems/base-7/) | [Solution](./solutions/Easy/0504-base-7/solution.py) |
+| binary-string-with-substrings-representing-1-to-n | Binary String With Substrings Representing 1 To N | Medium | java | [Problem](https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n/) | [Solution](./solutions/Medium/1016-binary-string-with-substrings-representing-1-to-n/solution.java) |
 | binary-tree-cameras | Binary Tree Cameras | Hard | java | [Problem](https://leetcode.com/problems/binary-tree-cameras/) | [Solution](./solutions/Hard/0968-binary-tree-cameras/solution.java) |
 | broken-calculator | Broken Calculator | Medium | java | [Problem](https://leetcode.com/problems/broken-calculator/) | [Solution](./solutions/Medium/0991-broken-calculator/solution.java) |
 | capacity-to-ship-packages-within-d-days | Capacity To Ship Packages Within D Days | Medium | java | [Problem](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | [Solution](./solutions/Medium/1011-capacity-to-ship-packages-within-d-days/solution.java) |
