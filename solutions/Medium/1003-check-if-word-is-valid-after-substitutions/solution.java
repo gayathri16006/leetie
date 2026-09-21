@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : String, Stack
 // Link     : https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42696000 (beats 0%)
+// Runtime  : 5 ms (beats 97%)
+// Memory   : 46308000 (beats 68%)
 // Language : java
 // Copyright: (c) 2026 gayathri16006. All rights reserved.
 // Synced by: leetie
