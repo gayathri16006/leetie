@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array, Hash Table, String
 // Link     : https://leetcode.com/problems/find-common-characters/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 43016000 (beats 0%)
+// Runtime  : 3 ms (beats 93%)
+// Memory   : 44940000 (beats 27%)
 // Language : java
 // Copyright: (c) 2026 gayathri16006. All rights reserved.
 // Synced by: leetie
