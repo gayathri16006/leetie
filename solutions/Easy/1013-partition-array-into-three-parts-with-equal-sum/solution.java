@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array, Greedy
 // Link     : https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42516000 (beats 0%)
+// Runtime  : 2 ms (beats 56%)
+// Memory   : 55648000 (beats 24%)
 // Language : java
 // Copyright: (c) 2026 gayathri16006. All rights reserved.
 // Synced by: leetie
