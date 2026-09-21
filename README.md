@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 471 Solved
+## Progress Summary: 472 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -78,6 +78,7 @@
 | delete-columns-to-make-sorted-iii | Delete Columns to Make Sorted III | Hard | python | [Problem](https://leetcode.com/problems/delete-columns-to-make-sorted-iii/) | [Solution](./solutions/Hard/0960-delete-columns-to-make-sorted-iii/solution.py) |
 | di-string-match | DI String Match | Easy | python | [Problem](https://leetcode.com/problems/di-string-match/) | [Solution](./solutions/Easy/0942-di-string-match/solution.py) |
 | distribute-coins-in-binary-tree | Distribute Coins in Binary Tree | Medium | java | [Problem](https://leetcode.com/problems/distribute-coins-in-binary-tree/) | [Solution](./solutions/Medium/0979-distribute-coins-in-binary-tree/solution.java) |
+| divisor-game | Divisor Game | Easy | java | [Problem](https://leetcode.com/problems/divisor-game/) | [Solution](./solutions/Easy/1025-divisor-game/solution.java) |
 | equal-rational-numbers | Equal Rational Numbers | Hard | java | [Problem](https://leetcode.com/problems/equal-rational-numbers/) | [Solution](./solutions/Hard/0972-equal-rational-numbers/solution.java) |
 | find-the-closest-palindrome | 564. Find The Closest Palindrome | Hard | python3 | [Problem](https://leetcode.com/problems/find-the-closest-palindrome/) | [Solution](./solutions/Hard/0564-find-the-closest-palindrome/solution.py) |
 | find-the-shortest-superstring | Find the Shortest Superstring | Hard | python | [Problem](https://leetcode.com/problems/find-the-shortest-superstring/) | [Solution](./solutions/Hard/0943-find-the-shortest-superstring/solution.py) |
