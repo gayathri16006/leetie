@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Tree, Depth-First Search, Binary Tree
 // Link     : https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42796000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 43832000 (beats 41%)
 // Language : java
 // Copyright: (c) 2026 gayathri16006. All rights reserved.
 // Synced by: leetie
@@ -38,7 +38,7 @@ class Solution {
             return maxVal - minVal;
         }
 
-        // Update the min and max seen along the path
+        
         minVal = Math.min(minVal, node.val);
         maxVal = Math.max(maxVal, node.val);
 
