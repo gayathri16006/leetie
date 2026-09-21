@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : String, Stack, Bracket Sequences
 // Link     : https://leetcode.com/problems/remove-outermost-parentheses/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42672000 (beats 0%)
+// Runtime  : 2 ms (beats 100%)
+// Memory   : 43636000 (beats 41%)
 // Language : java
 // Copyright: (c) 2026 gayathri16006. All rights reserved.
 // Synced by: leetie
