@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 488 Solved
+## Progress Summary: 489 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -50,19 +50,14 @@
 | find-mode-in-binary-search-tree | 501. Find Mode In Binary Search Tree | Easy | python3 | [Problem](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | [Solution](./solutions/Easy/0501-find-mode-in-binary-search-tree/solution.py) |
 | find-the-shortest-superstring | Find the Shortest Superstring | Hard | python | [Problem](https://leetcode.com/problems/find-the-shortest-superstring/) | [Solution](./solutions/Hard/0943-find-the-shortest-superstring/solution.py) |
 | first-bad-version | 278. First Bad Version | Easy | python3 | [Problem](https://leetcode.com/problems/first-bad-version/) | [Solution](./solutions/Easy/0278-first-bad-version/solution.py) |
-| assign-cookies | 455. Assign Cookies | Easy | python3 | [Problem](https://leetcode.com/problems/assign-cookies/) | [Solution](./solutions/Easy/0455-assign-cookies/solution.py) |
 | flip-equivalent-binary-trees | Flip Equivalent Binary Trees | Medium | python | [Problem](https://leetcode.com/problems/flip-equivalent-binary-trees/) | [Solution](./solutions/Medium/0951-flip-equivalent-binary-trees/solution.py) |
 | is-subsequence | 392. Is Subsequence | Easy | python3 | [Problem](https://leetcode.com/problems/is-subsequence/) | [Solution](./solutions/Easy/0392-is-subsequence/solution.py) |
 | fizz-buzz | 412. Fizz Buzz | Easy | python3 | [Problem](https://leetcode.com/problems/fizz-buzz/) | [Solution](./solutions/Easy/0412-fizz-buzz/solution.py) |
-| ipo | 502. Ipo | Hard | python3 | [Problem](https://leetcode.com/problems/ipo/) | [Solution](./solutions/Hard/0502-ipo/solution.py) |
-| fibonacci-number | 509. Fibonacci Number | Easy | python3 | [Problem](https://leetcode.com/problems/fibonacci-number/) | [Solution](./solutions/Easy/0509-fibonacci-number/solution.py) |
-| game-play-analysis-i | 511. Game Play Analysis I | Easy | mysql | [Problem](https://leetcode.com/problems/game-play-analysis-i/) | [Solution](./solutions/Easy/0511-game-play-analysis-i/solution.sql) |
-| freedom-trail | 514. Freedom Trail | Hard | python3 | [Problem](https://leetcode.com/problems/freedom-trail/) | [Solution](./solutions/Hard/0514-freedom-trail/solution.py) |
-| knight-dialer | Knight Dialer | Medium | python | [Problem](https://leetcode.com/problems/knight-dialer/) | [Solution](./solutions/Medium/0935-knight-dialer/solution.py) |
-| license-key-formatting | 482. License Key Formatting | Easy | python3 | [Problem](https://leetcode.com/problems/license-key-formatting/) | [Solution](./solutions/Easy/0482-license-key-formatting/solution.py) |
-| max-consecutive-ones | 485. Max Consecutive Ones | Easy | python3 | [Problem](https://leetcode.com/problems/max-consecutive-ones/) | [Solution](./solutions/Easy/0485-max-consecutive-ones/solution.py) |
+| assign-cookies | 455. Assign Cookies | Easy | python3 | [Problem](https://leetcode.com/problems/assign-cookies/) | [Solution](./solutions/Easy/0455-assign-cookies/solution.py) |
 | keyboard-row | 500. Keyboard Row | Easy | python3 | [Problem](https://leetcode.com/problems/keyboard-row/) | [Solution](./solutions/Easy/0500-keyboard-row/solution.py) |
+| ipo | 502. Ipo | Hard | python3 | [Problem](https://leetcode.com/problems/ipo/) | [Solution](./solutions/Hard/0502-ipo/solution.py) |
 | base-7 | 504. Base 7 | Easy | python3 | [Problem](https://leetcode.com/problems/base-7/) | [Solution](./solutions/Easy/0504-base-7/solution.py) |
+| binary-prefix-divisible-by-5 | Binary Prefix Divisible By 5 | Easy | java | [Problem](https://leetcode.com/problems/binary-prefix-divisible-by-5/) | [Solution](./solutions/Easy/1018-binary-prefix-divisible-by-5/solution.java) |
 | binary-string-with-substrings-representing-1-to-n | Binary String With Substrings Representing 1 To N | Medium | java | [Problem](https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n/) | [Solution](./solutions/Medium/1016-binary-string-with-substrings-representing-1-to-n/solution.java) |
 | binary-tree-cameras | Binary Tree Cameras | Hard | java | [Problem](https://leetcode.com/problems/binary-tree-cameras/) | [Solution](./solutions/Hard/0968-binary-tree-cameras/solution.java) |
 | broken-calculator | Broken Calculator | Medium | java | [Problem](https://leetcode.com/problems/broken-calculator/) | [Solution](./solutions/Medium/0991-broken-calculator/solution.java) |
@@ -83,10 +78,13 @@
 | flip-binary-tree-to-match-preorder-traversal | Flip Binary Tree To Match Preorder Traversal | Medium | java | [Problem](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/) | [Solution](./solutions/Medium/0971-flip-binary-tree-to-match-preorder-traversal/solution.java) |
 | interval-list-intersections | Interval List Intersections | Medium | java | [Problem](https://leetcode.com/problems/interval-list-intersections/) | [Solution](./solutions/Medium/0986-interval-list-intersections/solution.java) |
 | k-closest-points-to-origin | K Closest Points to Origin | Medium | java | [Problem](https://leetcode.com/problems/k-closest-points-to-origin/) | [Solution](./solutions/Medium/0973-k-closest-points-to-origin/solution.java) |
+| knight-dialer | Knight Dialer | Medium | python | [Problem](https://leetcode.com/problems/knight-dialer/) | [Solution](./solutions/Medium/0935-knight-dialer/solution.py) |
 | largest-component-size-by-common-factor | Largest Component Size by Common Factor | Hard | python | [Problem](https://leetcode.com/problems/largest-component-size-by-common-factor/) | [Solution](./solutions/Hard/0952-largest-component-size-by-common-factor/solution.py) |
 | largest-perimeter-triangle | Largest Perimeter Triangle | Easy | java | [Problem](https://leetcode.com/problems/largest-perimeter-triangle/) | [Solution](./solutions/Easy/0976-largest-perimeter-triangle/solution.java) |
+| license-key-formatting | 482. License Key Formatting | Easy | python3 | [Problem](https://leetcode.com/problems/license-key-formatting/) | [Solution](./solutions/Easy/0482-license-key-formatting/solution.py) |
 | longest-arithmetic-subsequence | Longest Arithmetic Subsequence | Medium | java | [Problem](https://leetcode.com/problems/longest-arithmetic-subsequence/) | [Solution](./solutions/Medium/1027-longest-arithmetic-subsequence/solution.java) |
 | longest-turbulent-subarray | Longest Turbulent Subarray | Medium | python | [Problem](https://leetcode.com/problems/longest-turbulent-subarray/) | [Solution](./solutions/Medium/0978-longest-turbulent-subarray/solution.py) |
+| max-consecutive-ones | 485. Max Consecutive Ones | Easy | python3 | [Problem](https://leetcode.com/problems/max-consecutive-ones/) | [Solution](./solutions/Easy/0485-max-consecutive-ones/solution.py) |
 | max-consecutive-ones-iii | Max Consecutive Ones III | Medium | java | [Problem](https://leetcode.com/problems/max-consecutive-ones-iii/) | [Solution](./solutions/Medium/1004-max-consecutive-ones-iii/solution.java) |
 | maximize-sum-of-array-after-k-negations | Maximize Sum Of Array After K Negations | Easy | java | [Problem](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/) | [Solution](./solutions/Easy/1005-maximize-sum-of-array-after-k-negations/solution.java) |
 | maximum-binary-tree-ii | Maximum Binary Tree II | Medium | java | [Problem](https://leetcode.com/problems/maximum-binary-tree-ii/) | [Solution](./solutions/Medium/0998-maximum-binary-tree-ii/solution.java) |
@@ -113,13 +111,16 @@
 | next-greater-node-in-linked-list | Next Greater Node In Linked List | Medium | java | [Problem](https://leetcode.com/problems/next-greater-node-in-linked-list/) | [Solution](./solutions/Medium/1019-next-greater-node-in-linked-list/solution.java) |
 | number-of-enclaves | Number of Enclaves | Medium | java | [Problem](https://leetcode.com/problems/number-of-enclaves/) | [Solution](./solutions/Medium/1020-number-of-enclaves/solution.java) |
 | relative-ranks | 506. Relative Ranks | Easy | python3 | [Problem](https://leetcode.com/problems/relative-ranks/) | [Solution](./solutions/Easy/0506-relative-ranks/solution.py) |
-| perfect-number | 507. Perfect Number | Easy | python3 | [Problem](https://leetcode.com/problems/perfect-number/) | [Solution](./solutions/Easy/0507-perfect-number/solution.py) |
 | numbers-at-most-n-given-digit-set | 902. Numbers At Most N Given Digit Set | Hard | python3 | [Problem](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/) | [Solution](./solutions/Hard/0902-numbers-at-most-n-given-digit-set/solution.py) |
 | numbers-with-repeated-digits | Numbers With Repeated Digits | Hard | java | [Problem](https://leetcode.com/problems/numbers-with-repeated-digits/) | [Solution](./solutions/Hard/1012-numbers-with-repeated-digits/solution.java) |
 | numbers-with-same-consecutive-differences | Numbers With Same Consecutive Differences | Medium | java | [Problem](https://leetcode.com/problems/numbers-with-same-consecutive-differences/) | [Solution](./solutions/Medium/0967-numbers-with-same-consecutive-differences/solution.java) |
 | odd-even-jump | Odd Even Jump | Hard | java | [Problem](https://leetcode.com/problems/odd-even-jump/) | [Solution](./solutions/Hard/0975-odd-even-jump/solution.java) |
 | pancake-sorting | Pancake Sorting | Medium | java | [Problem](https://leetcode.com/problems/pancake-sorting/) | [Solution](./solutions/Medium/0969-pancake-sorting/solution.java) |
 | partition-array-into-three-parts-with-equal-sum | Partition Array Into Three Parts With Equal Sum | Easy | java | [Problem](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/) | [Solution](./solutions/Easy/1013-partition-array-into-three-parts-with-equal-sum/solution.java) |
+| perfect-number | 507. Perfect Number | Easy | python3 | [Problem](https://leetcode.com/problems/perfect-number/) | [Solution](./solutions/Easy/0507-perfect-number/solution.py) |
+| fibonacci-number | 509. Fibonacci Number | Easy | python3 | [Problem](https://leetcode.com/problems/fibonacci-number/) | [Solution](./solutions/Easy/0509-fibonacci-number/solution.py) |
+| game-play-analysis-i | 511. Game Play Analysis I | Easy | mysql | [Problem](https://leetcode.com/problems/game-play-analysis-i/) | [Solution](./solutions/Easy/0511-game-play-analysis-i/solution.sql) |
+| freedom-trail | 514. Freedom Trail | Hard | python3 | [Problem](https://leetcode.com/problems/freedom-trail/) | [Solution](./solutions/Hard/0514-freedom-trail/solution.py) |
 | powerful-integers | Powerful Integers | Medium | java | [Problem](https://leetcode.com/problems/powerful-integers/) | [Solution](./solutions/Medium/0970-powerful-integers/solution.java) |
 | range-sum-of-bst | Range Sum of BST | Easy | python | [Problem](https://leetcode.com/problems/range-sum-of-bst/) | [Solution](./solutions/Easy/0938-range-sum-of-bst/solution.py) |
 | remove-outermost-parentheses | Remove Outermost Parentheses | Easy | java | [Problem](https://leetcode.com/problems/remove-outermost-parentheses/) | [Solution](./solutions/Easy/1021-remove-outermost-parentheses/solution.java) |
