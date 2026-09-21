@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Binary Search
 // Link     : https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42716000 (beats 0%)
+// Runtime  : 11 ms (beats 64%)
+// Memory   : 50352000 (beats 20%)
 // Language : java
 // Copyright: (c) 2026 gayathri16006. All rights reserved.
 // Synced by: leetie
