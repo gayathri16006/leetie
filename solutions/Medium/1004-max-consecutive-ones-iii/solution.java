@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Binary Search, Sliding Window, Prefix Sum
 // Link     : https://leetcode.com/problems/max-consecutive-ones-iii/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42516000 (beats 0%)
+// Runtime  : 3 ms (beats 96%)
+// Memory   : 52004000 (beats 74%)
 // Language : java
 // Copyright: (c) 2026 gayathri16006. All rights reserved.
 // Synced by: leetie
