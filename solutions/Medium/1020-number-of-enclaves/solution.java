@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix
 // Link     : https://leetcode.com/problems/number-of-enclaves/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42888000 (beats 0%)
+// Runtime  : 6 ms (beats 100%)
+// Memory   : 62000000 (beats 19%)
 // Language : java
 // Copyright: (c) 2026 gayathri16006. All rights reserved.
 // Synced by: leetie
@@ -54,10 +54,10 @@ class Solution {
             return;
         }
 
-        // Mark current cell as visited by converting it to sea (0)
+       
         grid[r][c] = 0;
 
-        // Visit all 4 neighbors
+      
         dfs(grid, r + 1, c, m, n);
         dfs(grid, r - 1, c, m, n);
         dfs(grid, r, c + 1, m, n);
