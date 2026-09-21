@@ -3,8 +3,8 @@
 // Difficulty: Hard
 // Tags     : Array, Dynamic Programming, Prefix Sum
 // Link     : https://leetcode.com/problems/minimum-cost-to-merge-stones/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42432000 (beats 0%)
+// Runtime  : 3 ms (beats 69%)
+// Memory   : 43260000 (beats 25%)
 // Language : java
 // Copyright: (c) 2026 gayathri16006. All rights reserved.
 // Synced by: leetie
@@ -25,8 +25,7 @@ class Solution {
             prefixSum[i + 1] = prefixSum[i] + stones[i];
         }
 
-        // dp[i][j] is the minimum cost to merge subarray stones[i..j]
-        // into the fewest possible piles
+       
         int[][] dp = new int[n][n];
 
         // Length of the sub-interval
