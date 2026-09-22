@@ -3,8 +3,8 @@
 // Difficulty: Medium
 // Tags     : Array, Math
 // Link     : https://leetcode.com/problems/maximum-of-absolute-value-expression/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42352000 (beats 0%)
+// Runtime  : 4 ms (beats 88%)
+// Memory   : 53496000 (beats 21%)
 // Language : java
 // Copyright: (c) 2026 gayathri16006. All rights reserved.
 // Synced by: leetie
