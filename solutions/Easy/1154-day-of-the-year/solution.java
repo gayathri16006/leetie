@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Math, String
 // Link     : https://leetcode.com/problems/day-of-the-year/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42704000 (beats 0%)
+// Runtime  : 7 ms (beats 96%)
+// Memory   : 46916000 (beats 62%)
 // Language : java
 // Copyright: (c) 2026 gayathri16006. All rights reserved.
 // Synced by: leetie
@@ -18,7 +18,7 @@ class Solution {
 
         int[] daysInMonth = {31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};
 
-        // Check if the year is a leap year
+        
         if (isLeapYear(year)) {
             daysInMonth[1] = 29;
         }
