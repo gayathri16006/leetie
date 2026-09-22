@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Math, Dynamic Programming, Memoization
 // Link     : https://leetcode.com/problems/n-th-tribonacci-number/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42188000 (beats 0%)
+// Runtime  : 0 ms (beats 100%)
+// Memory   : 42284000 (beats 16%)
 // Language : java
 // Copyright: (c) 2026 gayathri16006. All rights reserved.
 // Synced by: leetie
