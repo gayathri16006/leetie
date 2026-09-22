@@ -3,8 +3,8 @@
 // Difficulty: Easy
 // Tags     : Array, Hash Table, String, Counting
 // Link     : https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/
-// Runtime  : 0 ms (beats 0%)
-// Memory   : 42836000 (beats 0%)
+// Runtime  : 6 ms (beats 89%)
+// Memory   : 47332000 (beats 85%)
 // Language : java
 // Copyright: (c) 2026 gayathri16006. All rights reserved.
 // Synced by: leetie
