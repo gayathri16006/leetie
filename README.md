@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 503 Solved
+## Progress Summary: 504 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -386,6 +386,7 @@
 | shortest-bridge | Shortest Bridge | Medium | python | [Problem](https://leetcode.com/problems/shortest-bridge/) | [Solution](./solutions/Medium/0934-shortest-bridge/solution.py) |
 | shortest-path-in-binary-matrix | Shortest Path in Binary Matrix | Medium | java | [Problem](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | [Solution](./solutions/Medium/1091-shortest-path-in-binary-matrix/solution.java) |
 | shortest-path-with-alternating-colors | Shortest Path with Alternating Colors | Medium | java | [Problem](https://leetcode.com/problems/shortest-path-with-alternating-colors/) | [Solution](./solutions/Medium/1129-shortest-path-with-alternating-colors/solution.java) |
+| smallest-index-with-digit-sum-equal-to-index | Smallest Index With Digit Sum Equal to Index | Easy | java | [Problem](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | [Solution](./solutions/Easy/3550-smallest-index-with-digit-sum-equal-to-index/solution.java) |
 | smallest-integer-divisible-by-k | Smallest Integer Divisible by K | Medium | java | [Problem](https://leetcode.com/problems/smallest-integer-divisible-by-k/) | [Solution](./solutions/Medium/1015-smallest-integer-divisible-by-k/solution.java) |
 | smallest-string-starting-from-leaf | Smallest String Starting From Leaf | Medium | java | [Problem](https://leetcode.com/problems/smallest-string-starting-from-leaf/) | [Solution](./solutions/Medium/0988-smallest-string-starting-from-leaf/solution.java) |
 | sort-array-by-parity-ii | Sort Array By Parity II | Easy | python | [Problem](https://leetcode.com/problems/sort-array-by-parity-ii/) | [Solution](./solutions/Easy/0922-sort-array-by-parity-ii/solution.py) |
