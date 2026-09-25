@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 504 Solved
+## Progress Summary: 505 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -62,7 +62,11 @@
 | array-of-doubled-pairs | Array of Doubled Pairs | Medium | python | [Problem](https://leetcode.com/problems/array-of-doubled-pairs/) | [Solution](./solutions/Medium/0954-array-of-doubled-pairs/solution.py) |
 | bag-of-tokens | Bag of Tokens | Medium | python | [Problem](https://leetcode.com/problems/bag-of-tokens/) | [Solution](./solutions/Medium/0948-bag-of-tokens/solution.py) |
 | beautiful-array | Beautiful Array | Medium | python | [Problem](https://leetcode.com/problems/beautiful-array/) | [Solution](./solutions/Medium/0932-beautiful-array/solution.py) |
+| binary-prefix-divisible-by-5 | Binary Prefix Divisible By 5 | Easy | java | [Problem](https://leetcode.com/problems/binary-prefix-divisible-by-5/) | [Solution](./solutions/Easy/1018-binary-prefix-divisible-by-5/solution.java) |
+| binary-string-with-substrings-representing-1-to-n | Binary String With Substrings Representing 1 To N | Medium | java | [Problem](https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n/) | [Solution](./solutions/Medium/1016-binary-string-with-substrings-representing-1-to-n/solution.java) |
 | binary-subarrays-with-sum | Binary Subarrays With Sum | Medium | python | [Problem](https://leetcode.com/problems/binary-subarrays-with-sum/) | [Solution](./solutions/Medium/0930-binary-subarrays-with-sum/solution.py) |
+| binary-tree-cameras | Binary Tree Cameras | Hard | java | [Problem](https://leetcode.com/problems/binary-tree-cameras/) | [Solution](./solutions/Hard/0968-binary-tree-cameras/solution.java) |
+| binary-tree-coloring-game | Binary Tree Coloring Game | Medium | java | [Problem](https://leetcode.com/problems/binary-tree-coloring-game/) | [Solution](./solutions/Medium/1145-binary-tree-coloring-game/solution.java) |
 | cat-and-mouse | Cat and Mouse | Hard | python | [Problem](https://leetcode.com/problems/cat-and-mouse/) | [Solution](./solutions/Hard/0913-cat-and-mouse/solution.py) |
 | check-completeness-of-a-binary-tree | Check Completeness of a Binary Tree | Medium | python | [Problem](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) | [Solution](./solutions/Medium/0958-check-completeness-of-a-binary-tree/solution.py) |
 | complete-binary-tree-inserter | Complete Binary Tree Inserter | Medium | python | [Problem](https://leetcode.com/problems/complete-binary-tree-inserter/) | [Solution](./solutions/Medium/0919-complete-binary-tree-inserter/solution.py) |
@@ -78,12 +82,7 @@
 | flip-equivalent-binary-trees | Flip Equivalent Binary Trees | Medium | python | [Problem](https://leetcode.com/problems/flip-equivalent-binary-trees/) | [Solution](./solutions/Medium/0951-flip-equivalent-binary-trees/solution.py) |
 | is-subsequence | 392. Is Subsequence | Easy | python3 | [Problem](https://leetcode.com/problems/is-subsequence/) | [Solution](./solutions/Easy/0392-is-subsequence/solution.py) |
 | binary-watch | 401. Binary Watch | Easy | python3 | [Problem](https://leetcode.com/problems/binary-watch/) | [Solution](./solutions/Easy/0401-binary-watch/solution.py) |
-| fizz-buzz | 412. Fizz Buzz | Easy | python3 | [Problem](https://leetcode.com/problems/fizz-buzz/) | [Solution](./solutions/Easy/0412-fizz-buzz/solution.py) |
-| arranging-coins | 441. Arranging Coins | Easy | python3 | [Problem](https://leetcode.com/problems/arranging-coins/) | [Solution](./solutions/Easy/0441-arranging-coins/solution.py) |
-| binary-prefix-divisible-by-5 | Binary Prefix Divisible By 5 | Easy | java | [Problem](https://leetcode.com/problems/binary-prefix-divisible-by-5/) | [Solution](./solutions/Easy/1018-binary-prefix-divisible-by-5/solution.java) |
-| binary-string-with-substrings-representing-1-to-n | Binary String With Substrings Representing 1 To N | Medium | java | [Problem](https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n/) | [Solution](./solutions/Medium/1016-binary-string-with-substrings-representing-1-to-n/solution.java) |
-| binary-tree-cameras | Binary Tree Cameras | Hard | java | [Problem](https://leetcode.com/problems/binary-tree-cameras/) | [Solution](./solutions/Hard/0968-binary-tree-cameras/solution.java) |
-| binary-tree-coloring-game | Binary Tree Coloring Game | Medium | java | [Problem](https://leetcode.com/problems/binary-tree-coloring-game/) | [Solution](./solutions/Medium/1145-binary-tree-coloring-game/solution.java) |
+| brace-expansion-ii | Brace Expansion II | Hard | java | [Problem](https://leetcode.com/problems/brace-expansion-ii/) | [Solution](./solutions/Hard/1096-brace-expansion-ii/solution.java) |
 | broken-calculator | Broken Calculator | Medium | java | [Problem](https://leetcode.com/problems/broken-calculator/) | [Solution](./solutions/Medium/0991-broken-calculator/solution.java) |
 | capacity-to-ship-packages-within-d-days | Capacity To Ship Packages Within D Days | Medium | java | [Problem](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | [Solution](./solutions/Medium/1011-capacity-to-ship-packages-within-d-days/solution.java) |
 | check-if-word-is-valid-after-substitutions | Check If Word Is Valid After Substitutions | Medium | java | [Problem](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/) | [Solution](./solutions/Medium/1003-check-if-word-is-valid-after-substitutions/solution.java) |
@@ -98,6 +97,7 @@
 | find-words-that-can-be-formed-by-characters | Find Words That Can Be Formed by Characters | Easy | java | [Problem](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) | [Solution](./solutions/Easy/1160-find-words-that-can-be-formed-by-characters/solution.java) |
 | find-x-value-of-array-i | Find X Value of Array I | Medium | java | [Problem](https://leetcode.com/problems/find-x-value-of-array-i/) | [Solution](./solutions/Medium/3524-find-x-value-of-array-i/solution.java) |
 | find-x-value-of-array-ii | Find X Value of Array II | Hard | java | [Problem](https://leetcode.com/problems/find-x-value-of-array-ii/) | [Solution](./solutions/Hard/3525-find-x-value-of-array-ii/solution.java) |
+| fizz-buzz | 412. Fizz Buzz | Easy | python3 | [Problem](https://leetcode.com/problems/fizz-buzz/) | [Solution](./solutions/Easy/0412-fizz-buzz/solution.py) |
 | flip-binary-tree-to-match-preorder-traversal | Flip Binary Tree To Match Preorder Traversal | Medium | java | [Problem](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/) | [Solution](./solutions/Medium/0971-flip-binary-tree-to-match-preorder-traversal/solution.java) |
 | interval-list-intersections | Interval List Intersections | Medium | java | [Problem](https://leetcode.com/problems/interval-list-intersections/) | [Solution](./solutions/Medium/0986-interval-list-intersections/solution.java) |
 | k-closest-points-to-origin | K Closest Points to Origin | Medium | java | [Problem](https://leetcode.com/problems/k-closest-points-to-origin/) | [Solution](./solutions/Medium/0973-k-closest-points-to-origin/solution.java) |
@@ -397,8 +397,12 @@
 | sum-of-even-numbers-after-queries | Sum of Even Numbers After Queries | Medium | java | [Problem](https://leetcode.com/problems/sum-of-even-numbers-after-queries/) | [Solution](./solutions/Medium/0985-sum-of-even-numbers-after-queries/solution.java) |
 | tallest-billboard | Tallest Billboard | Hard | python | [Problem](https://leetcode.com/problems/tallest-billboard/) | [Solution](./solutions/Hard/0956-tallest-billboard/solution.py) |
 | three-equal-parts | Three Equal Parts | Hard | python | [Problem](https://leetcode.com/problems/three-equal-parts/) | [Solution](./solutions/Hard/0927-three-equal-parts/solution.py) |
+| time-based-key-value-store | Time Based Key-Value Store | Medium | java | [Problem](https://leetcode.com/problems/time-based-key-value-store/) | [Solution](./solutions/Medium/0981-time-based-key-value-store/solution.java) |
 | two-sum | 1. Two Sum | Easy | java | [Problem](https://leetcode.com/problems/two-sum/) | [Solution](./solutions/Easy/0001-two-sum/solution.java) |
 | sum-of-left-leaves | 404. Sum Of Left Leaves | Easy | python3 | [Problem](https://leetcode.com/problems/sum-of-left-leaves/) | [Solution](./solutions/Easy/0404-sum-of-left-leaves/solution.py) |
+| sum-of-root-to-leaf-binary-numbers | Sum of Root To Leaf Binary Numbers | Easy | java | [Problem](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) | [Solution](./solutions/Easy/1022-sum-of-root-to-leaf-binary-numbers/solution.java) |
+| third-maximum-number | 414. Third Maximum Number | Easy | python3 | [Problem](https://leetcode.com/problems/third-maximum-number/) | [Solution](./solutions/Easy/0414-third-maximum-number/solution.py) |
+| arranging-coins | 441. Arranging Coins | Easy | python3 | [Problem](https://leetcode.com/problems/arranging-coins/) | [Solution](./solutions/Easy/0441-arranging-coins/solution.py) |
 | assign-cookies | 455. Assign Cookies | Easy | python3 | [Problem](https://leetcode.com/problems/assign-cookies/) | [Solution](./solutions/Easy/0455-assign-cookies/solution.py) |
 | number-complement | 476. Number Complement | Easy | python3 | [Problem](https://leetcode.com/problems/number-complement/) | [Solution](./solutions/Easy/0476-number-complement/solution.py) |
 | license-key-formatting | 482. License Key Formatting | Easy | python3 | [Problem](https://leetcode.com/problems/license-key-formatting/) | [Solution](./solutions/Easy/0482-license-key-formatting/solution.py) |
@@ -480,31 +484,28 @@
 | leaf-similar-trees | 872. Leaf Similar Trees | Easy | python3 | [Problem](https://leetcode.com/problems/leaf-similar-trees/) | [Solution](./solutions/Easy/0872-leaf-similar-trees/solution.py) |
 | middle-of-the-linked-list | 876. Middle Of The Linked List | Easy | python3 | [Problem](https://leetcode.com/problems/middle-of-the-linked-list/) | [Solution](./solutions/Easy/0876-middle-of-the-linked-list/solution.py) |
 | monotonic-array | 896. Monotonic Array | Easy | python3 | [Problem](https://leetcode.com/problems/monotonic-array/) | [Solution](./solutions/Easy/0896-monotonic-array/solution.py) |
-| valid-permutations-for-di-sequence | 903. Valid Permutations For Di Sequence | Hard | python3 | [Problem](https://leetcode.com/problems/valid-permutations-for-di-sequence/) | [Solution](./solutions/Hard/0903-valid-permutations-for-di-sequence/solution.py) |
-| fruit-into-baskets | 904. Fruit Into Baskets | Medium | python3 | [Problem](https://leetcode.com/problems/fruit-into-baskets/) | [Solution](./solutions/Medium/0904-fruit-into-baskets/solution.py) |
 | sort-array-by-parity | 905. Sort Array By Parity | Easy | python3 | [Problem](https://leetcode.com/problems/sort-array-by-parity/) | [Solution](./solutions/Easy/0905-sort-array-by-parity/solution.py) |
-| super-palindromes | 906. Super Palindromes | Hard | python3 | [Problem](https://leetcode.com/problems/super-palindromes/) | [Solution](./solutions/Hard/0906-super-palindromes/solution.py) |
-| sum-of-subarray-minimums | 907. Sum Of Subarray Minimums | Medium | python3 | [Problem](https://leetcode.com/problems/sum-of-subarray-minimums/) | [Solution](./solutions/Medium/0907-sum-of-subarray-minimums/solution.py) |
 | smallest-range-i | 908. Smallest Range I | Easy | python3 | [Problem](https://leetcode.com/problems/smallest-range-i/) | [Solution](./solutions/Easy/0908-smallest-range-i/solution.py) |
-| snakes-and-ladders | 909. Snakes And Ladders | Medium | python3 | [Problem](https://leetcode.com/problems/snakes-and-ladders/) | [Solution](./solutions/Medium/0909-snakes-and-ladders/solution.py) |
-| smallest-range-ii | 910. Smallest Range Ii | Medium | python3 | [Problem](https://leetcode.com/problems/smallest-range-ii/) | [Solution](./solutions/Medium/0910-smallest-range-ii/solution.py) |
-| sort-an-array | 912. Sort An Array | Medium | python3 | [Problem](https://leetcode.com/problems/sort-an-array/) | [Solution](./solutions/Medium/0912-sort-an-array/solution.py) |
-| partition-array-into-disjoint-intervals | 915. Partition Array Into Disjoint Intervals | Medium | python3 | [Problem](https://leetcode.com/problems/partition-array-into-disjoint-intervals/) | [Solution](./solutions/Medium/0915-partition-array-into-disjoint-intervals/solution.py) |
-| sum-game | 1927. Sum Game | Medium | python3 | [Problem](https://leetcode.com/problems/sum-game/) | [Solution](./solutions/Medium/1927-sum-game/solution.py) |
-| removing-minimum-and-maximum-from-array | 2091. Removing Minimum And Maximum From Array | Medium | python3 | [Problem](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/) | [Solution](./solutions/Medium/2091-removing-minimum-and-maximum-from-array/solution.py) |
 | distribute-elements-into-two-arrays-i | 3069. Distribute Elements Into Two Arrays I | Easy | java | [Problem](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) | [Solution](./solutions/Easy/3069-distribute-elements-into-two-arrays-i/solution.java) |
-| minimum-moves-to-clean-the-classroom | 3568. Minimum Moves To Clean The Classroom | Medium | python3 | [Problem](https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/) | [Solution](./solutions/Medium/3568-minimum-moves-to-clean-the-classroom/solution.py) |
-| construct-uniform-parity-array-ii | 3876. Construct Uniform Parity Array Ii | Medium | python3 | [Problem](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | [Solution](./solutions/Medium/3876-construct-uniform-parity-array-ii/solution.py) |
 | smallest-stable-index-i | 3903. Smallest Stable Index I | Easy | python3 | [Problem](https://leetcode.com/problems/smallest-stable-index-i/) | [Solution](./solutions/Easy/3903-smallest-stable-index-i/solution.py) |
-| sum-of-root-to-leaf-binary-numbers | Sum of Root To Leaf Binary Numbers | Easy | java | [Problem](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) | [Solution](./solutions/Easy/1022-sum-of-root-to-leaf-binary-numbers/solution.java) |
-| third-maximum-number | 414. Third Maximum Number | Easy | python3 | [Problem](https://leetcode.com/problems/third-maximum-number/) | [Solution](./solutions/Easy/0414-third-maximum-number/solution.py) |
-| time-based-key-value-store | Time Based Key-Value Store | Medium | java | [Problem](https://leetcode.com/problems/time-based-key-value-store/) | [Solution](./solutions/Medium/0981-time-based-key-value-store/solution.java) |
 | triples-with-bitwise-and-equal-to-zero | Triples with Bitwise AND Equal To Zero | Hard | java | [Problem](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/) | [Solution](./solutions/Hard/0982-triples-with-bitwise-and-equal-to-zero/solution.java) |
 | unique-3-digit-even-numbers | Unique 3-Digit Even Numbers | Easy | python | [Problem](https://leetcode.com/problems/unique-3-digit-even-numbers/) | [Solution](./solutions/Easy/3483-unique-3-digit-even-numbers/solution.py) |
 | unique-email-addresses | Unique Email Addresses | Easy | python | [Problem](https://leetcode.com/problems/unique-email-addresses/) | [Solution](./solutions/Easy/0929-unique-email-addresses/solution.py) |
 | unique-paths-iii | Unique Paths III | Hard | java | [Problem](https://leetcode.com/problems/unique-paths-iii/) | [Solution](./solutions/Hard/0980-unique-paths-iii/solution.java) |
 | univalued-binary-tree | Univalued Binary Tree | Easy | python | [Problem](https://leetcode.com/problems/univalued-binary-tree/) | [Solution](./solutions/Easy/0965-univalued-binary-tree/solution.py) |
 | valid-mountain-array | Valid Mountain Array | Easy | python | [Problem](https://leetcode.com/problems/valid-mountain-array/) | [Solution](./solutions/Easy/0941-valid-mountain-array/solution.py) |
+| valid-permutations-for-di-sequence | 903. Valid Permutations For Di Sequence | Hard | python3 | [Problem](https://leetcode.com/problems/valid-permutations-for-di-sequence/) | [Solution](./solutions/Hard/0903-valid-permutations-for-di-sequence/solution.py) |
+| fruit-into-baskets | 904. Fruit Into Baskets | Medium | python3 | [Problem](https://leetcode.com/problems/fruit-into-baskets/) | [Solution](./solutions/Medium/0904-fruit-into-baskets/solution.py) |
+| super-palindromes | 906. Super Palindromes | Hard | python3 | [Problem](https://leetcode.com/problems/super-palindromes/) | [Solution](./solutions/Hard/0906-super-palindromes/solution.py) |
+| sum-of-subarray-minimums | 907. Sum Of Subarray Minimums | Medium | python3 | [Problem](https://leetcode.com/problems/sum-of-subarray-minimums/) | [Solution](./solutions/Medium/0907-sum-of-subarray-minimums/solution.py) |
+| snakes-and-ladders | 909. Snakes And Ladders | Medium | python3 | [Problem](https://leetcode.com/problems/snakes-and-ladders/) | [Solution](./solutions/Medium/0909-snakes-and-ladders/solution.py) |
+| smallest-range-ii | 910. Smallest Range Ii | Medium | python3 | [Problem](https://leetcode.com/problems/smallest-range-ii/) | [Solution](./solutions/Medium/0910-smallest-range-ii/solution.py) |
+| sort-an-array | 912. Sort An Array | Medium | python3 | [Problem](https://leetcode.com/problems/sort-an-array/) | [Solution](./solutions/Medium/0912-sort-an-array/solution.py) |
+| partition-array-into-disjoint-intervals | 915. Partition Array Into Disjoint Intervals | Medium | python3 | [Problem](https://leetcode.com/problems/partition-array-into-disjoint-intervals/) | [Solution](./solutions/Medium/0915-partition-array-into-disjoint-intervals/solution.py) |
+| sum-game | 1927. Sum Game | Medium | python3 | [Problem](https://leetcode.com/problems/sum-game/) | [Solution](./solutions/Medium/1927-sum-game/solution.py) |
+| removing-minimum-and-maximum-from-array | 2091. Removing Minimum And Maximum From Array | Medium | python3 | [Problem](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/) | [Solution](./solutions/Medium/2091-removing-minimum-and-maximum-from-array/solution.py) |
+| minimum-moves-to-clean-the-classroom | 3568. Minimum Moves To Clean The Classroom | Medium | python3 | [Problem](https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/) | [Solution](./solutions/Medium/3568-minimum-moves-to-clean-the-classroom/solution.py) |
+| construct-uniform-parity-array-ii | 3876. Construct Uniform Parity Array Ii | Medium | python3 | [Problem](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | [Solution](./solutions/Medium/3876-construct-uniform-parity-array-ii/solution.py) |
 | validate-stack-sequences | Validate Stack Sequences | Medium | python | [Problem](https://leetcode.com/problems/validate-stack-sequences/) | [Solution](./solutions/Medium/0946-validate-stack-sequences/solution.py) |
 | vertical-order-traversal-of-a-binary-tree | Vertical Order Traversal of a Binary Tree | Hard | java | [Problem](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | [Solution](./solutions/Hard/0987-vertical-order-traversal-of-a-binary-tree/solution.java) |
 | vowel-spellchecker | Vowel Spellchecker | Medium | python | [Problem](https://leetcode.com/problems/vowel-spellchecker/) | [Solution](./solutions/Medium/0966-vowel-spellchecker/solution.py) |
